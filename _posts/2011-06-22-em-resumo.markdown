@@ -1,0 +1,56 @@
+---
+comments: true
+date: 2011-06-22 12:27:49
+layout: post
+slug: em-resumo
+title: Em resumo...
+wordpress_id: 857
+categories:
+- Idéias
+---
+
+Este post pretende ser o primeiro de um grande movimento de retomada da atividade blogueira. Sim, porque bastou o Editor Chefe se distanciar um pouco, que quase nenhum post foi publicado neste espaço já consagrado pela crítica internacional.
+
+Tenho vários assuntos que merecem uma notinha por aqui, todos eles diretamente ligados às minhas atividades dos últimos meses. Então, antes de mais nada, quero fazer um resumo de alguns fatos importantes.
+
+
+## Fato 0:
+
+
+Virei pai do Rafael!
+
+
+
+
+## Fato 1:
+
+
+Em setembro do ano passado, comecei a trabalhar no [Apontador](http://apontador.com.br)! Este era um movimento que eu já estava ensaiando há algum tempo: ter uma experiência em uma empresa .COM. Eu tinha algumas ideias pré-concebidas de como seria trabalhar em lugar como esses, boa parte devido ao imaginário coletivo ligado a empresas como Google.
+
+O meu "relacionamento" com o Apontador começou de uma forma peculiar: antes de eu trabalhar para eles, eles eram meus "clientes". Ou melhor: eram (e ainda são) usuários assíduos do [Job4Dev](http://job4dev.com). Isso me permitiu ter um primeiro contato com a cultura e o ambiente da empresa. E claro, me permitiu ter um bom contato com o RH. Um belo dia, decidi enviar meu currículo. E não é que deu certo?
+
+Entrei no projeto da [API Apontador](http://api.apontador.com.br), que na época estava sendo lançada. Quando entrei, assumi a bucha de desenvolvimento 100%. A equipe era formada por apenas duas pessoas: eu e o P.O, o Chester. Foi muito bom poder desenvolver um produto aberto, para usuário final, que seria utilizado por milhares de programadores por este mundão de meu Deus. Questões como qualidade, agilidade no processo, simplicidade de uso e real utilidade estavam constantemente na pauta do dia a dia. Não que não estivessem nos meus projetos anteriores. Mas sabemos como aplicações corporativas as vezes colocam essas coisas óbvias em segundo plano.
+
+Tudo muito bem, tudo muito bom. Estava feliz, curtindo o ambiente e as pessoas com quem trabalhava. Mas aí veio o...
+
+
+
+
+## Fato 2:
+
+
+Se eu fosse daqueles profissionais ultra organizados e meticulosos, e tivesse um plano de carreira bem definido, com metas e deadlines, eu diria que depois da experiência em empresas .COM, a minha meta seguinte seria virar empreendedor por completo. Ou seja: viver e trabalhar full time no meu próprio projeto. Mas sempre tinha aquelas questões secundárias como renda, contas a pagar (que aumentaram consideravelmente após o fato 0) e outras responsabilidades mundanas.
+
+Haviam candidatos a projeto fulltime: [Job4Dev](http://job4dev.com) e [SigaSeuTime](http://siga.st) tinham potencial. E eu realmente estava acreditando que o SigaSeuTime era o que tinha mais chances de dar certo. Afinal, já tínhamos receita, uma base de usuários crescente, alguns clientes recorrentes...
+
+E aí, um milagre aconteceu: o milagre do networking.
+
+Meus sócios, pessoas de sucesso e com vários contatos interessantes, conheciam um cara. E esse cara tinha o hábito de investir em projetos em conjunto com um outro cara. Ambos os caras já tem o seu nome no hall da internet brasileira. E não é que eles gostaram do SigaSeuTime?  Foram alguns meses de negociações, até que a boa notícia veio: habemus recursos para manter uma equipe pequena, que me inclui, desenvolvendo e respirando o produto. \0/
+
+Estamos em plenos trâmites burocráticos, mas eu já tomei o primeiro passo: saí do Apontador e estou dedicado. Realmente espero que este seja o marco inicial de um novo tipo de carreira e estilo de vida. Projetos não faltam, e o horizonte do Siga é bem promissor.
+
+É isso.
+
+Em breve, mais notícias.
+
+

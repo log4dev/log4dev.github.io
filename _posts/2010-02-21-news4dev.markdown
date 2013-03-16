@@ -1,0 +1,17 @@
+---
+comments: true
+date: 2010-02-21 17:22:33
+layout: post
+slug: news4dev
+title: News4Dev
+wordpress_id: 728
+categories:
+- Notícias
+- Produto
+---
+
+Um dos objetivos da família 4Dev é oferecer um conjunto de ferramentas e plataformas onde profissionais de TI se encontrem e troquem informações. E é nesta linha que adicionamos mais um sistema: o [news4dev](http://news.log4dev.com/).
+
+A idéia é simples: os usuários enviam links, e o sistema permite que outras pessoas votem nas notícias favoritas e comentem. Um misto de forum com sistema de recomendação.
+
+Quanto mais gente participar, melhor.

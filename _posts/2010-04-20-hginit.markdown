@@ -1,0 +1,21 @@
+---
+comments: true
+date: 2010-04-20 13:02:50
+layout: post
+slug: hginit
+title: HgInit
+wordpress_id: 736
+categories:
+- Ferramentas
+- Tutorial
+---
+
+Eu já [twittei](http://twitter.com/log4dev/status/9870112215) sobre isso, e já salvei no [del.icio.us do Log4Dev](http://delicious.com/log4dev). Mas dada a qualidade do material, acho que vale a pena comentar rapidamente aqui. O **Joel Spolsky **escreveu um excelente artigo/tutorial sobre o [Mercurial](http://mercurial.selenic.com/), sistema de controle de versão distribuído (DCVS para os íntimos) que anda na moda ultimamente.
+
+[![Hg Init](http://log4dev.com/wp-content/uploads/2010/04/hg.jpeg)](http://log4dev.com/wp-content/uploads/2010/04/hg.jpeg)
+
+O endereço é [http://hginit.com](http://hginit.com). O conteúdo serve tanto para aqueles que já se convenceram da utilidade e precisam entender o modus operandi (que foi o meu caso), como para os céticos que não deram muita bola e precisam ser convencidos.
+
+E acreditem: o texto convenceu até **The One Who Can't Be Named**.
+
+Não é pouca porcaria não....

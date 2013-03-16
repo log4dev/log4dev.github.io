@@ -1,0 +1,22 @@
+---
+comments: true
+date: 2010-06-08 06:05:53
+layout: post
+slug: teste
+title: Teste
+wordpress_id: 740
+---
+
+Estou testando o sistema de criacão de _widgets_ html com informacão sobre empresas cadastradas no banco de dados do job4dev.
+
+Provavelmente, não vai funcionar em leitores de RSS como o Google Reader, já que é necessário o uso de Javascript. Mas quem estiver acessando o site diretamente vai poder ver um resumo com informacões sobre o job4dev, logo abaixo.
+
+Basta adicionar o código:
+
+`<div class="j4d_widget">
+<script src="http://job4dev.com/company/scripts/job4dev/widget" type="text/javascript"></script>
+</div>
+`
+
+Para termos:
+
