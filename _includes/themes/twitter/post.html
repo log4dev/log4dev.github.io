@@ -13,14 +13,6 @@
       {{ content }}
     </div>
 
-  {% unless page.categories == empty %}
-    <ul class="tag_box inline">
-      <li><i class="icon-folder-open"></i></li>
-      {% assign categories_list = page.categories %}
-      {% include JB/categories_list %}
-    </ul>
-  {% endunless %}  
-
   {% unless page.tags == empty %}
     <ul class="tag_box inline">
       <li><i class="icon-tags"></i></li>
@@ -29,8 +21,17 @@
     </ul>
   {% endunless %}  
 
-    <hr>
-    <div class="pagination">
+	<hr/>
+	
+	<strong>Artigos Relacionados</strong>
+	<br>
+	<ul>
+	{% for post in site.related_posts limit:5 %}
+		<li><a href="{{ BASE_PATH }}{{ post.url }}">{{post.title}}</a></li>
+	{% endfor %}
+	</ul>
+	
+    <div class="pagination" style="text-align: center;">
       <ul>
       {% if page.previous %}
         <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Artigo anterior</a></li>
