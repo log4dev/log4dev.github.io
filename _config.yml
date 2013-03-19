@@ -10,12 +10,17 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Log4Dev
-tagline: Site Tagline
-author :
-  name : Miguel Galves
-  email : mgalves@gmail.com
-  github : mgalves
-  twitter : mgalves
+tagline: Technologia, Cultura, Empreemdedorismo, Inovacao e algo mais.
+authors:
+  mgalves:
+    name : Miguel Galves
+    email : mgalves@gmail.com
+    github : mgalves
+    twitter : mgalves
+  lullis:
+    name: Raphael Lullis
+    email: lullis@gmail.com
+    github: lullis
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
