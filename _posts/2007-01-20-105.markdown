@@ -1,0 +1,16 @@
+---
+author: laggarcia
+comments: true
+date: 2007-01-20 02:10:26
+layout: post
+slug: '105'
+title: None
+wordpress_id: 105
+categories:
+- Desenvolvimento
+- Humor
+tags:
+- Engenharia de Software
+---
+
+[![Miracle]({{BASE_PATH}}images/2007-01-20-105/miracle.jpg)]({{BASE_PATH}}images/2007-01-20-105/miracle.jpg)

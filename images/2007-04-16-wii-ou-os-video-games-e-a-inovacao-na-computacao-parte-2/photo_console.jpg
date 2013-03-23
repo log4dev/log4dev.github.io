@@ -1,0 +1,1921 @@
+
+    
+    
+
+    
+
+
+    
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8" />
+		<meta NAME="keywords" CONTENT="Nintendo, Nintendo of America, Wii, Wii Console" />
+		<meta NAME="locale" CONTENT="en_US" />
+		
+		<link rel="shortcut icon" href="/images/icons/favicon.ico" type="image/vnd.microsoft.icon" />
+		<link href="/css/global.css" rel="stylesheet" type="text/css" />
+		<link href="/css/pages/wii/wii.css" rel="stylesheet" type="text/css" />
+		<link href="/css/pages/wii/home.css" rel="stylesheet" type="text/css" />
+		
+		
+		
+
+
+		
+
+
+
+	<script xmlns:jx="http://apache.org/cocoon/templates/jx/1.0" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" src="/js/jquery/jquery.js" type="text/javascript"> </script>
+
+	<script src="/js/jquery/plugins/jquery.cookie.js" type="text/javascript"> </script>
+
+	<script src="/js/omniture-init.js" type="text/javascript"> </script>
+
+	<script src="/js/omniture.js" type="text/javascript"> </script>
+
+	<script src="/js/global.js" type="text/javascript"> </script>
+
+	<script src="/js/foresee/foresee-trigger.js" type="text/javascript"> </script>
+
+
+
+	<script src="/js/jquery/plugins/jquery.prettyPhoto.js" type="text/javascript"> </script>
+	
+
+
+		
+		<title>Wii Official Site at Nintendo</title>
+		<meta name="description" content="Learn all about the Wii console here at Nintendo's official site. Get info on Wii features, browse Wii games, accessories, watch videos, and more." />
+		<meta property="fb:admins" content="511488627" /> 
+		<meta property="og:title" content="Wii Official Site at Nintendo" />
+		<meta property="og:type" content="game" />
+		<meta property="og:url" content="http://www.nintendo.com/wii" />
+		<meta property="og:image" content="http://www.nintendo.com/images/wii/wii_fb_image.jpg" />
+		<meta property="og:description" content="Learn all about the Wii console here at Nintendo's official site. Get info on Wii features, browse Wii games, accessories, watch videos, and more." /> 
+	</head>
+
+	<body>
+	
+		
+	    
+		<div id="wrapper">
+			
+			
+
+
+
+
+
+ 
+
+
+<script xmlns:jx="http://apache.org/cocoon/templates/jx/1.0" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" language="javascript">
+function clearText(thefield){
+if (thefield.defaultValue==thefield.value)
+thefield.value = ""
+} 
+</script>
+<div id="globalNavigation">
+	<div id="primaryNav">
+		<a id="btn-mobileopen" href="#open"> </a>
+
+		<h1><a href="/"> </a></h1>
+		<ul>
+		<li class="major wiiu"><a href="/wiiu">Wii U</a></li>
+		<li class="major wii"><a href="/wii">Wii</a></li>
+		<li class="major n3ds"><a href="/3ds">Nintendo 3DS</a></li>
+		<li class="major ds"><a href="/ds">Nintendo DS</a></li>
+		<li class="major games"><a href="/games">Games</a></li>
+		
+		<li class="major club"><a href="http://club.nintendo.com/">Club Nintendo</a></li>
+		<li class="major support"><a href="/consumer">Support</a></li>
+		
+		<li id="search-container" class="major">
+			<form action="/search" id="globalSearch" method="post">
+				
+				<input id="globalSearchKeyword" type="text" value="Search" onFocus="clearText(this)" autosave="ncom_search" placeholder="Search" name="keyword" />
+				
+				<input class="submit" src="/images/interface/global_header/search-btn.png" type="image" value="Search" />
+			</form>
+		</li>
+		
+		</ul>
+		
+	</div>
+	
+</div>
+<div id="globalnav-spacer"> </div>
+
+
+
+
+			
+
+	<ul xmlns:jx="http://apache.org/cocoon/templates/jx/1.0" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" id="navigation">
+					<h1><a href="/wii/">Wii</a></h1>
+					<li id="nav-left-edge" />
+					<li id="nav-main"><a href="/wii/">Main</a></li>
+					<li id="nav-whatis"><a href="/wii/what-is-wii/">What is Wii?</a></li>
+					<li id="nav-builtin"><a href="/wii/built-in-entertainment/">Built-in Entertainment</a></li>
+					<li id="nav-enhanceyourwii"><a href="/wii/enhance/">Enhance Your Wii</a></li>
+					<li id="nav-wii101"><a href="/wii/faq/">Wii 101</a></li>
+					<li id="nav-buy"><a href="/wii/buynow">Buy Now</a></li>
+					<li id="nav-right-edge" />
+					<div class="clear-thin"> </div>
+			</ul>
+
+
+			
+         
+			<div id="promo">
+				<div class="center-content"> <span>
+						<h2>Wii is more </h2>
+						<h3>than a game machine.</h3>
+						Wii is social and active entertainment <br />
+						that brings the whole family together. <br />
+						Power-up your family game night with the Wii™ system. <a class="btn-213x51" href="/wii/what-is-wii/">LEARN MORE</a> </span> </div>
+		</div>
+		<div id="promo2">
+				<div class="center-content">
+						<h3>Wii is great fun<br />
+								right out of the box. <a class="btn-213x51 clear" href="/wii/buynow">BUY NOW</a> </h3>
+						<img id="promo-wii" src="../../images/wii/home/promo2-wii.png" /> </div>
+		</div>
+		<div id="middle-container">
+				<div id="middle-shadow">
+						<div id="main-container" class="center-content"> 
+								
+								
+								
+								<h2 id="txt-games-that-are">Show me games that are...</h2>
+								<div id="gamelist-menu">
+									<div id="gamelist-left-edge"> </div>
+									<a id="gamelist-txt">
+										<ul id="btn-gamelist-selection">
+										
+											
+												
+												<li>new and upcoming</li>
+											
+												
+												<li>best-selling</li>
+											
+												
+												<li>value games</li>
+											
+										
+										</ul> 
+									</a>
+									<a id="btn-seeallgames" href="/games/gameGuide?system=wii&amp;purchase=retail">See All Games</a>
+								</div>
+								
+								
+								
+								<div class="clear-thin"> </div>
+								<div id="gameslist-games-container" class="clear">
+								
+									
+																	
+									<ul id="gamelist-new and upcoming" class="game-list">
+										
+											
+												
+
+
+		
+	
+	
+	
+	
+	
+			
+										
+	
+	
+			
+		
+	
+		
+		
+		
+		
+	
+	
+	
+	<li class=""><a class="boxart btn-game-link" href="http://www.nintendo.com/games/detail/HRw9pz9j3N0BcqZwK5OeDKgSTS59CobB" title="The Croods: Prehistoric Party!"><div class="xtra-overlay"> </div><div class="cta-overlay">Click here to <br /><span>learn more</span></div><img src="http://media.nintendo.com/nintendo/bin/hj71jCJS8jcpUB3F0MMeK7iOcZDhM_am/mjmFL4i4RiKEwXAuLoDj92nXhThuciQR.jpg" /></a><div class="txt">The Croods: Prehistoric Party!</div>
+			<div class="btn-container">
+					
+					    								
+						
+								
+							
+							<a class="btn-161x41 btn-video" href="/popup/video?url=http://media.nintendo.com/nintendo/bin/QsItMifZtQPSUlCmfgkqoENLVZs9hOTm/AN6g9mKfi5ePvRAwmuyxSZiSJ5gRqil5.mp4&amp;autoplay=true&amp;color=blue&amp;title=The Croods: Prehistoric Party!&amp;omniture=live&amp;playerLocation=pop-up&amp;iframe=true" title="The Croods: Prehistoric Party!">WATCH TRAILER <img class="playbtn" src="/images/wii/button_play_icon.png" /></a>							
+						
+					
+			</div>
+			
+		<div class="addthis_toolbox addthis_default_style">
+			<a class="addthis_button_facebook_like"> </a>
+			<a class=""> </a>							
+		</div>
+														
+	</li>
+	
+	
+
+
+
+											
+												
+
+
+		
+	
+	
+	
+	
+	
+			
+										
+	
+	
+			
+		
+	
+		
+		
+		
+		
+	
+	
+	
+	<li class=""><a class="boxart btn-game-link" href="http://www.nintendo.com/games/detail/Z0VKr1V6lN6Ryv8xTBcYZKnyApRTrEcR" title="Disney Epic Mickey 2: The Power of Two"><div class="xtra-overlay"> </div><div class="cta-overlay">Click here to <br /><span>learn more</span></div><img src="http://media.nintendo.com/nintendo/bin/2q94V1aNlh7lmqqXD9N3H81TlLCg6wsQ/z89zHb7Z-8rZhWU9_lPGBnMbtQLyLrtl.jpg" /></a><div class="txt">Disney Epic Mickey 2: The Power of Two</div>
+			<div class="btn-container">
+				
+						
+								
+							<a class="btn-161x41 btn-video" href="/popup/video?url=Z5anc2NTp4NoTQ9iIJhVPl8bZXedkybI&amp;title=true&amp;autoplay=true&amp;color=wii&amp;iframe=true" title="Disney Epic Mickey 2: The Power of Two">WATCH TRAILER <img class="playbtn" src="/images/wii/button_play_icon.png" /></a>
+						
+					
+			</div>
+			
+		<div class="addthis_toolbox addthis_default_style">
+			<a class="addthis_button_facebook_like"> </a>
+			<a class=""> </a>							
+		</div>
+														
+	</li>
+	
+	
+
+
+
+											
+												
+
+
+		
+	
+	
+	
+	
+	
+			
+										
+	
+	
+			
+		
+	
+		
+		
+		
+		
+	
+	
+	
+	<li class=""><a class="boxart btn-game-link" href="http://www.nintendo.com/games/detail/7Yaa37oT6hkq5BoHA4K-_E048tYAbX-2" title="KARAOKE JOYSOUND"><div class="xtra-overlay"> </div><div class="cta-overlay">Click here to <br /><span>learn more</span></div><img src="http://media.nintendo.com/nintendo/bin/WuQYW7BH80t4i0fgYTNQiqm-CpbGCQ9n/wJ2gmgP7zA7ZhpPHln4GAk9vw9kbPvut.jpg" /></a><div class="txt">KARAOKE JOYSOUND</div>
+			<div class="btn-container">
+					
+					    								
+						
+								
+							
+							<a class="btn-161x41 btn-video" href="/popup/video?url=http://media.nintendo.com/nintendo/bin/BOoEseAT9hL4Ss1E-hjLOVWpntSd8qY7/SUIBI-ikQ8qpbqYpNM6F1DnJDHxTc2PJ.mp4&amp;autoplay=true&amp;color=blue&amp;title=KARAOKE JOYSOUND&amp;omniture=live&amp;playerLocation=pop-up&amp;iframe=true" title="KARAOKE JOYSOUND">WATCH TRAILER <img class="playbtn" src="/images/wii/button_play_icon.png" /></a>							
+						
+					
+			</div>
+			
+		<div class="addthis_toolbox addthis_default_style">
+			<a class="addthis_button_facebook_like"> </a>
+			<a class=""> </a>							
+		</div>
+														
+	</li>
+	
+	
+
+
+
+											
+												
+
+
+		
+	
+	
+	
+	
+	
+			
+										
+	
+	
+			
+		
+	
+		
+		
+		
+		
+			
+			
+				
+					
+				
+			
+		
+	
+	
+	
+	<li class=""><a class="boxart btn-game-link" href="http://kirby.nintendo.com/dreamcollection/" title="Kirby's Dream Collection Special Edition"><div class="xtra-overlay"> </div><div class="cta-overlay">Click here to <br /><span>learn more</span></div><img src="http://media.nintendo.com/nintendo/bin/4ccSLdtGj2zAjkHUXa_fmVT4dY2T9lCn/Y9Kq7VsgYqTNidiJXmbebtdCHjYOAyQL.jpg" /></a><div class="txt">Kirby's Dream Collection Special Edition</div>
+			<div class="btn-container">
+				
+						
+								
+							<a class="btn-161x41 btn-video" href="/popup/video?url=dkdXlpNTqya3jy3MMJxkRA4MyIBho_vp&amp;title=true&amp;autoplay=true&amp;color=wii&amp;iframe=true" title="Kirby's Dream Collection Special Edition">WATCH TRAILER <img class="playbtn" src="/images/wii/button_play_icon.png" /></a>
+						
+					
+			</div>
+			
+		<div class="addthis_toolbox addthis_default_style">
+			<a class="addthis_button_facebook_like"> </a>
+			<a class=""> </a>							
+		</div>
+														
+	</li>
+	
+	
+
+
+
+											
+												
+
+
+		
+	
+	
+	
+	
+	
+			
+										
+	
+	
+			
+		
+	
+		
+		
+		
+		
+	
+	
+	
+	<li class=""><a class="boxart btn-game-link" href="http://www.nintendo.com/games/detail/dn1FUCF0h2gv6tznvRW_P6Okn6wU_1ck" title="Just Dance 4"><div class="xtra-overlay"> </div><div class="cta-overlay">Click here to <br /><span>learn more</span></div><img src="http://media.nintendo.com/nintendo/bin/hxXIF1s4Dohzw1OqoVw_sGpTnhNjAEHA/fB0qeJtpJfWwMbFyXboudhYYigbklbfl.jpg" /></a><div class="txt">Just Dance 4</div>
+			<div class="btn-container">
+				
+						<a class="btn-161x41-alt btn-game-link" href="http://www.nintendo.com/games/detail/dn1FUCF0h2gv6tznvRW_P6Okn6wU_1ck" title="Just Dance 4">LEARN MORE</a>
+					
+			</div>
+			
+		<div class="addthis_toolbox addthis_default_style">
+			<a class="addthis_button_facebook_like"> </a>
+			<a class=""> </a>							
+		</div>
+														
+	</li>
+	
+	
+
+
+
+											
+												
+
+
+		
+	
+	
+	
+	
+	
+			
+										
+	
+	
+			
+		
+	
+		
+		
+		
+		
+	
+	
+	
+	<li class=""><a class="boxart btn-game-link" href="http://www.nintendo.com/games/detail/0YZWyVPb_KgflAlzsr0PGwYq2JgmGBIM" title="NASCAR THE GAME: INSIDE LINE"><div class="xtra-overlay"> </div><div class="cta-overlay">Click here to <br /><span>learn more</span></div><img src="http://media.nintendo.com/nintendo/bin/5t965SnRfqDfJlVuY640YlermAWGEhFQ/mXlWu9E67glK_slnWYzLXYgjMLvZyG-d.jpg" /></a><div class="txt">NASCAR THE GAME: INSIDE LINE</div>
+			<div class="btn-container">
+				
+						<a class="btn-161x41-alt btn-game-link" href="http://www.nintendo.com/games/detail/0YZWyVPb_KgflAlzsr0PGwYq2JgmGBIM" title="NASCAR THE GAME: INSIDE LINE">LEARN MORE</a>
+					
+			</div>
+			
+		<div class="addthis_toolbox addthis_default_style">
+			<a class="addthis_button_facebook_like"> </a>
+			<a class=""> </a>							
+		</div>
+														
+	</li>
+	
+	
+
+
+
+											
+												
+
+
+		
+	
+	
+	
+	
+	
+			
+										
+	
+	
+			
+		
+	
+		
+		
+		
+		
+	
+	
+	
+	<li class=""><a class="boxart btn-game-link" href="http://www.nintendo.com/games/detail/uy_eMdOnM-Q1WdIp_odF-kxoQ_TWiEm9" title="Skylanders Giants"><div class="xtra-overlay"> </div><div class="cta-overlay">Click here to <br /><span>learn more</span></div><img src="http://media.nintendo.com/nintendo/bin/a2WynP783LqqGI6th9I7QqXbmpprubtY/HFn-m9A4SZREkq_3VmaQomG-FdmAKgME.jpg" /></a><div class="txt">Skylanders Giants</div>
+			<div class="btn-container">
+					
+					    								
+						
+								
+							
+							<a class="btn-161x41 btn-video" href="/popup/video?url=http://media.nintendo.com/nintendo/bin/GElnJu10QOqI0gzSE9K7e5m-ZSPnWLEB/ckT41rXndfVcJ6Z7M8gZljLxqNBrTlpq.mp4&amp;autoplay=true&amp;color=blue&amp;title=Skylanders Giants&amp;omniture=live&amp;playerLocation=pop-up&amp;iframe=true" title="Skylanders Giants">WATCH TRAILER <img class="playbtn" src="/images/wii/button_play_icon.png" /></a>							
+						
+					
+			</div>
+			
+		<div class="addthis_toolbox addthis_default_style">
+			<a class="addthis_button_facebook_like"> </a>
+			<a class=""> </a>							
+		</div>
+														
+	</li>
+	
+	
+
+
+
+											
+												
+
+
+		
+	
+	
+	
+	
+	
+			
+										
+	
+	
+			
+		
+	
+		
+		
+		
+		
+	
+	
+	
+	<li class=""><a class="boxart btn-game-link" href="http://www.nintendo.com/games/detail/XTh6hCN8ulvP69aR3j45BYi63ymq2PuB" title="Zumba Fitness Core"><div class="xtra-overlay"> </div><div class="cta-overlay">Click here to <br /><span>learn more</span></div><img src="http://media.nintendo.com/nintendo/bin/4-dp6QE73ZXVKEtJOFKPg4qg1ByP7fEc/mT1Oo5KbHOFk8C6Wy23p5Q4fzKDv3doy.jpg" /></a><div class="txt">Zumba Fitness Core</div>
+			<div class="btn-container">
+					
+					    								
+						
+								
+							
+							<a class="btn-161x41 btn-video" href="/popup/video?url=http://media.nintendo.com/nintendo/bin/HQJY7oEiCgxc2C5z5Ws2AiapoB-O2FJL/ApfzuwdahhItFZvlj3RL6kDd8IJ_vnQ0.mp4&amp;autoplay=true&amp;color=blue&amp;title=Zumba Fitness Core&amp;omniture=live&amp;playerLocation=pop-up&amp;iframe=true" title="Zumba Fitness Core">WATCH TRAILER <img class="playbtn" src="/images/wii/button_play_icon.png" /></a>							
+						
+					
+			</div>
+			
+		<div class="addthis_toolbox addthis_default_style">
+			<a class="addthis_button_facebook_like"> </a>
+			<a class=""> </a>							
+		</div>
+														
+	</li>
+	
+	
+
+
+
+											
+												
+
+
+		
+	
+	
+	
+	
+	
+			
+										
+	
+	
+			
+		
+	
+		
+		
+		
+		
+	
+	
+	
+	<li class=""><a class="boxart btn-game-link" href="http://www.nintendo.com/games/detail/EMu_5IDPikbU96pDEKiZ0lX-kmihXvlu" title="LEGO The Lord of the Rings"><div class="xtra-overlay"> </div><div class="cta-overlay">Click here to <br /><span>learn more</span></div><img src="http://media.nintendo.com/nintendo/bin/mWq6YRNqfRbTFHtYdNrXj9vVJ6gpJt3q/fAgLDawK6_YEU-klNOFkZavVaL9DdyWX.jpg" /></a><div class="txt">LEGO The Lord of the Rings</div>
+			<div class="btn-container">
+					
+					    								
+						
+								
+							
+							<a class="btn-161x41 btn-video" href="/popup/video?url=http://media.nintendo.com/nintendo/bin/LvOfGBqUraXlZ4Xkx3canNiTpP8RQCmS/SebAkB6ktnw3zpkgokuaWHcM7iXuz6r9.mp4&amp;autoplay=true&amp;color=blue&amp;title=LEGO The Lord of the Rings&amp;omniture=live&amp;playerLocation=pop-up&amp;iframe=true" title="LEGO The Lord of the Rings">WATCH TRAILER <img class="playbtn" src="/images/wii/button_play_icon.png" /></a>							
+						
+					
+			</div>
+			
+		<div class="addthis_toolbox addthis_default_style">
+			<a class="addthis_button_facebook_like"> </a>
+			<a class=""> </a>							
+		</div>
+														
+	</li>
+	
+	
+
+
+
+											
+												
+
+
+		
+	
+	
+	
+	
+	
+			
+										
+	
+	
+			
+		
+	
+		
+		
+		
+		
+	
+	
+	
+	<li class=""><a class="boxart btn-game-link" href="http://www.nintendo.com/games/detail/g6GjZkeABXkyYy6fkqBhphYY6s5dyTaN" title="Cabela's Dangerous Hunts 2013"><div class="xtra-overlay"> </div><div class="cta-overlay">Click here to <br /><span>learn more</span></div><img src="http://media.nintendo.com/nintendo/bin/oFdt6OnYGq0WMlZX_ULx4tPoevzUphgt/v1L47ny54TxpCWS5Uz6JWj2vxFD--w2y.jpg" /></a><div class="txt">Cabela's Dangerous Hunts 2013</div>
+			<div class="btn-container">
+				
+						<a class="btn-161x41-alt btn-game-link" href="http://www.nintendo.com/games/detail/g6GjZkeABXkyYy6fkqBhphYY6s5dyTaN" title="Cabela's Dangerous Hunts 2013">LEARN MORE</a>
+					
+			</div>
+			
+		<div class="addthis_toolbox addthis_default_style">
+			<a class="addthis_button_facebook_like"> </a>
+			<a class=""> </a>							
+		</div>
+														
+	</li>
+	
+	
+
+
+
+											
+										
+									</ul>
+									
+								
+									
+																	
+									<ul id="gamelist-best-selling" class="game-list">
+										
+											
+												
+
+
+		
+	
+	
+	
+	
+	
+			
+										
+	
+	
+			
+		
+	
+		
+		
+		
+		
+	
+	
+	
+	<li class=""><a class="boxart btn-game-link" href="http://www.nintendo.com/games/detail/dn1FUCF0h2gv6tznvRW_P6Okn6wU_1ck" title="Just Dance 4"><div class="xtra-overlay"> </div><div class="cta-overlay">Click here to <br /><span>learn more</span></div><img src="http://media.nintendo.com/nintendo/bin/hxXIF1s4Dohzw1OqoVw_sGpTnhNjAEHA/fB0qeJtpJfWwMbFyXboudhYYigbklbfl.jpg" /></a><div class="txt">Just Dance 4</div>
+			<div class="btn-container">
+				
+						<a class="btn-161x41-alt btn-game-link" href="http://www.nintendo.com/games/detail/dn1FUCF0h2gv6tznvRW_P6Okn6wU_1ck" title="Just Dance 4">LEARN MORE</a>
+					
+			</div>
+			
+		<div class="addthis_toolbox addthis_default_style">
+			<a class="addthis_button_facebook_like"> </a>
+			<a class=""> </a>							
+		</div>
+														
+	</li>
+	
+	
+
+
+
+											
+												
+
+
+		
+	
+	
+	
+	
+	
+			
+										
+	
+	
+			
+		
+	
+		
+		
+		
+		
+			
+			
+				
+					
+				
+			
+		
+	
+	
+	
+	<li class=""><a class="boxart btn-game-link" href="http://www.mariokart.com/wii/launch/" title="Mario Kart Wii"><div class="xtra-overlay"> </div><div class="cta-overlay">Click here to <br /><span>learn more</span></div><img src="http://media.nintendo.com/nintendo/bin/TJEfc6gbuDqF1pVe8H09f7k4uoFF5E4a/b_HaU7SyOnlvlEIMWIJ7Wclj1ViC6BDP.jpg" /></a><div class="txt">Mario Kart Wii</div>
+			<div class="btn-container">
+				
+						
+								
+							<a class="btn-161x41 btn-video" href="/popup/video?url=NwY3lpNTpOA7PZLtj74Upuqyyx7HyxSi&amp;title=true&amp;autoplay=true&amp;color=wii&amp;iframe=true" title="Mario Kart Wii">WATCH TRAILER <img class="playbtn" src="/images/wii/button_play_icon.png" /></a>
+						
+					
+			</div>
+			
+		<div class="addthis_toolbox addthis_default_style">
+			<a class="addthis_button_facebook_like"> </a>
+			<a class=""> </a>							
+		</div>
+														
+	</li>
+	
+	
+
+
+
+											
+												
+
+
+		
+	
+	
+	
+	
+	
+			
+										
+	
+	
+			
+		
+	
+		
+		
+		
+		
+			
+			
+				
+					
+				
+			
+		
+	
+	
+	
+	<li class=""><a class="boxart btn-game-link" href="http://mariobroswii.com" title="New Super Mario Bros. Wii"><div class="xtra-overlay"> </div><div class="cta-overlay">Click here to <br /><span>learn more</span></div><img src="http://media.nintendo.com/nintendo/bin/HQCN8Xor0fQXgozAdpw3Jd4byGGt5s4U/D1D9O3gkso-YKbEUkYbHg_TNIv7uKM4N.jpg" /></a><div class="txt">New Super Mario Bros. Wii</div>
+			<div class="btn-container">
+				
+						
+								
+							<a class="btn-161x41 btn-video" href="/popup/video?url=poNXg2NTqfhXEkAWtz6b0UAGTsAuouv2&amp;title=true&amp;autoplay=true&amp;color=wii&amp;iframe=true" title="New Super Mario Bros. Wii">WATCH TRAILER <img class="playbtn" src="/images/wii/button_play_icon.png" /></a>
+						
+					
+			</div>
+			
+		<div class="addthis_toolbox addthis_default_style">
+			<a class="addthis_button_facebook_like"> </a>
+			<a class=""> </a>							
+		</div>
+														
+	</li>
+	
+	
+
+
+
+											
+												
+
+
+		
+	
+	
+	
+	
+	
+			
+										
+	
+	
+			
+		
+	
+		
+		
+		
+		
+	
+	
+	
+	<li class=""><a class="boxart btn-game-link" href="http://www.nintendo.com/games/detail/uy_eMdOnM-Q1WdIp_odF-kxoQ_TWiEm9" title="Skylanders Giants"><div class="xtra-overlay"> </div><div class="cta-overlay">Click here to <br /><span>learn more</span></div><img src="http://media.nintendo.com/nintendo/bin/a2WynP783LqqGI6th9I7QqXbmpprubtY/HFn-m9A4SZREkq_3VmaQomG-FdmAKgME.jpg" /></a><div class="txt">Skylanders Giants</div>
+			<div class="btn-container">
+					
+					    								
+						
+								
+							
+							<a class="btn-161x41 btn-video" href="/popup/video?url=http://media.nintendo.com/nintendo/bin/GElnJu10QOqI0gzSE9K7e5m-ZSPnWLEB/ckT41rXndfVcJ6Z7M8gZljLxqNBrTlpq.mp4&amp;autoplay=true&amp;color=blue&amp;title=Skylanders Giants&amp;omniture=live&amp;playerLocation=pop-up&amp;iframe=true" title="Skylanders Giants">WATCH TRAILER <img class="playbtn" src="/images/wii/button_play_icon.png" /></a>							
+						
+					
+			</div>
+			
+		<div class="addthis_toolbox addthis_default_style">
+			<a class="addthis_button_facebook_like"> </a>
+			<a class=""> </a>							
+		</div>
+														
+	</li>
+	
+	
+
+
+
+											
+												
+
+
+		
+	
+	
+	
+	
+	
+			
+										
+	
+	
+			
+		
+	
+		
+		
+		
+		
+			
+			
+				
+					
+				
+			
+		
+	
+	
+	
+	<li class=""><a class="boxart btn-game-link" href="http://www.nintendo.com/sites/supermariogalaxy/" title="Super Mario Galaxy"><div class="xtra-overlay"> </div><div class="cta-overlay">Click here to <br /><span>learn more</span></div><img src="http://media.nintendo.com/nintendo/bin/obffdnEwk6k9vMyLAQQIz5kkHrvVAyqr/bdHolKAS4wOajSnoYhqMqM8wlQO55jie.jpg" /></a><div class="txt">Super Mario Galaxy</div>
+			<div class="btn-container">
+				
+						
+								
+							<a class="btn-161x41 btn-video" href="/popup/video?url=1tZHlpNTpVei0N9PaEQ1qb-PaLJUFqrW&amp;title=true&amp;autoplay=true&amp;color=wii&amp;iframe=true" title="Super Mario Galaxy">WATCH TRAILER <img class="playbtn" src="/images/wii/button_play_icon.png" /></a>
+						
+					
+			</div>
+			
+		<div class="addthis_toolbox addthis_default_style">
+			<a class="addthis_button_facebook_like"> </a>
+			<a class=""> </a>							
+		</div>
+														
+	</li>
+	
+	
+
+
+
+											
+												
+
+
+		
+	
+	
+	
+	
+	
+			
+										
+	
+	
+			
+		
+	
+		
+		
+		
+		
+			
+			
+				
+					
+				
+			
+		
+	
+	
+	
+	<li class=""><a class="boxart btn-game-link" href="http://www.smashbros.com/en_us/index.html" title="Super Smash Bros. Brawl"><div class="xtra-overlay"> </div><div class="cta-overlay">Click here to <br /><span>learn more</span></div><img src="http://media.nintendo.com/nintendo/bin/zAy_00zXJv2UX_Dk5ioIseUUIhfpQUVr/nQwZ8_sB_ptbuX6bBpcsiR8NvFUPb3XH.jpg" /></a><div class="txt">Super Smash Bros. Brawl</div>
+			<div class="btn-container">
+				
+						<a class="btn-161x41-alt btn-game-link" href="http://www.smashbros.com/en_us/index.html" title="Super Smash Bros. Brawl">LEARN MORE</a>
+					
+			</div>
+			
+		<div class="addthis_toolbox addthis_default_style">
+			<a class="addthis_button_facebook_like"> </a>
+			<a class=""> </a>							
+		</div>
+														
+	</li>
+	
+	
+
+
+
+											
+												
+
+
+		
+	
+	
+	
+	
+	
+			
+										
+	
+	
+			
+		
+	
+		
+		
+		
+		
+	
+	
+	
+	<li class=""><a class="boxart btn-game-link" href="http://www.nintendo.com/games/detail/XTh6hCN8ulvP69aR3j45BYi63ymq2PuB" title="Zumba Fitness Core"><div class="xtra-overlay"> </div><div class="cta-overlay">Click here to <br /><span>learn more</span></div><img src="http://media.nintendo.com/nintendo/bin/4-dp6QE73ZXVKEtJOFKPg4qg1ByP7fEc/mT1Oo5KbHOFk8C6Wy23p5Q4fzKDv3doy.jpg" /></a><div class="txt">Zumba Fitness Core</div>
+			<div class="btn-container">
+					
+					    								
+						
+								
+							
+							<a class="btn-161x41 btn-video" href="/popup/video?url=http://media.nintendo.com/nintendo/bin/HQJY7oEiCgxc2C5z5Ws2AiapoB-O2FJL/ApfzuwdahhItFZvlj3RL6kDd8IJ_vnQ0.mp4&amp;autoplay=true&amp;color=blue&amp;title=Zumba Fitness Core&amp;omniture=live&amp;playerLocation=pop-up&amp;iframe=true" title="Zumba Fitness Core">WATCH TRAILER <img class="playbtn" src="/images/wii/button_play_icon.png" /></a>							
+						
+					
+			</div>
+			
+		<div class="addthis_toolbox addthis_default_style">
+			<a class="addthis_button_facebook_like"> </a>
+			<a class=""> </a>							
+		</div>
+														
+	</li>
+	
+	
+
+
+
+											
+												
+
+
+		
+	
+	
+	
+	
+	
+			
+										
+	
+	
+			
+		
+	
+		
+		
+		
+		
+			
+			
+				
+					
+				
+			
+		
+	
+	
+	
+	<li class=""><a class="boxart btn-game-link" href="http://donkeykong.nintendo.com/" title="Donkey Kong Country Returns"><div class="xtra-overlay"> </div><div class="cta-overlay">Click here to <br /><span>learn more</span></div><img src="http://media.nintendo.com/nintendo/bin/a2ho6zF5E-9hyp_6GUkxko0vncYCbpKg/PR2XdIicwCz33dLQ2ML4nJm-KumVEw1R.jpg" /></a><div class="txt">Donkey Kong Country Returns</div>
+			<div class="btn-container">
+				
+						
+								
+							<a class="btn-161x41 btn-video" href="/popup/video?url=psc3VlNTpuCbF2232GPmgJKiW9J0UzZj&amp;title=true&amp;autoplay=true&amp;color=wii&amp;iframe=true" title="Donkey Kong Country Returns">WATCH TRAILER <img class="playbtn" src="/images/wii/button_play_icon.png" /></a>
+						
+					
+			</div>
+			
+		<div class="addthis_toolbox addthis_default_style">
+			<a class="addthis_button_facebook_like"> </a>
+			<a class=""> </a>							
+		</div>
+														
+	</li>
+	
+	
+
+
+
+											
+												
+
+
+		
+	
+	
+	
+	
+	
+			
+										
+	
+	
+			
+		
+	
+		
+		
+		
+		
+	
+	
+	
+	<li class=""><a class="boxart btn-game-link" href="http://www.nintendo.com/games/detail/fgKaIGvVz4VRtl7NgEFRj0k2X3SFB2ZO" title="The Hip Hop Dance Experience"><div class="xtra-overlay"> </div><div class="cta-overlay">Click here to <br /><span>learn more</span></div><img src="http://media.nintendo.com/nintendo/bin/jUjWZ0OSWMaxOPP8JeCTAlN43sm4p8eX/73qZTrTsXtaGkDMsaG1KgGI2UYSnUhZ3.jpg" /></a><div class="txt">The Hip Hop Dance Experience</div>
+			<div class="btn-container">
+					
+					    								
+						
+								
+							
+							<a class="btn-161x41 btn-video" href="/popup/video?url=http://media.nintendo.com/nintendo/bin/n1kkMzLur21NkZOdSSU0rhu7FZzq56lq/QuaqOwQKO6tGiJhGxDmiIVrb8xTCdAWG.mp4&amp;autoplay=true&amp;color=blue&amp;title=The Hip Hop Dance Experience&amp;omniture=live&amp;playerLocation=pop-up&amp;iframe=true" title="The Hip Hop Dance Experience">WATCH TRAILER <img class="playbtn" src="/images/wii/button_play_icon.png" /></a>							
+						
+					
+			</div>
+			
+		<div class="addthis_toolbox addthis_default_style">
+			<a class="addthis_button_facebook_like"> </a>
+			<a class=""> </a>							
+		</div>
+														
+	</li>
+	
+	
+
+
+
+											
+												
+
+
+		
+	
+	
+	
+	
+	
+			
+										
+	
+	
+			
+		
+	
+		
+		
+		
+		
+	
+	
+	
+	<li class=""><a class="boxart btn-game-link" href="http://www.nintendo.com/games/detail/Z0VKr1V6lN6Ryv8xTBcYZKnyApRTrEcR" title="Disney Epic Mickey 2: The Power of Two"><div class="xtra-overlay"> </div><div class="cta-overlay">Click here to <br /><span>learn more</span></div><img src="http://media.nintendo.com/nintendo/bin/2q94V1aNlh7lmqqXD9N3H81TlLCg6wsQ/z89zHb7Z-8rZhWU9_lPGBnMbtQLyLrtl.jpg" /></a><div class="txt">Disney Epic Mickey 2: The Power of Two</div>
+			<div class="btn-container">
+				
+						
+								
+							<a class="btn-161x41 btn-video" href="/popup/video?url=Z5anc2NTp4NoTQ9iIJhVPl8bZXedkybI&amp;title=true&amp;autoplay=true&amp;color=wii&amp;iframe=true" title="Disney Epic Mickey 2: The Power of Two">WATCH TRAILER <img class="playbtn" src="/images/wii/button_play_icon.png" /></a>
+						
+					
+			</div>
+			
+		<div class="addthis_toolbox addthis_default_style">
+			<a class="addthis_button_facebook_like"> </a>
+			<a class=""> </a>							
+		</div>
+														
+	</li>
+	
+	
+
+
+
+											
+										
+									</ul>
+									
+								
+									
+																	
+									<ul id="gamelist-value games" class="game-list">
+										
+											
+												
+
+
+		
+	
+	
+	
+	
+	
+			
+										
+	
+	
+			
+		
+	
+		
+		
+		
+		
+			
+			
+		
+	
+	
+	
+	<li class=""><a class="boxart btn-game-link" href="http://www.nintendo.com/games/detail/jLADGD1l9KXSDdchgOVLLYZL08zsEUaj" title="Mario Power Tennis"><div class="xtra-overlay"> </div><div class="cta-overlay">Click here to <br /><span>learn more</span></div><img src="http://media.nintendo.com/nintendo/bin/IqmIotomO_2mQHft0RNo-gLbUYy5uh60/xJOO9dNoKaMDCRUWifDm0b8Kyti7xOZD.jpg" /></a><div class="txt">Mario Power Tennis</div>
+			<div class="btn-container">
+				
+						<a class="btn-161x41-alt btn-game-link" href="http://www.nintendo.com/games/detail/jLADGD1l9KXSDdchgOVLLYZL08zsEUaj" title="Mario Power Tennis">LEARN MORE</a>
+					
+			</div>
+			
+		<div class="addthis_toolbox addthis_default_style">
+			<a class="addthis_button_facebook_like"> </a>
+			<a class=""> </a>							
+		</div>
+														
+	</li>
+	
+	
+
+
+
+											
+												
+
+
+		
+	
+	
+	
+	
+	
+			
+										
+	
+	
+			
+		
+	
+		
+		
+		
+		
+			
+			
+				
+					
+				
+			
+		
+	
+	
+	
+	<li class=""><a class="boxart btn-game-link" href="http://pikmin2.nintendo.com" title="Pikmin 2"><div class="xtra-overlay"> </div><div class="cta-overlay">Click here to <br /><span>learn more</span></div><img src="http://media.nintendo.com/nintendo/bin/K8BW_7WcVczw5xJct0vVU60F2tGKPNNP/Gfg_KslHZdJucUkuT_USEUXArCFKlhh3.jpg" /></a><div class="txt">Pikmin 2</div>
+			<div class="btn-container">
+				
+						
+								
+							<a class="btn-161x41 btn-video" href="/popup/video?url=RsdXlpNTqhXlIz3tUP-OiaErIKUNKgTz&amp;title=true&amp;autoplay=true&amp;color=wii&amp;iframe=true" title="Pikmin 2">WATCH TRAILER <img class="playbtn" src="/images/wii/button_play_icon.png" /></a>
+						
+					
+			</div>
+			
+		<div class="addthis_toolbox addthis_default_style">
+			<a class="addthis_button_facebook_like"> </a>
+			<a class=""> </a>							
+		</div>
+														
+	</li>
+	
+	
+
+
+
+											
+												
+
+
+		
+	
+	
+	
+	
+	
+			
+										
+	
+	
+			
+		
+	
+		
+		
+		
+		
+			
+			
+				
+					
+				
+			
+		
+	
+	
+	
+	<li class=""><a class="boxart btn-game-link" href="http://www.nintendo.com/sites/supermariogalaxy/" title="Super Mario Galaxy"><div class="xtra-overlay"> </div><div class="cta-overlay">Click here to <br /><span>learn more</span></div><img src="http://media.nintendo.com/nintendo/bin/obffdnEwk6k9vMyLAQQIz5kkHrvVAyqr/bdHolKAS4wOajSnoYhqMqM8wlQO55jie.jpg" /></a><div class="txt">Super Mario Galaxy</div>
+			<div class="btn-container">
+				
+						
+								
+							<a class="btn-161x41 btn-video" href="/popup/video?url=1tZHlpNTpVei0N9PaEQ1qb-PaLJUFqrW&amp;title=true&amp;autoplay=true&amp;color=wii&amp;iframe=true" title="Super Mario Galaxy">WATCH TRAILER <img class="playbtn" src="/images/wii/button_play_icon.png" /></a>
+						
+					
+			</div>
+			
+		<div class="addthis_toolbox addthis_default_style">
+			<a class="addthis_button_facebook_like"> </a>
+			<a class=""> </a>							
+		</div>
+														
+	</li>
+	
+	
+
+
+
+											
+												
+
+
+		
+	
+	
+	
+	
+	
+			
+										
+	
+	
+			
+		
+	
+		
+		
+		
+		
+			
+			
+				
+					
+				
+			
+		
+	
+	
+	
+	<li class=""><a class="boxart btn-game-link" href="http://www.nintendo.com/sites/mariostrikerscharged/" title="Mario Strikers Charged"><div class="xtra-overlay"> </div><div class="cta-overlay">Click here to <br /><span>learn more</span></div><img src="http://media.nintendo.com/nintendo/bin/esRPtUSumgxaGLE0CBnj7hkrIVkWV1WT/A8-TFXnDGVotLaffLGiGDc_Gcerlu2Ar.jpg" /></a><div class="txt">Mario Strikers Charged</div>
+			<div class="btn-container">
+				
+						
+								
+							<a class="btn-161x41 btn-video" href="/popup/video?url=l2Y3lpNTqKOHPIZ0VEK3tS18K828Whgb&amp;title=true&amp;autoplay=true&amp;color=wii&amp;iframe=true" title="Mario Strikers Charged">WATCH TRAILER <img class="playbtn" src="/images/wii/button_play_icon.png" /></a>
+						
+					
+			</div>
+			
+		<div class="addthis_toolbox addthis_default_style">
+			<a class="addthis_button_facebook_like"> </a>
+			<a class=""> </a>							
+		</div>
+														
+	</li>
+	
+	
+
+
+
+											
+												
+
+
+		
+	
+	
+	
+	
+	
+			
+										
+	
+	
+			
+		
+	
+		
+		
+		
+		
+			
+			
+				
+					
+				
+			
+		
+	
+	
+	
+	<li class=""><a class="boxart btn-game-link" href="http://punchout.nintendo.com/" title="Punch OUt"><div class="xtra-overlay"> </div><div class="cta-overlay">Click here to <br /><span>learn more</span></div><img src="http://media.nintendo.com/nintendo/bin/1QFri3iquXzMYIINKrHPhCd9zqgr-wHv/huYhJjC-Kw69KyRKeuQobc7iJkrUwK9J.jpg" /></a><div class="txt">Punch OUt</div>
+			<div class="btn-container">
+				
+						
+								
+							<a class="btn-161x41 btn-video" href="/popup/video?url=FqYXlpNTpVCVa7lx-z0YsGB4uSdmMvMW&amp;title=true&amp;autoplay=true&amp;color=wii&amp;iframe=true" title="Punch OUt">WATCH TRAILER <img class="playbtn" src="/images/wii/button_play_icon.png" /></a>
+						
+					
+			</div>
+			
+		<div class="addthis_toolbox addthis_default_style">
+			<a class="addthis_button_facebook_like"> </a>
+			<a class=""> </a>							
+		</div>
+														
+	</li>
+	
+	
+
+
+
+											
+												
+
+
+		
+	
+	
+	
+	
+	
+			
+										
+	
+	
+			
+		
+	
+		
+		
+		
+		
+			
+			
+				
+					
+				
+			
+		
+	
+	
+	
+	<li class=""><a class="boxart btn-game-link" href="http://www.nintendo.com/sites/spm" title="Super Paper Mario"><div class="xtra-overlay"> </div><div class="cta-overlay">Click here to <br /><span>learn more</span></div><img src="http://media.nintendo.com/nintendo/bin/1YFWaY4HGl1lhaPfJKL9IOfZfbTq7DMw/2ib1vGuDAP-2As1c30F4E57a0mDd0SAG.jpg" /></a><div class="txt">Super Paper Mario</div>
+			<div class="btn-container">
+				
+						
+								
+							<a class="btn-161x41 btn-video" href="/popup/video?url=9xZHlpNTrPXArdZbd2Eyd5P2sk4L-dBW&amp;title=true&amp;autoplay=true&amp;color=wii&amp;iframe=true" title="Super Paper Mario">WATCH TRAILER <img class="playbtn" src="/images/wii/button_play_icon.png" /></a>
+						
+					
+			</div>
+			
+		<div class="addthis_toolbox addthis_default_style">
+			<a class="addthis_button_facebook_like"> </a>
+			<a class=""> </a>							
+		</div>
+														
+	</li>
+	
+	
+
+
+
+											
+												
+
+
+		
+	
+	
+	
+	
+	
+			
+										
+	
+	
+			
+		
+	
+		
+		
+		
+		
+			
+			
+				
+					
+				
+			
+		
+	
+	
+	
+	<li class=""><a class="boxart btn-game-link" href="http://wiisports.nintendo.com" title="Wii Sports"><div class="xtra-overlay"> </div><div class="cta-overlay">Click here to <br /><span>learn more</span></div><img src="http://media.nintendo.com/nintendo/bin/J8E9NgSBTpQj8ym8Kv3N3xhmsxomSpvV/gT8Q5pdClpe9cXZaptrqSiK1gghtZvSQ.jpg" /></a><div class="txt">Wii Sports</div>
+			<div class="btn-container">
+				
+						<a class="btn-161x41-alt btn-game-link" href="http://wiisports.nintendo.com" title="Wii Sports">LEARN MORE</a>
+					
+			</div>
+			
+		<div class="addthis_toolbox addthis_default_style">
+			<a class="addthis_button_facebook_like"> </a>
+			<a class=""> </a>							
+		</div>
+														
+	</li>
+	
+	
+
+
+
+											
+												
+
+
+		
+	
+	
+	
+	
+	
+			
+										
+	
+	
+			
+		
+	
+		
+		
+		
+		
+			
+			
+				
+					
+				
+			
+		
+	
+	
+	
+	<li class=""><a class="boxart btn-game-link" href="http://www.zelda.com/tp" title="The Legend of Zelda Twilight Princess"><div class="xtra-overlay"> </div><div class="cta-overlay">Click here to <br /><span>learn more</span></div><img src="http://media.nintendo.com/nintendo/bin/G_82MkV0A5JE0h8Qw2a-co5mVAKGJCcP/a51yKhqV1PRbqWEuxnK_Jyc0fEoTR4g7.jpg" /></a><div class="txt">The Legend of Zelda Twilight Princess</div>
+			<div class="btn-container">
+				
+						<a class="btn-161x41-alt btn-game-link" href="http://www.zelda.com/tp" title="The Legend of Zelda Twilight Princess">LEARN MORE</a>
+					
+			</div>
+			
+		<div class="addthis_toolbox addthis_default_style">
+			<a class="addthis_button_facebook_like"> </a>
+			<a class=""> </a>							
+		</div>
+														
+	</li>
+	
+	
+
+
+
+											
+												
+
+
+		
+	
+	
+	
+	
+	
+			
+										
+	
+	
+			
+		
+	
+		
+		
+		
+		
+			
+			
+				
+					
+				
+			
+		
+	
+	
+	
+	<li class=""><a class="boxart btn-game-link" href="http://animal-crossing.com/cityfolk/" title="Animal Crossing: City Folk"><div class="xtra-overlay"> </div><div class="cta-overlay">Click here to <br /><span>learn more</span></div><img src="http://media.nintendo.com/nintendo/bin/1rbY-VJ6s6ur9cKtpbY0laClwswoh04P/8H6-3KS227w-YE675R0bFt9j0vP9FV_c.jpg" /></a><div class="txt">Animal Crossing: City Folk</div>
+			<div class="btn-container">
+				
+						
+								
+							<a class="btn-161x41 btn-video" href="/popup/video?url=xwZXlpNTrDqIyugQ8QtBwsb-pUZyQCcK&amp;title=true&amp;autoplay=true&amp;color=wii&amp;iframe=true" title="Animal Crossing: City Folk">WATCH TRAILER <img class="playbtn" src="/images/wii/button_play_icon.png" /></a>
+						
+					
+			</div>
+			
+		<div class="addthis_toolbox addthis_default_style">
+			<a class="addthis_button_facebook_like"> </a>
+			<a class=""> </a>							
+		</div>
+														
+	</li>
+	
+	
+
+
+
+											
+												
+
+
+		
+	
+	
+	
+	
+	
+			
+										
+	
+	
+			
+		
+	
+		
+		
+		
+		
+			
+			
+				
+					
+				
+			
+		
+	
+	
+	
+	<li class=""><a class="boxart btn-game-link" href="http://mariosupersluggers.com/" title="Mario Super Sluggers"><div class="xtra-overlay"> </div><div class="cta-overlay">Click here to <br /><span>learn more</span></div><img src="http://media.nintendo.com/nintendo/bin/V7vpZieiMdWQNh8dbE_IUT3siYFnf6J2/6bkdjHPAhCLgQ-s486Xiq3GU-QaizhFM.jpg" /></a><div class="txt">Mario Super Sluggers</div>
+			<div class="btn-container">
+				
+						
+								
+							<a class="btn-161x41 btn-video" href="/popup/video?url=thbHlpNTosP6xhYKpkPs0qAJLXc2K8Ef&amp;title=true&amp;autoplay=true&amp;color=wii&amp;iframe=true" title="Mario Super Sluggers">WATCH TRAILER <img class="playbtn" src="/images/wii/button_play_icon.png" /></a>
+						
+					
+			</div>
+			
+		<div class="addthis_toolbox addthis_default_style">
+			<a class="addthis_button_facebook_like"> </a>
+			<a class=""> </a>							
+		</div>
+														
+	</li>
+	
+	
+
+
+
+											
+										
+									</ul>
+									
+								
+																
+								</div>
+								<script type="text/javascript">
+								
+								$(document).ready(function(){
+									$("a[rel^='prettyPhoto']").prettyPhoto({theme: 'light_rounded', default_width:740, default_height:416, overlay_gallery:true, allow_resize:false});
+									Omniture.config('wii', 'wii:home'); //sets chan and props
+									Omniture.pageTrack('wii:home'); //pagename
+									
+									var currentGameSectionTitle;
+									
+									$(".btn-game-link").click(function (e) {
+										var gameTitle = $(this).attr("title");
+										Omniture.trackProp(30, currentGameSectionTitle+"_"+gameTitle);
+									});
+								
+									$("#gamelist-txt").click(function (e) {
+										var targetEl = $('#btn-gamelist-selection li.active').next();
+										if(targetEl.length == 0) {
+											targetEl = $("#btn-gamelist-selection li:first");
+										}
+										$("#btn-gamelist-selection li.active").removeClass("active").hide();
+										targetEl.addClass("active");
+										if ($.browser.msie) {
+											targetEl.show();	
+										} else {
+											targetEl.fadeIn();
+										}
+										//--
+										var enableWhich = "#gamelist-"+ targetEl.text().toLowerCase().replace(/ /g,"-");
+										
+										var lastStrTest = enableWhich.substring(enableWhich.length-1); //ie7 fix, remove - if added at end
+										if(lastStrTest == "-") {
+											enableWhich = enableWhich.substring(0, enableWhich.length-1);
+										}
+										
+										$("#gameslist-games-container .active-list").hide().removeClass("active-list");
+										$("#gameslist-games-container "+enableWhich).addClass("active-list").show();
+										
+										var widthAmount = targetEl.width()+40;
+										$("#gamelist-txt").animate({width:widthAmount});
+										
+										currentGameSectionTitle = targetEl.text();
+										Omniture.trackLink(6, "Wii:"+currentGameSectionTitle, 7, "Wii:"+currentGameSectionTitle);
+									});	
+									
+									function renameGameContainers() {
+										//makes id's title readable by js
+										$("#gameslist-games-container ul").each(function() {
+											var newId = $(this).attr("id").toLowerCase().replace(/ /g,"-");
+											$(this).attr("id", newId)
+									   });
+
+									}
+									
+									function init () {
+										renameGameContainers();
+										$("#gamelist-txt #btn-gamelist-selection li:first").trigger("click"); //enable first list
+										
+										//add correct attribute tags to like button
+										$('.game-list li').each(function(index) {
+											var thisUrl = $(this).find(".boxart").attr("href");
+											var thisTitle = $(this).find(".txt").text()
+											
+											var $addThis = $(this).find(".addthis_toolbox");								
+											$($addThis).attr('addthis:url' , thisUrl);
+											$($addThis).attr('addthis:title' , thisTitle+ " at Nintendo :: Games");					
+										  });										
+										
+									}
+									
+									/* gamelist animated overlay */									
+									
+									$(".game-list .boxart").hover(
+										function(){
+											var elem = $(this).find(".cta-overlay");
+											$(elem).stop().css("top", "100%").animate({ top: "40%" }, 300);
+										},
+										function(){
+											var elem = $(this).find(".cta-overlay");
+											$(elem).stop().animate({ "top": "100%" }, 300);
+										}
+									);
+									
+									
+									$(".btn-video").click(function (e){
+									
+										e.preventDefault();
+										var vidURL = $(this).attr("href");										
+										$.prettyPhoto.open(vidURL,'','');
+										
+									});
+								
+									init();
+								});
+								</script>
+								
+								
+								
+								<h2 class="clear">Wii spotlights</h2>
+								<ul id="games-promo">
+								
+									
+										
+											
+											
+																		
+										<li><a href="#" onclick="Omniture.trackPromo('Wii U_B1', 'http://www.nintendo.com/wiiu', 'wii_B1', 'wii')"><span> </span><img src="http://media.nintendo.com/nintendo/bin/nx5CLI0t4p3xMYLGvhZSjqF942Wp77x7/N7j8Ja6x6X2DHgohAl-Z8AbcxDzcud_y.png" alt="Wii U" width="230" height="170" /></a></li>
+									
+										
+											
+											
+																		
+										<li><a href="#" onclick="Omniture.trackPromo('Club Nintendo_B2', 'https://club.nintendo.com/', 'wii_B2', 'wii')"><span> </span><img src="http://media.nintendo.com/nintendo/bin/rigTXTcxilKEC4qy8rPPUqRIJNezDxji/5OYQlaq4lF-R6dqbLhvAAlw5ZeOsDJIr.png" alt="Club Nintendo" width="230" height="170" /></a></li>
+									
+										
+											
+											
+																		
+										<li><a href="#" onclick="Omniture.trackPromo('Wii Amazon Instant Video_B3', 'http://www.nintendo.com/wii/built-in-entertainment/#/amazon', 'wii_B3', 'wii')"><span> </span><img src="http://media.nintendo.com/nintendo/bin/d06JNRkGdtFUnkkuEVNIuYjZZ1Vb-xAd/1Zw4ZjtW2X0K9xKHNxZo4n7FsCwH4JTW.png" alt="Wii Amazon Instant Video" width="230" height="170" /></a></li>
+									
+										
+											
+											
+																		
+										<li><a href="#" onclick="Omniture.trackPromo('Download classic games to your Wii Console_B4', 'http://www.nintendo.com/wii/enhance/#/virtualconsole', 'wii_B4', 'wii')"><span> </span><img src="http://media.nintendo.com/nintendo/bin/X0ExtcC-e8VMDR9c9FTF6q4jptsnnnJW/Zx6NogPprI0rYi9-1hq75zMYsPf13ocN.png" alt="Download classic games to your Wii Console" width="230" height="170" /></a></li>
+									
+								
+								</ul>
+								<div class="clear"> </div>
+								<div class="footnotes">*Manufacturer's Suggested Retail Price. Actual price may vary.</div>
+
+								
+						</div>
+						<div id="wii-101">
+								<div id="wii-101-content" class="center-content clear">
+										<div id="logo-wii101">Wii 101</div>
+										<h2>Have questions about Wii?</h2>
+										<div id="wii-101-txt"> We've got answers. Visit <a href="/wii/faq/">Wii 101</a> for a list of frequently asked questions like these.
+												<h3>Where can I find information about specific games for the Wii?</h3>
+												
+												The Wii console has a huge library featuring hundreds of great games. You can browse through them on our own game guide <a href="/games/gameGuide?system=wii&amp;purchase=retail">HERE</a>, with screenshots, trailers, game info, and more.
+												<a href="/wii/faq/" class="btn-312x36">MORE QUESTIONS ANSWERED IN Wii 101</a>
+										</div>
+										<div class="clear"> </div>
+								</div>
+						</div>
+				</div>
+		</div>
+		 <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=dccnoa"> </script>
+			
+			<div id="clear-footer"> </div>
+		</div>
+        
+		<div id="pin-footer">
+			
+		
+	
+	
+	<div xmlns:jx="http://apache.org/cocoon/templates/jx/1.0" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" id="footer">		
+		<div class="listsetReg">
+			<ul class="graylist">
+				<li class="majornode"><a href="/wii/built-in-entertainment/" class="title">About Wii</a> </li>
+				<li><a href="/wii/what-is-wii">What is Wii</a> </li>
+				<li><a href="/wii/what-is-wii/#/whats-in-the-box">What's in the Box</a> </li>
+				<li><a href="/wii/built-in-entertainment/">Built-in Entertainment</a> </li>
+				<li><a href="/wii/what-is-wii/#/tech-specs">Hardware Specs</a></li>
+				<li><a href="/games/gameGuide?system=wii&amp;purchase=retail">Wii Games</a> </li>
+				<li><a href="/wii/buynow">Where to Buy</a></li>
+			</ul>
+		</div>
+		<div class="listsetReg">
+			<ul class="graylist">
+				<li class="majornode"><a href="/wii/built-in-entertainment/" class="title">Explore More</a> </li>
+				<li><a href="/wii/enhance">Enhance Your Wii</a> </li>
+				<li><a href="/wii/enhance/#/wiiware">Value Wii Games</a> </li>
+				<li><a href="/wii/enhance/#/virtualconsole">Download Classic Games</a> </li>
+				<li><a href="/wii/built-in-entertainment/#/netflix-channel">Netflix</a> </li>
+				<li><a href="/wii/what-is-wii/#/controls">Controllers</a> </li>
+				<li><a href="/wii/enhance/#/accessories">Accessories</a> </li>
+			</ul>
+		</div>
+		<div class="listsetWide">
+			<ul class="graylist">
+				<li class="majornode"><a href="/consumer/systems/wii/en_na/index.jsp" class="title">Wii Support</a></li>
+				<li><a href="/wii/faq">Wii 101</a> </li>
+				<li><a href="/wii/connect">How to Connect to the Internet</a> </li>
+				<li><a href="/consumer/systems/wii/en_na/ts_index.jsp">Troubleshooting</a> </li>
+				<li><a href="/corp/parents.jsp">Parental Controls</a> </li>
+			</ul>
+		</div>
+		<div class="listbdr"> </div>
+		<div class="listlegal">
+			<ul class="graylist">
+				<li class="legaltitle"><a href="/healthandsafety" class="title">Health &amp; Safety/Privacy</a></li>
+				<li><a href="/consumer/manuals/healthsafety.jsp">Health &amp; Safety Precautions Manual</a></li>
+				<li><a href="/privacy">Privacy Policy</a></li>
+			</ul>
+		</div>
+		
+	</div>
+		
+
+			<div id="ninfooter">
+	<div class="mainarea">
+		<ul id="footerContent">
+			<li id="nintendoLogo">Nintendo</li>
+			<li id="copyrightTxt"><strong>© 2013 Nintendo. Games are property of their respective owners.</strong><br /> 
+			Nintendo of America Inc. Headquarters are in Redmond, Washington</li>
+				 
+			<li id="shareLinks">
+				<a href="/contact">Contact Us</a><br />
+				<a href="" onClick="Omniture.trackNsignup('http://www.nintendo.com/consumer/newsletters/?referer=www.nintendo.com/wii')">Newsletter Signup</a><br />
+			</li>
+			<li id="shareLinks2">
+				<a href="/corp/webform.jsp">Website Feedback</a><br />
+				<span class="findus">Find Us:</span> 
+				<a target="_blank" href="http://www.facebook.com/nintendo" onClick="Omniture.trackFacebook()" rel="nofollow"> <img src="/images/home/features/facebook_icon.png" border="0" /></a>
+				<a target="_blank" href="http://twitter.com/NintendoAmerica" onClick="Omniture.trackTwitterNOA()" rel="nofollow"> <img src="/images/home/features/twitter_icon.png" border="0" /></a>
+				<a target="_blank" href="http://www.youtube.com/nintendo" onClick="Omniture.trackYouTube()" rel="nofollow"><img src="/images/home/features/youtube_icon.png" border="0" /> </a>
+			</li>
+				
+		</ul>
+		<div class="esrbpriv">
+			<p><a href="/privacy" title="Nintendo's Privacy Policy" target="_blank">Nintendo's Online Privacy Policy</a></p>
+			<p class="esrb-badge"><a href="/privacy" target="_blank"><img src="/images/icons/esrb_privacy.gif" alt="" /></a></p>
+		</div>
+	</div>
+	
+</div>
+		</div>
+		
+	
+	</body>
+</html>
+
+
+
+
+	

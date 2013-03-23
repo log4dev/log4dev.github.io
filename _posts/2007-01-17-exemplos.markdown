@@ -1,0 +1,13 @@
+---
+author: mgalves
+comments: true
+date: 2007-01-17 11:02:13
+layout: post
+slug: exemplos
+title: Exemplos
+wordpress_id: 103
+tags:
+- Linguagens de Programação
+---
+
+Uma das melhores formas de se aprender a programar é lendo códigos alheios. Quanto melhor o código, maior o aprendizado. Mas nem sempre se procura por códigos de qualidade...as vezes apenas precisamos de um caminho das pedras. E o site [http://www.java2s.com/](http://www.java2s.com/) é uma ótima **fonte** para isso: tem exemplo de vários tipos de **códigos**. A lista é bem grande. E apesar de aparentemente o site inicialmente ter sido concebido pra java (notem a URL), existem links com exemplo para várias linguagens.

@@ -1,0 +1,21 @@
+---
+author: mgalves
+comments: true
+date: 2008-12-16 22:28:34
+layout: post
+slug: panico
+title: Pânico
+wordpress_id: 380
+tags:
+- Apple
+- Mac
+- OS
+---
+
+Muitos diziam que existia, mas ninguém nunca tinha visto de fato. É um evento raro, que aconteceu comigo ontem pela primeira vez em 8 anos de OS X. Me dói muito falar isso, mas é dever deste blog mostrar uma foto raríssima de um **KERNEL PANIC no Mac**.
+
+As cenas são fortes...
+
+[![Kernel Panic Mac](http://beta.log4dev.com/wp-content/uploads/2008/12/kernel_panic.png)](http://beta.log4dev.com/wp-content/uploads/2008/12/kernel_panic.png)
+
+Acho que está na hora de eu levar meu MacBook Pro pra revisão. Ele anda com uns comportamentos estranhos.

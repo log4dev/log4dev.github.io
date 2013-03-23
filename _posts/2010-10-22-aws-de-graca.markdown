@@ -1,4 +1,5 @@
 ---
+author: mgalves
 comments: true
 date: 2010-10-22 10:31:38
 layout: post
@@ -12,7 +13,7 @@ categories:
 
 ...por um ano, com uma configuração limitada!
 
-![AWS Free](http://awsmedia.s3.amazonaws.com/logo_aws.gif)
+![AWS Free]({{BASE_PATH}}images/2010-10-22-aws-de-graca/logo_aws.gif)
 
 Nada é perfeito, eles não são bobos nem nada, mas a oferta já permite brincar um pouco com os serviços da Amazon e sentir o gostinho de ter uma infra mais parruda. A promoção passa a valer a partir de primeiro de Novembro deste ano, e oferece a seguinte configuração por mês:
 

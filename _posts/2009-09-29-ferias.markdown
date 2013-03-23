@@ -1,0 +1,15 @@
+---
+author: laggarcia
+comments: true
+date: 2009-09-29 09:29:57
+layout: post
+slug: ferias
+title: Férias
+wordpress_id: 658
+categories:
+- Humor
+---
+
+Acabo de voltar de férias e, coincidentemente, a tira de hoje do PHD Comics me pareceu muito aproriada:
+
+[caption id="" align="alignnone" width="600" caption="Vacation Relaxation? - PHDComics (2009-09-28)"][![Vacation Relaxation? - PHDComics (2009-09-28)]({{BASE_PATH}}images/2009-09-29-ferias/phd092809s.gif)]({{BASE_PATH}}images/2009-09-29-ferias/phd092809s.gif)[/caption]

@@ -1,0 +1,57 @@
+---
+author: mgalves
+comments: true
+date: 2009-03-07 18:42:45
+layout: post
+slug: apple-tv
+title: Apple TV
+wordpress_id: 479
+categories:
+- Ferramentas
+- Produto
+tags:
+- Apple
+- AppleTV
+- Ferramentas
+- Hardware
+---
+
+Eu e Graziela somos apaixonados por brinquedinhos tecnológicos, e ambos gostamos muito da Apple. Quando ficamos sabemos que, graças a amigos, teríamos acesso a um saldão na Apple Brasil com preços incríveis, não perdemos muito tempo. Investimos em um monitor de 20 polegadas e um Apple TV. E gostaria de fazer uma pequena resenha sobre este último.
+
+**O aparelho**
+
+O design é inconfundívelvelmente Apple. Clean, minimalista, que fica muito bem ao lado da TV. O formato é  semelhante ao de outros aparelhos como o Mac Mini, o Time Capsule e o AirPort.
+
+![]({{BASE_PATH}}images/2009-03-07-apple-tv/AppleTV2.jpg)
+
+A parte de conectividade é toda voltada para TV: porta HDI, vídeo componente (3 entradas), áudio analógico, áudio digital ótico, além de ethernet, e wifi, essenciais para link com o iTunes Music Store. Existe uma porta USB, que supostamente existe apenas para acesso da Apple, mas com um pouco de busca pela internet, descobre-se que é bastante fácil hackear e habilitar a dita cuja.
+
+**Mas para que ele serve afinal?**
+
+Resumindo, é o Media Center da Apple. O Apple TV funciona como uma extensão do iLife, permitindo ver fotos, vídeos, slideshows e ouvir músicas em sua televisão. É um Front Row anabolizado! O carro chefe é a sua integração com o iTunes Music Store diretamente da sua TV. Quer assistir a um episódio de sua série favorita? Basta clicar, comprar e pronto. O sistema também tem ligação direta com Flickr e YouTube.
+
+A primeira versão da Apple TV tinha um grande defeito: era necessário ter um computador com iTunes para baixar o conteúdo e transferir depois para o aparelho. Depois de muitas reclamações, a Apple mudou e a versão 2.0 passou a permitir que tudo fosse feito sem a necessidade de um computador externo.
+
+Aliás, aqui vai um comentário: eu tive que atualizar a versão do software do meu Apple TV (via settings no próprio aparelho) para que esta funcionalidade standalone funcionasse.
+
+**E o iTMS, funciona no Brasil?**
+
+Pois é, isso era a minha grande dúvida, afinal o iTMS  Brasil não existe (a desculpa que eu sempre vejo é que este tipo de serviço de compra de mídia online no Brasil não funcionaria...mais pra frente eu discuto isso). Para conseguir comprar em algum iTMS around the world, é preciso ter endereço e cartão de crédito do país.
+
+Mas descobri que existe um jeito de contornar isso. O único porém é que é preciso conhecer alguém que more ou que vá frequentemente aos EUA ou Europa. Nestes lugares, é possível comprar cartões iTunes Gift Cards, que funcionam como os cartões pré pagos no celular. Cada cartão possui um código, e basta colocar este código no seu Apple TV (funciona também para iTunes no seu Mac) e sair comprando. O único porém é que na hora de fazer o cadastro é necessário fornecer um endereço americano. No meu caso, usei o endereço de um amigo que está morando lá. Conheço gente que colocou endereço de hotel...
+
+**O conteúdo do iTMS vale a pena?**
+
+Bom, se você gosta de filmes e de séries, vale bastante a pena. É possível encontrar hoje filmes que ainda estão no cinema no Brasil, e episódios de séries que somente estarão no ar em alguns meses (basicamente: saiu lá, sai no iTMS). O custo de um episódio de série é de 2 dólares em resolução de DVD  e 3 dólares em resolução HD. Caso deseje comprar uma temporada completa, o custo é de 22 dólares em resolução de vídeo e 32 em resolução HD. No caso de filmes, existem dois modelos: aluguel e compra. No caso de compra, o valor é de aproximadamente 15 dólares por filme, e no caso de aluguel o valor é de aproximadamente 4 dólares. O funcionamento do aluguel é o seguinte: uma vez baixado o filme, você tem 30 dias para assistir, e uma vez iniciado, você tem 24h para terminar.
+
+E a pergunta fatídica: vale a pena pagar? Bom, se você é daqueles que baixa filmes via BitTorrent e acha que pagar por alguma coisa na internet é coisa de boiola, então definitivamente não vale a pena. Agora, se você curte comprar DVDs e sobretudo temporadas completas de séries, aí a coisa muda de figura: um box de série custa em média 90 reais no Brasil, ante 50 reais no iTMS.
+
+**Contras?**
+
+Existem alguns. Um deles é que os filmes não possuem legenda, o que pode ser impeditivo para certas pessoas. No meu caso aproveito para treinar meu ouvido e minha compreensão.
+
+Outro fator que me incomoda muito é o fato que a conexão entre a Apple TV e o seu computador é feita unica e exclusivamente via iTunes. Isso não chega a ser um problema para áudio ( já que no meu caso eu armazeno meus arquivos de música no iTunes mesmo), nem para fotos (é possível usar a lib do iPhoto, ou então definir uma pasta qualquer do sistema). Mas no caso de filmes, é preciso que os arquivos estejam carregados no software: por algum motivo não é possível escolher uma pasta qualquer como no caso das fotos.
+
+**E o Mac Mini?**
+
+Me perguntaram porque não utilizar um Mac Mini no lugar. Minha resposta: o grande motivo que eu vejo é a falta de saídas apropriadas para conexão com a TV, e o fato de precisar de um teclado e mouse para operar a interface gráfica. Fora isso, usando o Front Row e o iTunes, é possível praticamente as mesmas funcionalidades. Mas com menos graça.

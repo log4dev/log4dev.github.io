@@ -1,0 +1,39 @@
+---
+author: bart
+comments: true
+date: 2008-05-29 03:03:13
+layout: post
+slug: podcast-2
+title: podcast!
+wordpress_id: 306
+categories:
+- Opinião
+- Pesquisa
+---
+
+No começo do mês o Miguel perguntou: [podcast?](http://log4dev.com/2008/05/02/podcast) Eu não venho aqui com a resposta pronta (apesar do título ser uma exclamação), mas esse post é um pouco pra reavivar a discussão.
+
+Ultimamente tenho ido diariamente de bicicleta pro trabalho, o que leva em média uns 30 minutos, mais uns 10 minutos entre descer no elevador, destravar a bicicleta, travar de novo no trabalho e ir até o chuveiro. Isso faz com que eu tenha 80 minutos "livres" por dia, praticamente sem pensar em computação! Como bom computeiro, eu não podia deixar essa situação perdurar, então comecei a gravar podcasts no iPod e ir ouvindo no caminho. Por enquanto os assuntos não foram absorventes o suficiente pra me tirar a concentração no transito, e eu ainda não me matei...
+
+Atualmente eu estou ouvindo as entrevistas do Markus Voelter na [Software Engineering Radio](http://www.se-radio.net) (se-radio). Tem bastante coisa interessante por lá e eu to achando uma boa pra ter uma noção por cima de assuntos diversos. Eu acho que um podcast não é a mídia ideal pra passar os detalhes, mas você sempre pode correr atrás de saber mais sobre os assuntos que te interessaram mais.
+
+A primeira pesquisa do post é : Que outros podcasts interessantes vocês conhecem, além do [stackoverflow](http://stackoverflow.com/) que foi mencionado no post anterior?
+
+Naquele post foi discutida também a idéia de criar um podcast do log4dev (pod4dev ou cast4dev, quem sabe até podcast4dev). Eu particularmente acho que seria muuuito trabalho e acho que algumas características teriam que ser muito bem pensadas, como:
+
+
+
+	
+  * Assuntos: que tipo de assuntos seriam tratados no podcast? Se o intuito é somente dar a opinião sobre algum assunto, porque não usar o log4dev mesmo? Quero dizer, pra agregar valor, o podcast tem que aproveitar o seu diferencial, que é o som, então o conteúdo provavelmente tem que ser diferente do log4dev.
+
+	
+  * Duração: qual vai ser a duração média de uma transmissão? O Lucas comentou no post anterior que o ideal seria 25 minutos, pois não fica cansativo. Os podcasts da se-radio são entre 40 e 50 minutos, o que é OK pra mim, mas não funcionaria pra todos. Apesar das entrevistas dele não ficarem cansativas, eu acredito que se eu não tivesse tanto tempo "disponível", eu não iria parar o meu trabalho pra ficar ouvindo (e olhando pra onde?). É claro que a duração também é muito influenciada pelo assunto: uma entrevista de 25 minutos é muito curta, principalmente quando o entrevistado é bem interessante, mas 50 minutos falando em monólogo sobre algum assunto qualquer fica maçante.
+
+	
+  * Equipamentos: que equipamentos teriam que ser adquiridos? Como o Evandro disse, não adianta fazer um podcast com um som porcaria, pois isso só iria irritar quem está tentando ouvir. Logo, alguns equipamentos de áudio teriam que ser adquiridos de alguma forma. Na se-radio, depois de um bom tempo com o som ruim, eles compraram um equipamento melhor, e depois conseguiram algumas doações e sponsors pra manter a radio funcionando, mas eu não acho que essa seja uma possibilidade realista.
+
+	
+  * Periodicidade: com qual periodicidade seria publicado o podcast? De novo, o se-radio garante que publica a cada 10 dias. Vale a pena o editor-chefe definir uma garantia dessas? Com certeza essas garantias agradam ao público, pois eles sabem o que esperar. O difícil é honrar o compromisso....
+
+
+Esses são alguns pontos em que eu estive pensando e com certeza existem outros mais. A minha análise é obviamente muito baseada no se-radio que é o podcast com o qual eu tenho mais contato. Por isso mesmo a opinião de gente com mais experiência é muito importante.

@@ -1,0 +1,26 @@
+---
+author: lullis
+comments: true
+date: 2009-03-20 16:43:25
+layout: post
+slug: bits4dev-2
+title: Bits4Dev
+wordpress_id: 486
+categories:
+- Bits
+---
+
+
+	
+  * Qual vai ser a desculpa que os macmaníacos (a.k.a "fanboys que não querem assumir que compram Apple porque acham que é bonito") vão usar para argumentar com um cara que ganha a vida achando falhas de segurança e diz que [desenvolver exploits para o Mac é muito mais fácil comparado ao Windows](http://blogs.zdnet.com/security/?p=2941)?
+
+	
+  * Falando em segurança e em Campos de Distorção da Realidade: sabia que o [Blowfish é um algortimo proprietário que pode ser quebrado em menos de 30 segundos](http://www.schneier.com/blog/archives/2009/03/blowfish_on_24_1.html)?
+
+	
+  * Respondam-me, por favor, [onde está a inovação em software](http://www.adambossy.com/blog/2009/03/20/where-is-the-innovation-in-software/)?
+
+	
+  * Leia o autor de _Thinking in Java_ sobre como JaL [está fadada a se tornar uma linguagem de código legado](http://www.artima.com/weblogs/viewpost.jsp?thread=252441). Odeio fazer appeal to authority, mas será que o Bruce Eckel consegue explicar para alguns Javaístas a diferença entre Java-a-Linguagem e Java-a-Plataforma, de uma vez por todas?
+
+
