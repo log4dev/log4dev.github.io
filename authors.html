@@ -1,0 +1,15 @@
+---
+layout: page
+title: Autores
+header: Artigos por Autores
+group: navigation
+---
+{% include JB/setup %}
+
+{% for author in  site.authors %}
+  <h2 id="{{ author[0] }}">{{ author[1].name }}</h2>
+  <ul id="{{ author[0]-posts}}">
+    {% assign pages_list = site.posts %}
+    {% include JB/authors_list %}
+  </ul>
+{% endfor %}
