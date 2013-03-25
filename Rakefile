@@ -57,12 +57,16 @@ task :post do
   if File.exist?(filename)
     abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
   end
-  
+
   puts "Creating new post: #{filename}"
   open(filename, 'w') do |post|
     post.puts "---"
+    post.puts "author: "
     post.puts "layout: post"
     post.puts "title: \"#{title.gsub(/-/,' ')}\""
+    post.puts "slug: #{slug}"
+    post.puts "comments: true"
+    post.puts "date: #{date}"
     post.puts 'description: ""'
     post.puts "category: "
     post.puts "tags: []"
