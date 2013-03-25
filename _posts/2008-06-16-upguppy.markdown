@@ -1,0 +1,24 @@
+---
+author: lullis
+comments: true
+date: 2008-06-16 15:39:09
+layout: post
+slug: upguppy
+title: UpGuppy
+wordpress_id: 314
+categories:
+- Notícias
+- Produto
+---
+
+Se eu quisesse transformar as minhas asneiras em meu ganha-pão, e dependesse do grande salário e extensos benefícios oferecidos pelo editor-chefe, eu teria morrido de inanição antes que eu conseguisse logar no Wordpress e apertar **Write Post**.  Então, entre uma asneira que escrevo e uma resposta impensada que dou para "the-one-who-can't-be-named", eu sou obrigado a, _tipassim_, trabalhar um pouco e garantir a canjica-com-Guaraná-Dolly nossa de cada dia.
+
+Aqueles que estão mais próximos de mim (i.e, aqueles que têm o meu handle do Gtalk) sabem que, quando eu deixei o cubículo no qual trabalhava, eu tinha como objetivo levar adiante um projeto meu: criar um produto que pudesse ter seu valor quantificado, buscar investidores, fazer a idéia crescer, aumentar a base de consumidores, passar meses a fio vivendo debaixo da mesa do computador comendo apenas pizzas amanhecidas e tomando coca-cola sem gás... enfim, fazer todas essas atividades associadas a um ser esquisito chamado **empreendedor**. Esse era meu trabalho até o fim do ano passado.
+
+Mas, por razões que serão exploradas em momento mais oportuno, esse trabalho acabou sendo substituído por outro. Graças ao conhecimento acumulado e produzido durante a minha fase empreendedor-romântico, pude aceitar um trabalho como consultor em uma startup americana que já tinha uma versão do seu produto, mas precisava de outras pessoas que tivessem conhecimento em web.py e tivessem um bom conhecimento de todos os elementos de uma stack LLPP (Linux, Lighttpd, Python e PostgreSQL). Flexível e ansioso para receber em dólares que sou, aceitei a proposta.
+
+Essa empresa é a [UpGuppy](http://www.upguppy.com). A idéia do site é simples e direta: permitir que as pessoas possam dar sua opinião e recomendação através da criação de listas (rankings) sobre assuntos diversos. Melhores livros, piores novelas mexicanas, [cervejas](http://apps.facebook.com/upguppy/edit/163), baladas para curtir em Boston depois das 3 da manhã, academias de ginásticas... qualquer coisa que possa ser listada pode virar um ranking. O propósito final do sistema é permitir que as pessoas possam obter recomendações a partir das listas de diversos usuários. Caso de uso: uma pessoa gostaria de saber os pontos turísticos mais interessantes em Nova Iorque, para passear com os seus pais que a estão visitando. Essa pessoa pode ter recomendações interessantes procurando no site por rankings sobre os pontos turísticos da Big Apple, e filtrar para visualizar apenas os rankings feitos por pessoas de mais de 50 anos.
+
+Esse é o ideal do serviço que será oferecido. Mas o pessoal ainda está no começo, e o pessoal de lá andou fazendo tanta modificação nos requisitos e de posicionamento de produto, que boa parte do código anterior acabou sendo descartado. Então, o que estou fazendo por lá tem sido um trabalho de ver o que ainda pode ser aproveitado, desenvolver os componentes que faltam, atualizar o design, melhorar a parte de front-end e quetais. A parte mais significante do meu trabalho tem sido fazer [aplicativo UpGuppy para o Facebook](http://apps.facebook.com/upguppy), que está sendo lançado agora.  Obviamente, você precisa ser usuário do Facebook para ter acesso à aplicação e poder brincar com o site. Nem preciso dizer que o feedback dos usuários é muito bem-vindo e que essa é uma aplicação que ainda deve possuir alguns bugs (eu sei de pelo menos uma meia-dúzia, mas tenho vergonha de contar :) ) e que será constantemente melhorado e incrementado com as funcionalidades que estão sendo desenvolvidas para o site principal.
+
+Para quem gastar tempo de uma forma divertida, é uma aplicação interessante. E para quem quer desenvolver aplicações para o Facebook, é um exemplo de todas as coisas que podem ser feitas usando a plataforma do Facebook. Espero que em posts futuros eu possa vir a apresentar alguns dos macetes que eu tive que aprender para essa integração.

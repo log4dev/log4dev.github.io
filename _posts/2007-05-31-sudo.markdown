@@ -1,0 +1,13 @@
+---
+author: mgalves
+comments: true
+date: 2007-05-31 11:39:19
+layout: post
+slug: sudo
+title: Sudo
+wordpress_id: 137
+categories:
+- Humor
+---
+
+[![Sanduiche]({{BASE_PATH}}images/2007-05-31-sudo/sandwich.png)]({{BASE_PATH}}images/2007-05-31-sudo/sandwich.png)

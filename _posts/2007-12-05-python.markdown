@@ -1,0 +1,25 @@
+---
+author: mgalves
+comments: true
+date: 2007-12-05 10:23:41
+layout: post
+slug: python
+title: Python
+wordpress_id: 221
+categories:
+- Humor
+tags:
+- Desenvolvimento
+- Linguagens de Programação
+- Python
+---
+
+[](http://xkcd.com/353/)
+
+
+[![Python]({{BASE_PATH}}images/2007-12-05-python/python.png)](http://xkcd.com/353/)
+
+
+
+
+[**De XKCD **](http://xkcd.com/353/)

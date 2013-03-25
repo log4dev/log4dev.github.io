@@ -1,0 +1,32 @@
+---
+author: mgalves
+comments: true
+date: 2009-10-06 14:45:36
+layout: post
+slug: uol
+title: UOL
+wordpress_id: 664
+categories:
+- Meta
+- Notícias
+---
+
+Existem projetos pessoais que tem a vocação de ficarem para sempre gravados em uma pasta obscura do seu HD. Todo nerd que se preze tem pelo menos um desses: códigos de prova de conceito, brincadeiras escritas em um sábado a noite quando todos os seus amigos cools estavam na balada, e os do orkut estavam offline.
+
+Existem outros escritos com a esperança de darem certo, e de se tornarem o próximo empreendimento de bilhões de dólares. Pouquíssimos chegam lá, mas muitos crescem, começam a ser reconhecidos, criam uma base de usuários, constroem uma marca. E seus desenvolvedores agem exatamente como pais: ficam orgulhosos em ver o filho ficando forte, bonito.
+
+O Job4Dev nasceu como um Pet Project, e foi ganhando consistência. Não, não estamos nem perto de ficarmos ricos, mas estamos construindo uma marca. Vibramos com as primeiras empresas que cadastraram vagas espontâneamente, com os primeiros seguidores no Twitter, com os primeiros usuários do RSS.
+
+E hoje, estamos vibrando muito com a nossa primeira aparição em um grande veículo de mídia, o [UOL](http://jogos.uol.com.br/ultnot/multi/2009/10/05/ult530u7288.jhtm). Cito:
+
+
+> A Ubisoft divulgou por meio do site **Job4Dev**, especializado em anúncios de empregos na área de tecnologia da informação, novas vagas para programadores na filial brasileira da produtora no Rio Grande Sul.
+
+Estão disponíveis vagas para programadores especializados em artes 2D e também 3D. O estúdio em questão fica localizado na cidade de Porto Alegre e é o antigo Southlogic, adquirido em janeiro deste ano pela produtora francesa.
+
+O site não revela para quais projetos especificamente são necessários os programadores, mas exige-se domínio de diversos softwares e conhecimento de inglês. A descrição da vaga para programador 2D diz que o foco é em "criação de interfaces e gameplay", ao passo que o programador 3D fica responsável por "trabalhar na criação, adaptação e manutenção de tecnologia 3D para jogos".
+
+As descrições completas das vagas e instruções para se candidatar a elas pode ser vista no site [Job4Dev](http://job4dev.com/company/ubisoft).
+
+
+E neste momento, só posso dizer o seguinte: **É nóis na grande mídia, mano!!!!**

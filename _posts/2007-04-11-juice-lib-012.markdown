@@ -1,0 +1,41 @@
+---
+author: mgalves
+comments: true
+date: 2007-04-11 12:57:38
+layout: post
+slug: juice-lib-012
+title: Juice Lib 0.1.2
+wordpress_id: 124
+tags:
+- Código Aberto
+- Ferramentas
+- Javascript
+- Web
+---
+
+Ontem coloquei no ar a versão **0.1.2** da [**Juice Lib**](http://code.google.com/p/juicelib). A grande novidade é o sistema de **pooling** com **AJAX**. Este sistema permite que uma **requisição** seja feita de tempos em tempo via **XMLHTTPRequest** para um endereço, e que o resultado seja processado em background.
+
+Segue um exemplo de criação de objeto de pooling:
+
+
+
+	
+  * _sched = new juice.rpc.AjaxScheduler("http://minhaurl.com",{response: response_handler,delay: 10000});_
+
+
+A primeiro parâmetro é o endereço a ser chamado. O parâmetro _**response**_ recebe uma função a ser chamada quando a resposta estiver disponível. O parâmetro _**delay**_ define o tempo entre duas chamadas em milisegundos.
+
+Ainda é possível passar os seguintes parâmetros:
+
+
+
+	
+  * um parâmetro **_error_** que recebe uma função para tratamento de erros de requisição,
+
+	
+  * um parâmetro _**request**_ que pode ou receber uma string de parâmetros a serem enviados na requisição (no formato de URL) ou uma função que é chamada antes de cada requisição e que retorna a string de parâmetros (útil para requisições que podem variar ao longo do tempo)
+
+	
+  * um parametro _**method**_ que define o método de envio (get ou post). O método default é get.
+
+

@@ -1,4 +1,5 @@
 ---
+author: lullis
 comments: true
 date: 2010-02-01 20:02:54
 layout: post

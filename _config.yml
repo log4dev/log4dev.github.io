@@ -21,6 +21,15 @@ authors:
     name: Raphael Lullis
     email: lullis@gmail.com
     github: lullis
+  tganzarolli:
+    name: Thiago Ganzarolli
+    github: tganzarolli
+  alexandre:
+    name: Alexandre Barbosa
+  laggarcia:
+    name: Leonardo Garcia
+  bart:
+    name: Thiago Bartolomei
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -30,7 +39,7 @@ authors:
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : log4dev.com
+production_url : http://log4dev.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -59,7 +68,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : http://mgalves.github.com/log4dev.com
+  # BASE_PATH : http://mgalves.github.com/log4dev.com
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]

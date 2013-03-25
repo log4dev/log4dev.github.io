@@ -1,4 +1,5 @@
 ---
+author: tganzarolli
 comments: true
 date: 2012-07-22 17:57:12
 layout: post
@@ -20,11 +21,11 @@ Bem, alguns dias atrás isto aconteceu e eu descobri finalmente o que acontece, 
 
 Após atualização de alguns pacotes, minha instância precisava de um _reboot_. Depois de executar o comando, via o console do EC2 tudo parecia normal, mas a instância não estava acessível via SSH. Alguns minutos de desespero depois, reparei que o _syslog _é acessível pelo painel. De lá pude ver que o problema no _boot_ era devido a uma entrada errada no _fstab._ Isto me deu a primeira ferramenta para resolver o problema: **diagnóstico.**
 
-[caption id="attachment_902" align="alignnone" width="300"][![Acesso ao syslog](http://log4dev.com/wp-content/uploads/2012/07/syslog1-300x146.jpg)](http://log4dev.com/wp-content/uploads/2012/07/syslog1.jpg) Acesso ao syslog[/caption]
+[caption id="attachment_902" align="alignnone" width="300"][![Acesso ao syslog]({{BASE_PATH}}images/2012-07-22-perdi-acesso-a-minha-instancia-da-amazon-e-agora/syslog1-300x146.jpg)](http://log4dev.com/wp-content/uploads/2012/07/syslog1.jpg) Acesso ao syslog[/caption]
 
 Já sabia o que eu deveria arrumar, mas como? Bem, neste caso eu estava usando instâncias com **EBS Storage**. Para quem não sabe, isso significa que existe um drive virtual independente e desacoplado de sua instância. Existe a opção de **root storage** para qualquer tamanho maior que o micro, mas você perde quaisquer dos seus dados armazenados nativamente na instância (salvo se você fizer um snapshot prévio, acredito). Portanto, este 'tutorial' só vale para o caso da EBS, mas com um pouco de criatividade e algum cuidado se resolveria o outro cenário.
 
-[caption id="attachment_905" align="alignnone" width="300"][![Painel do EBS](http://log4dev.com/wp-content/uploads/2012/07/ebs-300x76.jpg)](http://log4dev.com/wp-content/uploads/2012/07/ebs.jpg) Painel do EBS[/caption]
+[caption id="attachment_905" align="alignnone" width="300"][![Painel do EBS]({{BASE_PATH}}images/2012-07-22-perdi-acesso-a-minha-instancia-da-amazon-e-agora/ebs-300x76.jpg)](http://log4dev.com/wp-content/uploads/2012/07/ebs.jpg) Painel do EBS[/caption]
 
 Prosseguindo: feito o diagnóstico, parei a instância problemática, desacoplei o volume EBS dela e o acoplei como armazenagem secundária de uma máquina de homologação. Se você não tem outra máquina, pode criar uma instância micro apenas para esta tarefa e depois matá-la, mas lembre-se de que o volume a ser diagnosticado deve ser o secundário.
 

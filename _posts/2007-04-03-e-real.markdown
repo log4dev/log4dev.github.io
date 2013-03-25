@@ -1,0 +1,19 @@
+---
+author: mgalves
+comments: true
+date: 2007-04-03 15:59:54
+layout: post
+slug: e-real
+title: É real…
+wordpress_id: 121
+tags:
+- Ferramentas
+- Javascript
+- Linguagens de Programação
+---
+
+Pequeno comentário: alguns podem achar que a **juice lib**, devido ao fato de ter sido colocada no ar no dia 1 de abril, é uma brincadeira. Mas eu confirmo: É REAL !!!
+
+Inclusive, acabei de colocar a **versão 0.1.1**, corrigindo pequenos bugs do IE.
+
+Comentários, críticas e sugestões continuam sendo bem vindas.
