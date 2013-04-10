@@ -1,8 +1,24 @@
-{% if site.safe and site.JB.sharing.provider and page.JB.sharing != false %}
 
-{% case site.JB.sharing.provider %}
-{% when "custom" %}
-  {% include custom/sharing %}
-{% endcase %}
+<div id="fb-root"></div>
+<script>
+(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/pt_BR/all.js#xfbml=1&appId=421525544605904";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
 
-{% endif %}
+
+<div  style="display:inline-table; margin-top: 10px;">
+    <div style="float:left; margin-right: 10px;"> <strong>Gostou do artigo? Compartilhe!<strong></div>
+    <div id="tweet" style="float:left;">
+        <a href="https://twitter.com/share" class="twitter-share-button" data-lang="pt" data-text="{{share_text}}" data-url="http://log4dev.com{{share_url}}">Tweetar</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    </div>
+
+    <div id="share" style="float:left;">
+        <div class="fb-like" data-href="http://log4dev.com{{share_url}}" data-layout="button_count" data-width="450" data-show-faces="true"></div>            
+    </div>
+</div>

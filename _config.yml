@@ -6,6 +6,7 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
 pygments: true
 
+
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
@@ -97,15 +98,6 @@ JB :
     provider : disqus
     disqus :
       short_name : log4dev
-    #livefyre :
-    #  site_id : 123
-    #intensedebate :
-    #  account : 123abc
-    #facebook :
-    #  appid : 123
-    #  num_posts: 5
-    #  width: 580
-    #  colorscheme: light
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
@@ -122,10 +114,4 @@ JB :
   # Set 'provider' to false to turn sharing off globally.
   #
   sharing :
-    provider : linkedin
-    twitter :
-      size :
-      via :
-      count :
-    linkedin :
-             counter : right
+    provider : all

@@ -7,7 +7,7 @@
 <div class="row-fluid post-full">
   <div class="span12">
     <div class="date">
-      <span> Por {{author}} - {{ page.date | date_to_long_string }}</span>
+      <span> Por {{author}} em {{ page.date | date: "%d/%m/%Y" }}</span>
     </div>
     <div class="content">
       {{ content }}
@@ -21,8 +21,13 @@
     </ul>
   {% endunless %}  
 
+  <br>
+
+  {% assign share_url=page.url share_title=page.title %}
+  {% include JB/sharing %}
+
 	<hr/>
-	
+
 	<strong>Artigos Relacionados</strong>
 	<br>
 	<ul>

@@ -1,5 +1,5 @@
 {% for node in pages_list %}
   {% if author[0] == node.author %}
-    <li><a href="{{ BASE_PATH}}{{node.url}}">{{ node.title }}</a></li>
+    <li>{{ node.date | date: "%d/%m/%Y" }} &raquo;  <a href="{{ BASE_PATH}}{{node.url}}">{{ node.title }}</a></li>
   {% endif %}
 {% endfor %}

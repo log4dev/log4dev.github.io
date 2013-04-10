@@ -28,11 +28,11 @@ Usage:
   
     {% if forloop.first %}
       <h2>{{this_year}}</h2>
-      <h3>{{this_month}}</h3>
       <ul>
     {% endif %}
   
-    <li><span>{{ post.date | date: "%B %e, %Y" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+    {% assign author = site.authors[post.author]["name"] %}
+    <li><span>{{ post.date | date: "%d/%m/%Y" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>, por {{author}}</li>
   
     {% if forloop.last %}
       </ul>
@@ -40,14 +40,7 @@ Usage:
       {% if this_year != next_year %}
         </ul>
         <h2>{{next_year}}</h2>
-        <h3>{{next_month}}</h3>
         <ul>
-      {% else %}    
-        {% if this_month != next_month %}
-          </ul>
-          <h3>{{next_month}}</h3>
-          <ul>
-        {% endif %}
       {% endif %}
     {% endif %}
   {% endfor %}

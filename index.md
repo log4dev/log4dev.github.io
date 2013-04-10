@@ -10,7 +10,14 @@ tagline:
 ## [{{ post.title }}]({{ BASE_PATH }}{{ post.url }})
 
 {% assign author = site.authors[post["author"]]["name"] %}
-<p><strong>Por {{author}} em {{ post.date | date_to_string }}</strong></p> 
+<p><strong>Por {{author}} em {{ post.date | date: "%d/%m/%Y" }}</strong></p> 
+
+ <div class="content">
+      {{ post.content }}
+</div>
+
+<br>
+<br>
 
 --------
 {% endfor %}
