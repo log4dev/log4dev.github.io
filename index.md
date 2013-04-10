@@ -23,13 +23,13 @@ tagline:
     <div style="float:left; margin-right: 10px;"> <strong>Gostou do artigo? Compartilhe!</strong></div>
 
     <div id="tweet" style="float:left;">
-        <a href="https://twitter.com/share" class="twitter-share-button" data-lang="pt" data-text="{{page_title}}" data-url="{{site.production_url}}{{page.url}}">Tweetar</a>
+        <a href="https://twitter.com/share" class="twitter-share-button" data-lang="pt" data-text="{{post.title}}" data-url="{{site.production_url}}{{post.url}}"  data-via="log4dev">Tweetar</a>
         <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
         </script>
     </div>
 
     <div id="share" style="float:left; margin-right: 20px;">
-        <div class="fb-like" data-href="{{site.production_url}}{{page.url}}" data-layout="button_count" data-width="450" data-show-faces="true">
+        <div class="fb-like" data-href="{{site.production_url}}{{post.url}}" data-layout="button_count" data-width="450" data-show-faces="true">
         </div>            
     </div>
 
