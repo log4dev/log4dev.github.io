@@ -22,7 +22,7 @@ No dia 31 de Maio do ano do Senhor de 2010, por volta das 15h, o meu caro amigo 
 
 Mas no mundo de Miguel, isso caiu como uma bomba atômica.
 
-[![]({{BASE_PATH}}images/2010-06-23-oauth/network_security.jpg)]({{BASE_PATH}}images/2010-06-23-oauth/network_security.jpg)
+[![]({{BASE_PATH}}/images/2010-06-23-oauth/network_security.jpg)]({{BASE_PATH}}/images/2010-06-23-oauth/network_security.jpg)
 
 Resumindo: o mecanismo de autenticação usado pelo [Job4Dev](http://job4dev.com) e pelo [SigaSeuTime](http://www.sigaseutime.com.br) simplesmente deixaria de funcionar em algumas horas. No caso do SigaSeuTime, isto era uma catástrofe de proporções enormes, já que boa parte do nosso público vem do Twtter. Uma longa noite me aguardava...até que percebemos que Lullis havia falado besteira, e que na verdade o prazo máximo era 31 de junho. Ufa.
 
@@ -46,7 +46,7 @@ Com este protocolo, seria possível permitir que por exemplo o Job4Dev atualizas
 ## OAuth - O protocolo
 
 
-[![Logo OAuth]({{BASE_PATH}}images/2010-06-23-oauth/oauth-logo.png)](http://oauth.net)
+[![Logo OAuth]({{BASE_PATH}}/images/2010-06-23-oauth/oauth-logo.png)](http://oauth.net)
 
 Vou tentar tornar esta descrição a mais simples possível.
 

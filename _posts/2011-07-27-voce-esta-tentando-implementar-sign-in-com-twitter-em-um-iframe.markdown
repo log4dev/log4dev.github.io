@@ -10,6 +10,8 @@ categories:
 - Desenvolvimento
 ---
 
+![](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTURy_L1guwIScIPay1lG9T4iwbmdNGN_YQN5vy6BeFV39I60Jr3g)
+
 Então desista já. Não perca tempo (como eu perdi algumas várias horas)!
 
 Não funciona!

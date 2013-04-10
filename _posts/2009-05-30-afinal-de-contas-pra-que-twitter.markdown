@@ -16,7 +16,7 @@ tags:
 
 O [Twitter](http://twitter.com) já foi tema de alguns posts aqui no log4dev. E, é claro que, como um bom blog de tecnologia que pretendemos ser (um dia a gente chega lá), não podíamos deixar de falar deste fenômeno da famigerada "rede mundial de computadores, a Internet" (como diria o William Bonner no Jornal Nacional). Ainda mais considerando que esta é a rede social que mais rapidamente cresce na Internet. Dá uma olhada neste gráfico gerado pela comScore:
 
-[caption id="" align="aligncenter" width="399" caption="Crescimento de redes sociais"][![Crescimento de redes sociais]({{BASE_PATH}}images/2009-05-30-afinal-de-contas-pra-que-twitter/comparacaoTwitter-20090521192316.jpg)](http://info.abril.uol.com.br/noticias/internet/usuarios-do-twitter-triplicam-em-dois-meses-21052009-40.shl)[/caption]
+[caption id="" align="aligncenter" width="399" caption="Crescimento de redes sociais"][![Crescimento de redes sociais]({{BASE_PATH}}/images/2009-05-30-afinal-de-contas-pra-que-twitter/comparacaoTwitter-20090521192316.jpg)](http://info.abril.uol.com.br/noticias/internet/usuarios-do-twitter-triplicam-em-dois-meses-21052009-40.shl)[/caption]
 
 
 Passar de menos de 2 milhões de usuários no começo do ano passado para mais e 30 milhões este ano é algo realmente surpreendente. É um crescimento maior que o [Facebook](http://www.facebook.com/), a rede social mais famosa ultimamente fora do Brasil (aqui o [Orkut](http://www.orkut.com) ainda reina).

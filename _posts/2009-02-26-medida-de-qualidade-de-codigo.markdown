@@ -16,4 +16,4 @@ tags:
 
 Método WTF
 
-[caption id="" align="alignnone" width="500" caption="http://www.osnews.com/story/19266/WTFs_m"][![http://www.osnews.com/story/19266/WTFs_m]({{BASE_PATH}}images/2009-02-26-medida-de-qualidade-de-codigo/wtfm.jpg)](http://www.osnews.com/story/19266/WTFs_m)[/caption]
+[caption id="" align="alignnone" width="500" caption="http://www.osnews.com/story/19266/WTFs_m"][![http://www.osnews.com/story/19266/WTFs_m]({{BASE_PATH}}/images/2009-02-26-medida-de-qualidade-de-codigo/wtfm.jpg)](http://www.osnews.com/story/19266/WTFs_m)[/caption]

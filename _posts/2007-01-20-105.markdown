@@ -13,4 +13,4 @@ tags:
 - Engenharia de Software
 ---
 
-[![Miracle]({{BASE_PATH}}images/2007-01-20-105/miracle.jpg)]({{BASE_PATH}}images/2007-01-20-105/miracle.jpg)
+[![Miracle]({{BASE_PATH}}/images/2007-01-20-105/miracle.jpg)]({{BASE_PATH}}/images/2007-01-20-105/miracle.jpg)

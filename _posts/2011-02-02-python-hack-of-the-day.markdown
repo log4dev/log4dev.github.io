@@ -12,6 +12,9 @@ tags:
 - Python
 ---
 
+[![](http://vidadesuporte.com.br/wp-content/uploads/2012/10/Suporte_568.jpg)](http://vidadesuporte.com.br/suporte-a-serie/ma-influencia/)
+
+
 Da série "coisas bobas que me fazem gostar mais ainda de **Python**"...
 
 **Problema a ser resolvido: **gerar uma sequência aleatória de digitos e caracteres ASCII para criação de senhas automáticas.

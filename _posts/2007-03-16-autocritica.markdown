@@ -14,7 +14,7 @@ tags:
 
 Foto de uma palestra do pessoal da Motorola...
 
-![]({{BASE_PATH}}images/2007-03-16-autocritica/SneakPictureOfAslidePresentedAtMotorola.JPG)
+![]({{BASE_PATH}}/images/2007-03-16-autocritica/SneakPictureOfAslidePresentedAtMotorola.JPG)
 
 Será que o tema era **"interface de celular"** ?
 

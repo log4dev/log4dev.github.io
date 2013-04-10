@@ -11,6 +11,6 @@ tags:
 - Hardware
 ---
 
-[![Apple Evolution]({{BASE_PATH}}images/2007-06-26-apple-ao-longo-dos-anos/apple_evolution.jpg)]({{BASE_PATH}}images/2007-06-26-apple-ao-longo-dos-anos/apple_evolution.jpg)
+[![Apple Evolution]({{BASE_PATH}}/images/2007-06-26-apple-ao-longo-dos-anos/apple_evolution.jpg)]({{BASE_PATH}}/images/2007-06-26-apple-ao-longo-dos-anos/apple_evolution.jpg)
 
 Clique na imagem para ver em tamanho real

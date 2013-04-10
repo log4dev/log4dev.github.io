@@ -17,7 +17,7 @@ tags:
 [](http://xkcd.com/353/)
 
 
-[![Python]({{BASE_PATH}}images/2007-12-05-python/python.png)](http://xkcd.com/353/)
+[![Python]({{BASE_PATH}}/images/2007-12-05-python/python.png)](http://xkcd.com/353/)
 
 
 

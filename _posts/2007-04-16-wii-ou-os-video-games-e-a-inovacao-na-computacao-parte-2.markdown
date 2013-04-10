@@ -17,7 +17,7 @@ tags:
 Continuando a falar um pouco sobre vídeo-games e o impacto que eles causam na evolução da computação (meu primeiro post sobre este assunto você encontra [aqui](http://log4dev.wordpress.com/2007/04/09/os-video-games-e-a-inovacao-na-computacao/)) eu vou falar um pouco do Wii, o vídeo-game de sétima geração da Nintendo.
 
 
-![Wii]({{BASE_PATH}}images/2007-04-16-wii-ou-os-video-games-e-a-inovacao-na-computacao-parte-2/photo_console.jpg)
+![Wii]({{BASE_PATH}}/images/2007-04-16-wii-ou-os-video-games-e-a-inovacao-na-computacao-parte-2/photo_console.jpg)
 
 
 

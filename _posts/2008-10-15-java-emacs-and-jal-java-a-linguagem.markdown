@@ -10,7 +10,7 @@ tags:
 - Java Emacs
 ---
 
-![Real programmers]({{BASE_PATH}}images/2008-10-15-java-emacs-and-jal-java-a-linguagem/real_programmers.png)
+![Real programmers]({{BASE_PATH}}/images/2008-10-15-java-emacs-and-jal-java-a-linguagem/real_programmers.png)
 
 Comecei a utilizar **Emacs** no início da minha primeira iniciação científica, nos idos de 1999. Fui feliz durante muito tempo, escrevendo código em Perl e C, algumas páginas HTML, diversos relatórios em Latex ... tudo muito tranqüilo, nenhuma reclamação com aquele ambiente de desenvolvimento.
 

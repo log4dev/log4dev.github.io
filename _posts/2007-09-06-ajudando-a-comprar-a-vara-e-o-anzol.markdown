@@ -27,7 +27,7 @@ Atualmente, só há empresários da África e da Ásia cadastrados para receber 
 Está é uma idéia muito boa, e mostra como a tecnologia que desenvolvemos pode ser empregada para mudar a vida dos menos favorecidos. Não fosse o poder agregador da Internet, nada disso seria possível, ao menos não nesta escala. Conheça este projeto, e se possível, ajude a fazer a vida de outros melhor.
 
 [
-![Kiva - loans that change lives]({{BASE_PATH}}images/2007-09-06-ajudando-a-comprar-a-vara-e-o-anzol/bannerlong.png)](http://www.kiva.org)
+![Kiva - loans that change lives]({{BASE_PATH}}/images/2007-09-06-ajudando-a-comprar-a-vara-e-o-anzol/bannerlong.png)](http://www.kiva.org)
 
 
 Powered by [ScribeFire](http://scribefire.com/).

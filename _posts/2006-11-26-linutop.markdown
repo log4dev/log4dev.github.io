@@ -13,7 +13,7 @@ tags:
 
 Achei o site do **[Linutop](http://www.linutop.com) **no RSS do Top Links do de.licio.us. O site é bem simples e não dá muitas informações, mas a idéia parece ser bem interessante: um **terminal low-cost **e low-power rodando **linux** e um conjunto reduzido de aplicações para o dia a dia (Firefox, abiword, Gaim, Totem Media player e PDF reader). Se alguém tiver mais informações, postem comentários.
 
-![]({{BASE_PATH}}images/2006-11-26-linutop/linutop_polo.jpg)
+![]({{BASE_PATH}}/images/2006-11-26-linutop/linutop_polo.jpg)
 
 Do site:
 

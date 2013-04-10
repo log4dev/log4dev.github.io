@@ -22,7 +22,7 @@ E ainda a este respeito...
 [](http://xkcd.com/208/)
 
 
-[![]({{BASE_PATH}}images/2007-11-19-regexp-nossa-de-cada-dia/regular_expressions.png)](http://xkcd.com/208/)
+[![]({{BASE_PATH}}/images/2007-11-19-regexp-nossa-de-cada-dia/regular_expressions.png)](http://xkcd.com/208/)
 
 
 

@@ -21,8 +21,8 @@ Atualmente existe alguns movimentos que visam a adoção de padrões por esses n
 
 Como deveria ser (uma carinha feliz):
 
-[![]({{BASE_PATH}}images/2006-07-18-web-web-standards/como_deveria_ser.png)](http://photos1.blogger.com/blogger/5614/1970/1600/como_deveria_ser.png)
+[![]({{BASE_PATH}}/images/2006-07-18-web-web-standards/como_deveria_ser.png)](http://photos1.blogger.com/blogger/5614/1970/1600/como_deveria_ser.png)
 Como é no Firefox (carinha tomou um LSD no dia anterior):
 
-[![]({{BASE_PATH}}images/2006-07-18-web-web-standards/como_eh_firefox.png)](http://photos1.blogger.com/blogger/5614/1970/1600/como_eh_firefox.png)
-Como é no IE (carinha passou por uma rebelião do PCC):[![]({{BASE_PATH}}images/2006-07-18-web-web-standards/como_eh_ie.png)](http://photos1.blogger.com/blogger/5614/1970/1600/como_eh_ie.png)
+[![]({{BASE_PATH}}/images/2006-07-18-web-web-standards/como_eh_firefox.png)](http://photos1.blogger.com/blogger/5614/1970/1600/como_eh_firefox.png)
+Como é no IE (carinha passou por uma rebelião do PCC):[![]({{BASE_PATH}}/images/2006-07-18-web-web-standards/como_eh_ie.png)](http://photos1.blogger.com/blogger/5614/1970/1600/como_eh_ie.png)

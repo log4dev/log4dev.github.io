@@ -10,4 +10,4 @@ categories:
 - Humor
 ---
 
-[![Sanduiche]({{BASE_PATH}}images/2007-05-31-sudo/sandwich.png)]({{BASE_PATH}}images/2007-05-31-sudo/sandwich.png)
+[![Sanduiche]({{BASE_PATH}}/images/2007-05-31-sudo/sandwich.png)]({{BASE_PATH}}/images/2007-05-31-sudo/sandwich.png)

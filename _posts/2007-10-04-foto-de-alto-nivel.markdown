@@ -13,4 +13,4 @@ tags:
 
 Como bom macmaníaco, não podia de colocar aqui esta foto que recebi por email. Concentração de Macmaníacos!
 
-[![m1.jpg]({{BASE_PATH}}images/2007-10-04-foto-de-alto-nivel/m1.jpg)]({{BASE_PATH}}images/2007-10-04-foto-de-alto-nivel/m1.jpg)
+[![m1.jpg]({{BASE_PATH}}/images/2007-10-04-foto-de-alto-nivel/m1.jpg)]({{BASE_PATH}}/images/2007-10-04-foto-de-alto-nivel/m1.jpg)

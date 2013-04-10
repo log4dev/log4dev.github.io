@@ -22,7 +22,7 @@ Eu e Graziela somos apaixonados por brinquedinhos tecnológicos, e ambos gostamo
 
 O design é inconfundívelvelmente Apple. Clean, minimalista, que fica muito bem ao lado da TV. O formato é  semelhante ao de outros aparelhos como o Mac Mini, o Time Capsule e o AirPort.
 
-![]({{BASE_PATH}}images/2009-03-07-apple-tv/AppleTV2.jpg)
+![]({{BASE_PATH}}/images/2009-03-07-apple-tv/AppleTV2.jpg)
 
 A parte de conectividade é toda voltada para TV: porta HDI, vídeo componente (3 entradas), áudio analógico, áudio digital ótico, além de ethernet, e wifi, essenciais para link com o iTunes Music Store. Existe uma porta USB, que supostamente existe apenas para acesso da Apple, mas com um pouco de busca pela internet, descobre-se que é bastante fácil hackear e habilitar a dita cuja.
 

@@ -14,6 +14,6 @@ tags:
 - MacBook
 ---
 
-![Commodore SX-64 versus MacBook Air]({{BASE_PATH}}images/2008-01-27-commodore-sx-64-versus-macbook-air/macbookcommodorecompare.jpg)
+![Commodore SX-64 versus MacBook Air]({{BASE_PATH}}/images/2008-01-27-commodore-sx-64-versus-macbook-air/macbookcommodorecompare.jpg)
 
 Miguel, não resisti...

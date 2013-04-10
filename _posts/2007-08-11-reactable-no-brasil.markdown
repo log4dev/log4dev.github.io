@@ -16,7 +16,7 @@ Em março eu escrevi este artigo [aqui](http://log4dev.com/2007/03/10/multi-user
 
 
 
-[![Reactable]({{BASE_PATH}}images/2007-08-11-reactable-no-brasil/gal01gde.jpg)]({{BASE_PATH}}images/2007-08-11-reactable-no-brasil/gal01gde.jpg)
+[![Reactable]({{BASE_PATH}}/images/2007-08-11-reactable-no-brasil/gal01gde.jpg)]({{BASE_PATH}}/images/2007-08-11-reactable-no-brasil/gal01gde.jpg)
 Foto: Martin Kaltenbrunner
 
 Para quem quiser ver um destes em ação, a edição do FILE 2007 - Festival Internacional de Linguagem Eletrônica, no SESI de São Paulo - SP,  de 14 de agosto a 9 de setembro, vai ter demonstração do uso deste sintetizador com os músicos da banda da contora Björk.

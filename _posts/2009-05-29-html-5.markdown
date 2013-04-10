@@ -25,7 +25,7 @@ O tempo passou.
 Hoje recebi um link do texto [Google Bets Big on HTML 5: News from Google I/O](http://radar.oreilly.com/2009/05/google-bets-big-on-html-5.html)
 da Oreilly falando sobre o interesse do Google no HTML 5, e um gráfico me chamou bastante a atenção
 
-![]({{BASE_PATH}}images/2009-05-29-html-5/html5.png)
+![]({{BASE_PATH}}/images/2009-05-29-html-5/html5.png)
 
 Achei interessante ver que uma lista interessante de recursos começam a aparecer em navegadores. Obviamente o IE não está na lista. Workers, Database e Canvas vão permitir um grande avanço nas aplicações Web, sem a necessidade de uso de plugins de terceiros, como o Google Gears.
 

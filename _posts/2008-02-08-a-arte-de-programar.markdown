@@ -10,7 +10,7 @@ categories:
 - Humor
 ---
 
-[![]({{BASE_PATH}}images/2008-02-08-a-arte-de-programar/art-of-programming.jpg)](http://itmanagement.earthweb.com/cnews/article.php/12035_3726831_2)
+[![]({{BASE_PATH}}/images/2008-02-08-a-arte-de-programar/art-of-programming.jpg)](http://itmanagement.earthweb.com/cnews/article.php/12035_3726831_2)
 
 
 Por Oliver Widder ([http://itmanagement.earthweb.com/cnews/article.php/12035_3726831_2](http://itmanagement.earthweb.com/cnews/article.php/12035_3726831_2))

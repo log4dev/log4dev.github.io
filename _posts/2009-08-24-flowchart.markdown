@@ -12,7 +12,7 @@ categories:
 
 Vários assuntos polêmicos rondam minha mente, mas a comunicação com o teclado anda complicada ultimamente. Por isso, vou comentar uma tira que acabei de ver no meu Reader, e que me lembra muito algo que acontece de forma recorrente comigo.
 
-[caption id="" align="alignnone" width="638" caption="De http://xkcd.com/627/"][![De http://xkcd.com/627/]({{BASE_PATH}}images/2009-08-24-flowchart/tech_support_cheat_sheet.png)]({{BASE_PATH}}images/2009-08-24-flowchart/tech_support_cheat_sheet.png)[/caption]
+[caption id="" align="alignnone" width="638" caption="De http://xkcd.com/627/"][![De http://xkcd.com/627/]({{BASE_PATH}}/images/2009-08-24-flowchart/tech_support_cheat_sheet.png)]({{BASE_PATH}}/images/2009-08-24-flowchart/tech_support_cheat_sheet.png)[/caption]
 
 Minha esposa vira e mexe fica chateada comigo, quando me pede para que eu a ensine a fazer certas ações no computador, e eu digo que eu só sei fazer FAZENDO.Ela acha que eu tenho preguiça de explicar, e prefiro fazer sozinho para terminar rápido e voltar para o meu mundinho. A imagem acima define perfeitamente como nossa cabeça funciona: não sabemos fazer, mas sabemos como fuçar.
 

@@ -11,6 +11,10 @@ categories:
 - Ferramentas
 ---
 
+[![](http://blog.bitbucket.org/wp-content/uploads/2011/10/bitbucket-now-with-git1.png)](http://blog.bitbucket.org/wp-content/uploads/2011/10/bitbucket-now-with-git1.png)
+
+
+
 A partir de hoje existe. Segue um trecho do anúncio no [blog do Bitbucket](http://blog.bitbucket.org/2011/10/03/bitbucket-now-rocks-git/):
 
 
