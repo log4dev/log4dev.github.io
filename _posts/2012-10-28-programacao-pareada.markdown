@@ -10,8 +10,9 @@ categories:
 - Desenvolvimento
 ---
 
-
-[![](http://www.commitstrip.com/wp-content/uploads/2012/08/Strips-Pair-coding-550-finalenglish.jpg)](http://www.commitstrip.com/en/2012/08/14/pair-programming/)
+<div style="text-align: center;" markdown="1">
+    [![](http://www.commitstrip.com/wp-content/uploads/2012/08/Strips-Pair-coding-550-finalenglish.jpg)](http://www.commitstrip.com/en/2012/08/14/pair-programming/)
+</div>
 
 Acredito que 99.9% dos desenvolvedores ja ouviram falar de progamaçao pareada, e certamente quase todos, consciente ou inconscientemente, ja fez uso desta pratica de desenvolvimento. Meu objetivo neste _post_ nao e descrever esta tecnica, nem ensinar como aplica-la, mas sim relatar um pouco da minha experiencia "pareando", e o que tenho aprendido com ela.
 
