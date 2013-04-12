@@ -36,13 +36,13 @@ Já o Vagrant é um criador de máquinas virtuais, sendo capaz de gerar VMs do V
 
 Como você já deve ter adivinhado, o Vagrant usa o Chef para configurar e instalar pacotes em uma VM. Ambos permitem transformar a configuração de uma máquina em um simples script, que pode ser facilmente distribuido entre todos os desenvolvedores de um projeto (resolvendo outra dor de cabeça: ambientes heterogêneos. Quem nunca sofreu com isso que jogue a primeira pedra).
 
-Resolvi por a mão na massa e montar setup básico para criar uma VM Ubuntu 12.04 com NGINX servindo uma página HELLO WORLD. Deu certo, e resolvi compartilhar este código com o mundo. Como este texto já está ficando longo, vou dar aqui a receitinha de bolo pra executar o meu setup, que espero, poderá servir de V0 para outros interessados no assunto. 
+Resolvi por a mão na massa e montar setup básico para criar uma VM Ubuntu 12.04 com NGINX servindo uma página HELLO WORLD. Deu certo, e resolvi compartilhar este código com o mundo. Como este texto já está ficando longo, vou dar aqui apenas a receitinha de bolo pra executar o meu setup que, espero, poderá servir de ponto de partida para outros interessados no assunto. 
 
 Vamos lá:
 
 1. Instale o VirtualBox, disponível em <https://www.virtualbox.org/>;
 
-1. Instale Vagrant, disponivel no site <http://vagrantup.com>;
+1. Instale Vagrant >= 1.1.X, disponivel no site <http://vagrantup.com>;
 
 1. Instale ruby 1.9;
 
@@ -50,15 +50,16 @@ Vamos lá:
 
     `> gem install chef`
 
-1. Instale vagrant-omnibus:
+1. Instale o plugin vagrant-omnibus. Ele garante que o Chef estará instalado na versão correta na VM:
 
-    `> gem install vagrant-omnibus`
+    `> vagrant plugin install vagrant-omnibus`
+
 
 1. Instale uma box do Ubuntu 12.04 no Vagrant :
 
-    `> vagrant box add http://dl.dropbox.com/u/1537815/precise64.box`
+    `> vagrant box add precise64 http://dl.dropbox.com/u/1537815/precise64.box`
 
-    (caso prefira outro sabor de Linux, existe uma lista bastante grande de opções disponível em <http://www.vagrantbox.es/>)
+    (caso prefira outro sabor de Linux, existe uma lista bastante grande de listadas em <http://www.vagrantbox.es/>)
 
 1. Baixe o meu template de código no GitHub:
 
@@ -70,7 +71,8 @@ Vamos lá:
 
     `> vagrant up`
 
-1. Abra seu navegador favorito e acesse <http://192.168.10.33/>;
+1. Acesse <http://192.168.33.10/>;
+
 
 1. Hello World!
 
