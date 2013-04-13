@@ -12,4 +12,9 @@ categories:
 
 Acabo de voltar de férias e, coincidentemente, a tira de hoje do PHD Comics me pareceu muito aproriada:
 
-[caption id="" align="alignnone" width="600" caption="Vacation Relaxation? - PHDComics (2009-09-28)"][![Vacation Relaxation? - PHDComics (2009-09-28)]({{BASE_PATH}}/images/2009-09-29-ferias/phd092809s.gif)]({{BASE_PATH}}/images/2009-09-29-ferias/phd092809s.gif)[/caption]
+<table align="center" style="margin-top: 2em; margin-bottom: 2em">
+    <caption align="bottom">Vacation Relaxation? - PHDComics</caption>
+    <tr><td>
+     <img src="/images/2009-09-29-ferias/phd092809s.gif" />
+    </td></tr>
+</table>

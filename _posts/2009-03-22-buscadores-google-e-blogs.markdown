@@ -18,7 +18,12 @@ No final do ano passado, descobrimos um problema no nosso engine de blog (descri
 
 Como uma imagem vale mais do que 1000 palavras, eis o nosso gráfico de visitas dos últimos meses:
 
-[caption id="attachment_494" align="alignnone" width="317" caption="Efeitos da falta do Google no blog...."]![Efeitos da falta do Google no blog....]({{BASE_PATH}}/images/2009-03-22-buscadores-google-e-blogs/log4dev.png)[/caption]
+<table align="center" style="margin-top: 2em; margin-bottom: 2em">
+    <caption align="bottom">Efeitos da falta do Google no blog....</caption>
+    <tr><td>
+     <img src="/images/2009-03-22-buscadores-google-e-blogs/log4dev.png" />
+    </td></tr>
+</table>
 
 Existem 3 momentos interessantes a serem analisados neste gráfico, dois dos quais foram citados pelo Raphael: o início do problema, em agosto de 2008. A resolução dele em dezembro de 2008. E a retomada em março de 2009.
 

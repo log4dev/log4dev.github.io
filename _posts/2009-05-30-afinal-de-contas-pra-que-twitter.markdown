@@ -16,7 +16,12 @@ tags:
 
 O [Twitter](http://twitter.com) já foi tema de alguns posts aqui no log4dev. E, é claro que, como um bom blog de tecnologia que pretendemos ser (um dia a gente chega lá), não podíamos deixar de falar deste fenômeno da famigerada "rede mundial de computadores, a Internet" (como diria o William Bonner no Jornal Nacional). Ainda mais considerando que esta é a rede social que mais rapidamente cresce na Internet. Dá uma olhada neste gráfico gerado pela comScore:
 
-[caption id="" align="aligncenter" width="399" caption="Crescimento de redes sociais"][![Crescimento de redes sociais]({{BASE_PATH}}/images/2009-05-30-afinal-de-contas-pra-que-twitter/comparacaoTwitter-20090521192316.jpg)](http://info.abril.uol.com.br/noticias/internet/usuarios-do-twitter-triplicam-em-dois-meses-21052009-40.shl)[/caption]
+<table align="center" style="margin-top: 2em; margin-bottom: 2em">
+    <caption align="bottom">Crescimento de redes sociais - (http://info.abril.com.br/noticias/internet/usuarios-do-twitter-triplicam-em-dois-meses-21052009-40.shl)</caption>
+    <tr><td>
+     <img src="/images/2009-05-30-afinal-de-contas-pra-que-twitter/comparacaoTwitter-20090521192316.jpg" />
+    </td></tr>
+</table>
 
 
 Passar de menos de 2 milhões de usuários no começo do ano passado para mais e 30 milhões este ano é algo realmente surpreendente. É um crescimento maior que o [Facebook](http://www.facebook.com/), a rede social mais famosa ultimamente fora do Brasil (aqui o [Orkut](http://www.orkut.com) ainda reina).
@@ -42,11 +47,9 @@ Há pouco tempo fiquei até mais feliz quando li um artigo que dizia que o Twitt
 Até que recebi este vídeo de um amigo meu que conseguiu externalizar tudo o que eu sempre pensei sobre o Twitter mas nunca soube como falar:
 
 
+<iframe width="640" height="480" src="http://www.youtube.com/embed/PN2HAroA12w" frameborder="0">
+</iframe>
 
-
-
-[
-](http://www.youtube.com/v/PN2HAroA12w&hl=en&fs=1)
 
 
 Ou seja, o Twitter, tirando estas outras utilidades que eu citei e que provavelmente não correspondem a quase nada do tráfego deles, nada mais é do que uma ferramenta para aliviar a carência de indivíduos que não tem nada de mais útil para fazer além de achar que sua vida sem graça tem algum sentido para os outros.

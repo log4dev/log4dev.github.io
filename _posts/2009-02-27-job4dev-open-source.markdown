@@ -13,7 +13,7 @@ categories:
 
 Esse é auto-explicativo. Vamos colocar em breve o código do Job4Dev disponível sob uma licença open-source. A razão é simples: nós gostamos do projeto, mas não temos _manpower_ suficiente para fazer ele crescer na velocidade que gostaríamos.
 
-Seria inocência achar que basta tornar o projeto open-source e automaticamente hordas de desenvolvedores promoverão a evolução do sistema. Eu mesmo, que sempre tive acesso ao servidor e ao repositório de código, só passei a trabalhar quando fui chamado para uma entrevista de emprego* em que os projetos são feitos em Python/Django, e decidi usar o Job4Dev como instrumento de aprendizado.
+Seria inocência achar que basta tornar o projeto open-source e automaticamente hordas de desenvolvedores promoverão a evolução do sistema. Eu mesmo, que sempre tive acesso ao servidor e ao repositório de código, só passei a trabalhar quando fui chamado para uma entrevista de emprego`*` em que os projetos são feitos em Python/Django, e decidi usar o Job4Dev como instrumento de aprendizado.
 
 
 Mas há alguns benefícios em abrir o código:
@@ -49,4 +49,4 @@ Espero que até o início da semana que vem nós tenhamos definido qual esquema 
 * * *
 
 
-(*) Não, eu não menti na entrevista. Falei que tinha experiência com Python, com aplicações web e que trabalhei com sistemas feitos em Django apenas de forma superficial. Sim, é esse o lugar onde estou trabalhando agora.
+(`*`) Não, eu não menti na entrevista. Falei que tinha experiência com Python, com aplicações web e que trabalhei com sistemas feitos em Django apenas de forma superficial. Sim, é esse o lugar onde estou trabalhando agora.
