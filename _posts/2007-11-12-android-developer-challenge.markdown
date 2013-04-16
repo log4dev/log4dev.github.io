@@ -6,14 +6,12 @@ layout: post
 slug: android-developer-challenge
 title: Android Developer Challenge
 wordpress_id: 210
-categories:
-- Negocios
-- Notícias
 tags:
 - Economia
 - Google
 - Mobile
 - Startup
+- Android
 ---
 
 Se uma empresa produz sistemas operacionais e deseja que a sua plataforma domine o mercado, ela tem duas opções:

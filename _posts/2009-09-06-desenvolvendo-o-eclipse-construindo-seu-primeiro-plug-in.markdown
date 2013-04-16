@@ -16,7 +16,7 @@ tags:
 - Ferramentas
 - Linguagens de Programação
 - Linux
-- Plug-in
+- Software Livre
 ---
 
 Escutamos muito as pessoas falarem em desenvolvimento no Eclipse, utilizando esta ferramenta poderosa como plataforma de desenvolvimento. Para mim o Eclipse é a melhor plataforma de desenvolvimento genérica na qual eu já trabalhei. E, certamente, é uma das melhores plataformas de desenvolvimento para Java (para mim A melhor) e C/C++ (com certeza não A melhor) que eu já usei.

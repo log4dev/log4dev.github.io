@@ -7,11 +7,11 @@ slug: bizarro-mas-muito-util
 title: Bizarro… mas muito útil!
 wordpress_id: 349
 categories:
-- Desenvolvimento
 tags:
-- bizarro
 - C
-- macros
+- Desenvolvimento
+- Programação
+- Engenharia de Software
 ---
 
 O artigo do Miguel sobre [perólas do mundo Java](http://log4dev.com/2008/08/10/perolas-do-mundo-java/) me fez lembrar de um trecho de código com o qual me deparei há um tempo atrás que me parecia também muito bizarro... até eu sacar um pouco depois a imensa utilidade dele!

@@ -12,8 +12,8 @@ categories:
 tags:
 - Código Aberto
 - FOSS
-- inovação
-- software livre
+- Inovação
+- Software Livre
 ---
 
 Tem uma coisa que o Raphael vira e mexe fala que me dá arrepios: "[FOSS](http://en.wikipedia.org/wiki/Free_and_open_source_software) não funciona como estímulo para a inovação". A última vez que eu me lembro que ele falou isso foi [aqui](http://log4dev.com/2008/04/24/como-financiar-a-producao-de-uma-economia-onde-o-consumo-e-livre/). E pelo jeito não sou o único que tem estes arrepios como se pode ver pelo comentário do [Carlos Costa](http://www.carloscosta.org/) neste mesmo post do Raphael.

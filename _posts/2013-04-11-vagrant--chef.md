@@ -7,7 +7,7 @@ comments: true
 date: 2013-04-11
 description: ""
 category: 
-tags: []
+tags: [DevOps, Desenvolvimento, Ferramentas, Hardware]
 ---
 {% include JB/setup %}
 

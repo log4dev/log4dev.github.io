@@ -9,7 +9,6 @@ wordpress_id: 493
 categories:
 - Meta
 tags:
-- Add new tag
 - Google
 - Web
 ---

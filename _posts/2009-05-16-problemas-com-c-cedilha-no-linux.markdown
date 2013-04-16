@@ -7,15 +7,11 @@ slug: problemas-com-c-cedilha-no-linux
 title: Problemas com c-cedilha no Linux
 wordpress_id: 554
 categories:
-- Linux
-- Produto
 tags:
-- cedilha
 - Gnome
 - KDE
 - Linux
-- português
-- teclado
+- Software Livre
 ---
 
 Eu não consigo entender como, até hoje, ainda é possível que eu tenha problemas com coisas simples no Linux como, por exemplo, o c-cedilha.

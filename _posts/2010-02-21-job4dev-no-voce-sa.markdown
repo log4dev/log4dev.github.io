@@ -7,11 +7,8 @@ slug: job4dev-no-voce-sa
 title: Job4Dev no Você S/A
 wordpress_id: 726
 categories:
-- Notícias
 tags:
-- job4dev
 - Notícia
-- vocesa
 ---
 
 A [Você S/A de fevereiro](http://vocesa.abril.com.br/edicoes-impressas/140.shtml) publicou uma artigo sobre como encontrar vagas de emprego no Twitter, e citou o [job4dev](http://twitter.com/job4dev) como fonte, dentre outras. A materia completa pode ser lida [aqui](http://vocesa.abril.com.br/edicoes-impressas/140.shtml).

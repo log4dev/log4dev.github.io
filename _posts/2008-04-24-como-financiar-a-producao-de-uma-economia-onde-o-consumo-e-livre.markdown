@@ -6,6 +6,10 @@ layout: post
 slug: como-financiar-a-producao-de-uma-economia-onde-o-consumo-e-livre
 title: Como financiar a produção de uma economia onde o consumo é livre?
 wordpress_id: 281
+tags:
+- FOSS
+- Software Livre
+- Inovação
 ---
 
 "Não existe almoço grátis", diria Milton Friedman. A máxima tem um fundamento importante: mesmo quando as coisas não vêm com uma etiqueta indicando um _preço_, não quer dizer que elas deixaram de ter um _custo_. O software pode ter sido obtido de graça (seja software de código-livre, seja software pirata), mas o desenvolvedor deseja certamente ser recompensado pelo tempo que dedicou ao trabalho.

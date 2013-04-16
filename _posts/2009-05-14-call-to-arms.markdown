@@ -7,13 +7,9 @@ slug: call-to-arms
 title: Call to arms
 wordpress_id: 555
 categories:
-- Desenvolvimento
-- Produto
 tags:
 - Brasil
-- Comunidade
 - Django
-- job board
 - Open Source
 - Python
 ---

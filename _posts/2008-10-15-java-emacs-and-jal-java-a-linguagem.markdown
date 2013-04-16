@@ -7,7 +7,12 @@ slug: java-emacs-and-jal-java-a-linguagem
 title: Java, Emacs and JaL (Java, a Linguagem)
 wordpress_id: 362
 tags:
-- Java Emacs
+- Java
+- Perl
+- C
+- HTML
+- Emacs
+- Eclipse
 ---
 
 ![Real programmers]({{BASE_PATH}}/images/2008-10-15-java-emacs-and-jal-java-a-linguagem/real_programmers.png)

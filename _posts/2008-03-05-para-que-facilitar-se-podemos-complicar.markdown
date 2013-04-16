@@ -9,7 +9,10 @@ wordpress_id: 257
 categories:
 - Tutorial
 tags:
-- Linux Ferramentas Redes
+- Linux
+- Ferramentas
+- Redes
+- Software Livre
 ---
 
 **Por Ricardo Capitanio**
