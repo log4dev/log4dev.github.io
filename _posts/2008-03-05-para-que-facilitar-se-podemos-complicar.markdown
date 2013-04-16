@@ -28,11 +28,11 @@ Como em qualquer trhead relacionada à software livre, o leitor encontrará lá 
 
 
 > I'm rejecting this bug, as the ssl-cert package provides make-ssl-cert and also usr/share/ssl-cert/ssleay.cnf.
-If you feel that this is not sufficient, feel free to reopen this bug.
+> If you feel that this is not sufficient, feel free to reopen this bug.
 
 
 Muito bem! É um típico exemplo em que por algum motivo não se pensa no usuário.  A retirada do script deve ter algum motivo técnico, talvez economizar alguns KBytes. Mas isso me custou alguns minutos a mais somente para executar uma única ridícula linha do tutorial. Com certeza, a perda de tempo não só minha mas de outros vários usuários não foi levada em consideração.
 
 Eu nunca terei uma distribuição Linux própria, mas se esse for o seu caso, pense bem antes de remover alguns KBytes da sua. Ah... a solução que adotei? Estava naquela thread, bem [aqui.](https://launchpad.net/ubuntu/+source/apache2/+bug/77675/comments/15)
 
-**[Ricardo Capitanio é Engenheiro de Computação formado pela UNICAMP, e tem um longo registro de terrorismo contra call centers, Telefônica, Claro, e agora Ubuntu]**
+**Ricardo Capitanio é Engenheiro de Computação formado pela UNICAMP, e tem um longo registro de terrorismo contra call centers, Telefônica, Claro, e agora Ubuntu**

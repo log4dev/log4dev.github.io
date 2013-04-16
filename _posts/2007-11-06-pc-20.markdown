@@ -39,7 +39,7 @@ Acho que o que eu escrevi acima não é nenhuma novidade. A velocidade do ciclo 
 ### Padronização do Desktop: um pouco de História.
 
 
-Computadores, hoje, são quase oni-presentes e aparentemente são bastante diferentes.  Mas, por baixo de marca,  gabinete, ou até mesmo sistema operacional,  todos acabam sendo muito parecidos.  Todo mundo (e por todo mundo, entenda "mais de 99,99% dos consumidores normais") tem um computador que usa um chip com arquitetura x86 (ou alguma extensão dela, como a x86-64). Placas auxiliares são instaladas em slots padronizados (AGP, PCI ou PCI-x). Periféricos se comunicam através de USB. Comunicação sem fio é predominantemente feita por Wi-Fi (802.11*).
+Computadores, hoje, são quase oni-presentes e aparentemente são bastante diferentes.  Mas, por baixo de marca,  gabinete, ou até mesmo sistema operacional,  todos acabam sendo muito parecidos.  Todo mundo (e por todo mundo, entenda "mais de 99,99% dos consumidores normais") tem um computador que usa um chip com arquitetura x86 (ou alguma extensão dela, como a x86-64). Placas auxiliares são instaladas em slots padronizados (AGP, PCI ou PCI-x). Periféricos se comunicam através de USB. Comunicação sem fio é predominantemente feita por Wi-Fi (802.11\*).
 
 Tudo isso não acontece por acaso. São **padrões** determinados pela indústria, com o propósito primário de facilitar o desenvolvimento e a fabricação de componentes para um sistema complexo. Assim, subsistemas desse sistema complexo podem ser trocados com razoavel segurança. Assim como eu sei que eu posso colocar qualquer motor elétrico de 110V na tomada aqui de casa, eu sei que eu posso comprar qualquer Pen Drive USB para o meu computador, e sei que vai funcionar.
 

@@ -34,16 +34,16 @@ Chega de preâmbulos, vamos ao ponto:
 
 
 
-Se executarmos a a função uma primeira vez, passando apenas um argumento, o resultado é o esperado: _f(1) _imprime _[1] _na tela. Mas se executarmos uma segunda vez, em vez de imprimir _[2]_, a função f imprime _[1,2]_. Eu custei a acreditar nisso, e tive que confirmar pessoalmente.
+Se executarmos a a função uma primeira vez, passando apenas um argumento, o resultado é o esperado: _f(1)_ imprime _1_ na tela. Mas se executarmos uma segunda vez, em vez de imprimir _2_, a função f imprime _1,2_. Eu custei a acreditar nisso, e tive que confirmar pessoalmente.
 
 Fazendo uma busca no Google, descobri na documentação oficial ([http://docs.python.org/ref/function.html](http://docs.python.org/ref/function.html)) que isto realmente é uma **característica mapeada da linguagem**:
 
 
 
-> **Default parameter values are evaluated when the function definition is executed.**  This means that the expression is evaluated once, when the function is defined, and that that same ``pre-computed'' value is used for each call.  This is especially important to understand when a default parameter is a mutable object, such as a list or a dictionary: if the function modifies the object (e.g. by appending an item to a list), the default value is in effect modified.  This is generally not what was intended.  A way around this  is to use `None` as the default, and explicitly test for it in the body of the function [...]
+> **Default parameter values are evaluated when the function definition is executed.**  This means that the expression is evaluated once, when the function is defined, and that that same ''pre-computed'' value is used for each call.  This is especially important to understand when a default parameter is a mutable object, such as a list or a dictionary: if the function modifies the object (e.g. by appending an item to a list), the default value is in effect modified.  This is generally not what was intended.  A way around this  is to use `None` as the default, and explicitly test for it in the body of the function [...]
 
 
 
 Ok, pelo menos está mapeado. Mas a frase texto acima merece _"This is generally not what was intended.  A way around this  is to use `None` as the default, and explicitly test for it in the body of the function_" merece destaque. Afinal, logo após a documentação descrever a funcionalidade, ela reconhece que o efeito é indesejado (afinal, parâmetro de função tem escopo local), e ainda por cima descreve a Solução Rápida de Eficiência Duvidosa, a famosa Gambiarra (ou workaround, no jargão técnico). Ou seja, o problema poderia ser resolvido na fonte e as funções de Python poderiam ter o mesmo comportamento das funções de outras linguagens.
 
-Infelizmente, acabei de dar uma olhada na doc do futuro Python 3.0, e a _feature _permanece......
+Infelizmente, acabei de dar uma olhada na doc do futuro Python 3.0, e a _feature_ permanece ...

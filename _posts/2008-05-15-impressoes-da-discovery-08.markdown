@@ -10,8 +10,6 @@ categories:
 - Notícias
 ---
 
-_(Mais uma contribuição do Thiago "Bart" Bartolomei. O editor-chefe devia estar com sono e esqueceu de publicar...)_
-
 Nesta última segunda e terça eu participei de uma conferência chamada [OCE Discovery](http://www.ocediscovery.com/). Antes de falar sobre o evento em si, é melhor descrever um pouco do contexto. OCE ([Ontario Centres of Excelence](http://www.oce-ontario.org)) é uma iniciativa do governo de Ontario, que é a província mais populosa do Canadá. A idéia principal da OCE é buscar parcerias entre as universidades da província e empresas baseadas por aqui, além de fomentar a criação de novas empresas baseadas em produtos e serviços de alta tecnologia. A Discovery é uma conferência anual onde os vários projetos financiados pela OCE se apresentam. Como meu orientador participa de um desses projetos, eu apresentei um poster sobre a nossa pesquisa, mas, mais importante, pude participar da conferência.
 
 A conferência não é exatamente o que os acadêmicos chamam de conferência. Como o intuito principal é comercializar a pesquisa, os estandes eram bem marqueteados e o galpão me lembrou uma mini fenasoft. Nas minhas passeadas eu vi uns projetos bem interessantes, como um projeto em conjunto com a policia sobre como criar equipamentos para auxiliar os animais policiais (como cães farejadores, etc), vários projetos sobre novos combustíveis e novas tecnologias "verdes" e vários estandes de Venture Capital, gente querendo investir nas suas idéias (e ganhar muito com isso, é claro). Mas o que eu acho mais interessante pra contar aqui foram os assuntos dos 3 keynote speakers e de um painel que participei (bem, eu estava na platéia). Como o post estava ficando grande demais, eu vou falar agora sobre duas palestras e deixar uma palestra e o painel pra um próximo post. Vamos às minhas impressões.
@@ -24,4 +22,4 @@ A teoria do Michael é de que isso é um resultado furado, pois as estatísticas
 
 Bom, achei as palestras bem interessantes e acho que ainda preciso de mais tempo pra remoer melhor os conceitos e as idéias apresentadas. Numa breve ocasião eu comento sobre o restante do evento.
 
-**[Bart é Eng. de Computação formado pela UNICAMP, ex ponta esquerda e central do glorioso time de Handball da Computação e atual doutorando da Universidade de Waterloo, do Canadá.]**
+**Bart é Eng. de Computação formado pela UNICAMP, ex ponta esquerda e central do glorioso time de Handball da Computação e atual doutorando da Universidade de Waterloo, do Canadá.**

@@ -28,13 +28,13 @@ Os clientes Speedy que realizam o acesso à Internet diretamente pela Telefônic
 
 OK, na prática isto quer dizer que aquele usuário internet@speedy.com.br não irá mais funcionar.
 
-Mas o mais interessante é notar na cara de pau da primeira frase:  "Atendendo a decisão judicial a Telefônica **não pode **mais **prestar o "acesso" à internet** diretamente aos clientes do Speedy.". Primeiro por que deixa a entender que a empresa estava permitindo acesso direto sem necessidade de provedor externo de autenticação por vontade própria, o que é falso: foi uma liminar da justiça de São Paulo que a obrigou a fazer isso.
+Mas o mais interessante é notar na cara de pau da primeira frase: "Atendendo a decisão judicial a Telefônica **não pode **mais **prestar o "acesso" à internet** diretamente aos clientes do Speedy.". Primeiro por que deixa a entender que a empresa estava permitindo acesso direto sem necessidade de provedor externo de autenticação por vontade própria, o que é falso: foi uma liminar da justiça de São Paulo que a obrigou a fazer isso.
 
 Segundo porque o texto faz parecer que o tal acesso é algum serviço complexo prestado por ela. Ora, todos sabemos que o tal "acesso" se resume a simplesmente verificar uma senha em uma base de dados! E além do mais, o único serviço prestado de fato pela Telefônica é o de fornecer o acesso à Internet!
 
 Aos descontentes, eu diria que existem basicamente dois caminhos: um caminho possível é mudar de provedor de banda larga, para um que realmente possa oferecer acesso à Internet. A outra é entrar na Justiça. Um bom ponto de início para isso seria o site [ABUSAR (http://www.abusar.org.br/)](http://www.abusar.org.br/).
 
-===========================================
+***
 
 **NOTA DO DIA 07/11/2008**
 

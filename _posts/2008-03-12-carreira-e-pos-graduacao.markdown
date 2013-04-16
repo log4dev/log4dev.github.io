@@ -11,8 +11,6 @@ categories:
 - Pesquisa
 ---
 
-**            Por Thiago "Bart" Bartolomei**
-
 Este post nasceu de um email que eu mandei para amigos esta semana. O objetivo é de abrir uma discussão sobre a validade de se fazer uma pós graduação em área técnica. O que eu vou escrever aqui é a minha percepção, e eu gostaria que vocês comentassem, já que depois da nossa graduação muitos de nós seguiram caminhos bem diferentes na carreira.
 
 Existem basicamente 4 "opções de carreiras" pra quem se formou em Engenharia ou Ciência de Computação (sem contar mudar totalmente de área). Você pode entrar na área de consultoria não-técnica (financeira, management, etc): neste caso, acho que o que mais vale a pena eh fazer um MBA. Pelo que tenho visto, Stanford é a melhor opção, mas eu não tenho experiência pra comentar muito sobre isso.
@@ -33,4 +31,4 @@ Mas eu acredito que o mercado pra PhDs vai aumentar conforme o Brasil cresce e e
 
 Esta é a minha percepção. Vocês concordam com isso? Críticas? Sugestões?
 
-**[Bart é Eng. de Computação formado pela UNICAMP, ex ponta esquerda e central do glorioso time de Handball da Computação e atual doutorando da Universidade de Waterloo, do Canadá.]**
+**Bart é Eng. de Computação formado pela UNICAMP, ex ponta esquerda e central do glorioso time de Handball da Computação e atual doutorando da Universidade de Waterloo, do Canadá.**

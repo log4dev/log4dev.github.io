@@ -26,7 +26,7 @@ Fica claro então que áreas de memória nunca serão perdidas em Java.
 
 **Miguel, você bebeu? Como é que vazamentos podem ocorrer então? **
 
-Bom, quem nunca perde a referência é a JVM.  Mas é possível perder o controle das referências para um objeto. Como eu disse antes, o GC coleta objetos sem referência. Mas e se você esquecer que tem referências perdidas no código e não zerá-las? Aí o objeto nunca será removido, e podemos ter um vazamento de memória, segundo Java. Para apaziguar certos ânimos, passarei a chamar este problema de **Travamento de memória**.
+Bom, quem nunca perde a referência é a JVM. Mas é possível perder o controle das referências para um objeto. Como eu disse antes, o GC coleta objetos sem referência. Mas e se você esquecer que tem referências perdidas no código e não zerá-las? Aí o objeto nunca será removido, e podemos ter um vazamento de memória, segundo Java. Para apaziguar certos ânimos, passarei a chamar este problema de **Travamento de memória**.
 
 A boa notícia é que é bem mais fácil consertar em Java, e isto só se torna um problema real em grandes projetos que criam muitos objetos ao longo do tempo. Se você desenvolve exclusivamente para Web usando servidores de aplicação como JBoss, provavelmente pode fechar este artigo e voltar às suas atividades cotidianas.
 
@@ -36,9 +36,9 @@ Uma situação clássica que pode gerar travamentos é o uso de Observers/Observ
 
 Como resolver isso? Bem, tentar racionalizar o processo de criação e limpeza de objetos, centralizando estes processos em pontos bem controlados. O processo de "limpeza" de recursos é muito importante, sobretudo quando a árvore de objetos e referências for grande.
 
-==========================
+***
 
-Nota do dia 26/10
+*Nota do dia 26/10*
 
 Como bem lembrado pelo leitor Thiago, uma outra possível solução é o uso de WeakReferences em Java. Um objeto deste tipo funciona como uma referência normal em Java, mas não trava o GC: caso um objeto seja referenciado apenas por WeakReferences, ele será coletado normalmente. Vale a pena olhar este artigo:
 

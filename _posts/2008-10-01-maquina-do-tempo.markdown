@@ -23,6 +23,6 @@ Fiz a busca pela palavra iTunes, e comparei os dois primeiros resultados. O prim
 
 Mais informações podem ser encontradas no [Official Google Blog](http://googleblog.blogspot.com/2008/09/2001-search-odyssey.html).
 
-======================================================
+***
 
 **Correção: como foi bem anotado pelo nosso leitor esquentadinho Luis, digno habitante do mundo real (porque o meu aparentemente é o mundo de Alice, quiçá da Lua) , o cache das páginas vem do [Internet Archive](http://www.archive.org/web/web.php) que, confesso, eu não conhecia. Mas é culpa da mídia do meu mundo, um tanto quanto lerda.... **

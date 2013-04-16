@@ -55,4 +55,4 @@ O código acima define um arquivo LATEX mínimo, em que é definida a utilizaç�
 
 Você pode encontrar boas referências sobre o pacote [aqui](http://omnis.if.ufrj.br/%7Eleandro/metcomp/doc/latex.pdf) e  [aqui](http://tug.ctan.org/info/lshort/portuguese-BR/lshortBR.pdf). E deixo aqui um desafio: mesmo que seja fã do Word, tente criar um documento em LaTEX uma vez e veja o resultado final! Aposto que, depois, você não vai querer parar de escrever seus textos com ele!
 
-**[Rafael Naufal é Engenheiro de Software, Mestrando pelo ITA e autor do blog [http://rnaufal.livejournal.com](http://rnaufal.livejournal.com)]**
+**Rafael Naufal é Engenheiro de Software, Mestrando pelo ITA e autor do blog [http://rnaufal.livejournal.com](http://rnaufal.livejournal.com)**

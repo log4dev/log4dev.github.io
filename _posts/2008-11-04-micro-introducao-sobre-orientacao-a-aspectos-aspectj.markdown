@@ -149,8 +149,8 @@ Eu acredito que existem atualmente dois grandes impedimentos pra se usar AOP em 
 
 Segundo, AOSD não vai acabar com todos os seus problemas. É difícil pros programadores entenderem os conceitos e leva tempo pra comunidade desenvolver design patterns e entender o que tirar de melhor do paradigma. Pointcuts são atualmente regular expressions, então eles são frágeis e qualquer mudança de nome de um método pode fazer um pointcut não mais interceptar aquele método, e você não tem como perceber que isso aconteceu. Suporte de boas ferramentas é então essencial. Além disso, eu tenho dúvidas de que aspectos sejam bons pra modularizar concerns heterogêneos como "logging", que foi sempre um dos principais exemplos. O problema é que cada instância de logging é muito específica pro contexto, então não faz sentido você remover todas as chamadas de log e encapsular em um advice, pois o advice teria que ser diferente pra cada ponto que ele interceptasse. Controle de transações é homogêneo, pois o advice sempre faz a mesma coisa, então é um exemplo mais apropriado. Existem estudos que apontam que Mixin Layers são melhores pra concerns heterogêneos como logging, mas isso seria assunto para um outro post.
 
-==========================
-Nota no dia 5/11
+***
+*Nota no dia 5/11*
 
 Conversando com o Miguel eu acabei percebendo algo que talvez não tenha ficado muito claro. AspectJ é uma extensão de Java e precisa de um compilador especial que compila as classes como se fossem Java e depois analisa os aspectos do sistema e faz diretamente as modificações no código (ou introduz testes de tempo de execução quando não tem como verificar estaticamente o resultado). Esse último passo, "introduzir os aspectos", é chamado _weaving_.
 

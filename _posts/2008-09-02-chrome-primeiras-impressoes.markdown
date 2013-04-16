@@ -19,7 +19,7 @@ tags:
 
 **Por Patrice Lamiral**
 
-Está sendo uma semana agitada para o twitteiros de plantão.
+Está sendo uma semana agitada para os twitteiros de plantão.
 
 Primeiro veio o [blip.fm](http://blip.fm/) que é uma rádio customizada que você pode integrar em diversas plataformas de microblogging como twitter, pownce e Jaiku. Por essa eu passei ileso.
 
@@ -29,4 +29,4 @@ A pergunta que não quer calar: vou trocar o Firefox pelo Chrome? Por enquanto n
 
 Aposto que em breve eles lançarão um banco.
 
-**[Patrice Lamiral, além de leitor do log4dev, é marketeiro, entusiasta de novas tecnologias e mídias digitais e baixou o Chrome antes que muito computeiro por aí...** ]
+**Patrice Lamiral, além de leitor do log4dev, é marketeiro, entusiasta de novas tecnologias e mídias digitais e baixou o Chrome antes que muito computeiro por aí...**

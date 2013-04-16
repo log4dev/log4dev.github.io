@@ -15,7 +15,7 @@ tags:
 - Ruby
 ---
 
-O Soro [escreveu há um tempo atras](/2008/06/11/gerenciamento-pessoal/) sobre como conseguir motivação pra aprender algo novo, como uma linguagem de programação. Desde a primeira vez em que ouvi falar de Ruby, la em 2001, eu estou tentando achar algum jeito de aprender a linguagem, mas a procrastinação sempre fala mais alto. Acho que o único jeito que encontrei pra aprender uma nova linguagem é ter um projeto, alguma coisa prática de verdade, nem que seja algo meio sem sentido mesmo, só pra ter um objetivo concreto e ir aprendendo com as necessidades que vão surgindo. Como não tava tão inspirado pra criar um novo job4dev (que foi o "projetinho" do miguel), e estamos em tempos de Olimpíadas, eu resolvi aprender um pouco de Ruby escrevendo um programa pra gerar meus próprios quadros de medalhas.
+O Sorô [escreveu há um tempo atras](/2008/06/11/gerenciamento-pessoal/) sobre como conseguir motivação pra aprender algo novo, como uma linguagem de programação. Desde a primeira vez em que ouvi falar de Ruby, la em 2001, eu estou tentando achar algum jeito de aprender a linguagem, mas a procrastinação sempre fala mais alto. Acho que o único jeito que encontrei pra aprender uma nova linguagem é ter um projeto, alguma coisa prática de verdade, nem que seja algo meio sem sentido mesmo, só pra ter um objetivo concreto e ir aprendendo com as necessidades que vão surgindo. Como não tava tão inspirado pra criar um novo job4dev (que foi o "projetinho" do miguel), e estamos em tempos de Olimpíadas, eu resolvi aprender um pouco de Ruby escrevendo um programa pra gerar meus próprios quadros de medalhas.
 
 Eu sempre tive uma certa ressalva com esses quadros de medalhas olímpicos. Em geral eles colocam medalhas de ouro acima das de prata, e essas acima das de bronze. Isso faz com que um país que tenha uma mísera medalha de ouro fique na frente de um outro que tenha 10 de prata, o que eu acho meio que injusto. É claro que agora com os EUA perdendo da China nos ouros, a TV americana tá colocando o ranking baseado no total de medalhas. Mas daí você tá dizendo que uma medalha de prata vale o mesmo que uma de ouro, o que não é a verdade. Uma solução seria colocar pesos pra cada tipo de medalha.
 
@@ -32,20 +32,11 @@ O segundo passo seria conseguir informações sobre população. Eu achei um tal
 Finalmente, com todos os dados em arquivos, eu pude criar um outro programinha em Ruby pra analisar os dados e gerar meus rankings. Eh claro que como isso é just for fun, a interface deixa muito a desejar. Mas pra quem tiver interesse, alguns rankings que eu gerei estão [nesse diretório](http://bielsko.uwaterloo.ca/~ttonelli/rankings/). Eu atualizo os dados usando o parser uma vez por dia. Os cabeçalhos dos rankings descrevem o que foi usado pra gerar os"values" pras medalhas (counters) e pro valor total (aggregators) a partir do numero de medalhas, e por quais campos ordenar os países.
 
 Bom, lições aprendidas:
-
-
-
 	
-  * realmente o melhor jeito pra aprender uma linguagem de programação é usando. Eu não posso dizer que agora sou um programador Ruby, mas aprendi um monte de detalhes e foi bem melhor do que qualquer tutorial.
-
-	
-  * apesar de existir muita informação pela web, o mais chato (e difícil) é conseguir agregar a informação de varias fontes que em geral são "um pouquinho diferentes". Por exemplo, não teria como automatizar o matching dos nomes dos países em diferentes línguas, nem como programar a intuição de "somar as populações das colonias", a não ser que você tenha muito mais meta-informação, ou recorra a heurísticas.
-
-	
-  * a China nem é tao boa assim se a gente considerar o tamanho da população ;-)
-
-	
-  * o Brasil continua ruim, em qualquer ranking mais ou menos razoável que se faça.
+* realmente o melhor jeito pra aprender uma linguagem de programação é usando. Eu não posso dizer que agora sou um programador Ruby, mas aprendi um monte de detalhes e foi bem melhor do que qualquer tutorial.
+* apesar de existir muita informação pela web, o mais chato (e difícil) é conseguir agregar a informação de varias fontes que em geral são "um pouquinho diferentes". Por exemplo, não teria como automatizar o matching dos nomes dos países em diferentes línguas, nem como programar a intuição de "somar as populações das colonias", a não ser que você tenha muito mais meta-informação, ou recorra a heurísticas.
+* a China nem é tao boa assim se a gente considerar o tamanho da população ;-)
+* o Brasil continua ruim, em qualquer ranking mais ou menos razoável que se faça.
 
 
 O proximo passo seria aprender Ruby on Rails e fazer uma interface em que os usuarios pudessem escolher como fazer os rankings. Mas como eu teria que instalar outro servidor web e um banco de dados,  e eu to meio sem tempo, vai ter que ficar pra depois... e se interessar a alguem eu mando os dados.

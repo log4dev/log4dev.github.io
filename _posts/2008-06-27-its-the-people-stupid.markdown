@@ -15,7 +15,7 @@ Agora que eu estou morando bem longe do eixo São Paulo-Campinas, acho que posso
 
 Por quê? Primeiro, as 9 horas de vôo vão fazer com que o sujeito esfrie um pouco a cabeça. Segundo, ao chegar aqui o sujeito provavelmente vai querer aproveitar pra passar numa loja de eletrônicos e comprar um iPhone 3G baratinho, baratinho. Terceiro e mais importante: nerd bravinho e partindo pra briga é a coisa mais ridícula do mundo, _and I can take you all_.
 
-Mas vamos deixar de papo-furado e partir pra primeira de uma série de agressões verbais não-solicitadas:** a culpa é sua se o Brasil é um lugar tão difícil para fazer novos negócios, imbecil.**
+Mas vamos deixar de papo-furado e partir pra primeira de uma série de agressões verbais não-solicitadas:c**a culpa é sua se o Brasil é um lugar tão difícil para fazer novos negócios, imbecil**.
 
 É isso que eu estava pensando quando eu vi o post no [Pythonologia](http://www.pythonologia.org), sobre [a falta de inovação na web do Brasil](http://pythonologia.org/2008/06/26/porque-a-web-20-nao-engrena-no-brasil/). Não, a culpa não é do Osvaldo, longe disso. É sua mesmo, leitor, que está sentado no seu cubículo, reclamando da falta de oportunidades e do tanto que a empresa faz você trabalhar para garantir o seu salário "suado" do mês.
 
@@ -23,7 +23,7 @@ Mas vamos deixar de papo-furado e partir pra primeira de uma série de agressõe
 
 Sim, o governo é irresponsável e gasta erradamente as toneladas de recursos que arrecada através dos impostos. Sim, há muita burocracia. Sim, há pouco incentivo para querer trabalhar duro em um negócio próprio num país em que impera a Lei de Gérson. Sim, os custos de infra-estrutura no Brasil são absurdos. Sim, o ensino (básico e superior) no Brasil é uma lástima.
 
-Mas vou te contar uma coisinha: **nada disso importa mais, para quem não tem medo de arregaçar as mangas e mostrar sua capacidade para trabalhar e produzir riquezas.** Pior de tudo; [não é a primeira vez que eu digo isso](http://log4dev.com/2007/08/03/a-economia-digital/).
+Mas vou te contar uma coisinha: **nada disso importa mais, para quem não tem medo de arregaçar as mangas e mostrar sua capacidade para trabalhar e produzir riquezas**. Pior de tudo; [não é a primeira vez que eu digo isso](http://log4dev.com/2007/08/03/a-economia-digital/).
 
 Todas os problemas citados pelo Osvaldo existem realmente, mas podem muito bem ser evitados ou postergados. Na "web 2.0", podemos deixar a papelada de abertura da empresa pra depois que você tiver um fluxo de caixa significativo. Podemos contratar um datacenter no exterior (é o que nós fizemos)  e fugir dos planos ridículos aqui oferecidos.
 

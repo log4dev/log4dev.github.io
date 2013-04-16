@@ -14,8 +14,10 @@ tags:
 - Windows
 ---
 
-[youtube:http://www.youtube.com/watch?v=tGvHNNOLnCk]
+<iframe width="640" height="480" src="http://www.youtube.com/embed/tGvHNNOLnCk" frameborder="0">
+</iframe>
 
-[youtube:http://www.youtube.com/watch?v=wvsboPUjrGc]
+<iframe width="640" height="480" src="http://www.youtube.com/embed/wvsboPUjrGc" frameborder="0">
+</iframe>
 
 Uma palavra apenas: ridículo....
