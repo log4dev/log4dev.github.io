@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>Log4Dev</title>
+        <description>Log4Dev - Novo feed RSS</description>
+        <link>http://log4dev.com</link>
+        <link>http://log4dev.com</link>
+        <lastBuildDate>2013-04-16T04:56:13-07:00</lastBuildDate>
+        <pubDate>2013-04-16T04:56:13-07:00</pubDate>
+        <ttl>1800</ttl>
+        <item>
+                <title>O feed do Log4Dev est&aacute; de endere&ccedil;o novo.</title>
+                <description>O Log4Dev est&aacute de casa nova, e o feed RSS agora pode ser encontrago em http://log4dev.com/rss.xml. Atualize seus leitores de RSS!
+                </description>
+                <link></link>
+                <guid>http://log4dev.com/feed/</guid>
+                <pubDate>2013-04-16T00:00:00-07:00</pubDate>
+                <author>Miguel Galves</author>
+        </item>
+
+</channel>
+</rss>
