@@ -6,20 +6,12 @@ layout: post
 slug: e-agora-android
 title: E agora Android?
 wordpress_id: 330
-categories:
-- Idéias
-- Notícias
-- Opinião
 tags:
-- Adroid
-- Celulares
-- EPL
+- Android
 - Google
 - Nokia
 - Open Handset Alliance
 - Symbian
-- Symbian OS
-- tecnológias móveis
 ---
 
 Eu estava quase passando despercebido por uma notícia da semana retrasada. Parecia até uma notícia não muito relevante, mas pensando bem, achei que valia a pena comentar, já que este foi um assunto já discutido antes [aqui](http://log4dev.com/2007/11/06/pc-20/) neste blog.

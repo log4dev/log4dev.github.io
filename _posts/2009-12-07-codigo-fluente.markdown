@@ -7,10 +7,7 @@ slug: codigo-fluente
 title: Código fluente
 wordpress_id: 690
 categories:
-- Desenvolvimento
-- Opinião
 tags:
-- Comentários
 - Desenvolvimento
 - Linguagens de Programação
 - Qualidade de Software
