@@ -12,6 +12,7 @@ tags:
 - Apple
 - Hardware
 - Mac OS
+- Intel
 ---
 
 Revendo meus posts neste blog, percebi que não tem nada sobre Macs. Quem lê nem percebe que sou um macmaníaco de carteirinha, sempre tive macs em casa (um SE, um Performa, um iMac, um Powerbook 5300 e em breve um G4..ou intel...who knows !), e a idéia de ter um computador pessoal rodando algo que não seja Mac OS (sobretudo depois do X) me é totalmente desagradável.Mas antes tarde do que nunca. Eis o primeiro post....Depois da notícia da troca dos processadores IBM G5 por processadores Intel, a Apple acaba de lançar os primeiros iMacs com processadores Intel. Alguns sites relacionados:

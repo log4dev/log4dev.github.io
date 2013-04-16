@@ -8,6 +8,11 @@ title: A primeira linguagem de programação a gente nunca esquece
 wordpress_id: 41
 categories:
 - Desenvolvimento
+- Linguagens de Programação
+- Python
+- C
+- Java
+- Pascal
 ---
 
 O pergunta "Qual linguagem a linguagem mais apropriada para ensinar os fundamento de programação em um curso ce computação?" é um tópico de intensas discussões.Os quesitos técnicos se misturam a preferências pessoais, e a partir deste momento, a coisa pode ir longe (basta tomar como exemplo a famosa discussão de quem é melhor: Emacs ou VI...eu prefiro Emacs, simplesmente porque não posso conceber escrever em um editor de texto do qual eu nunca lembro o comando pra modo de edição e pra sair).O artigo [**A Very Quick Comparison of Popular Langauges for Teaching Computer Programming**](http://www.ariel.com.au/a/teaching-programming.html) faz uma pequena comparação entre Basic, C, Java e Python, mostrando pros e contras de cada linguagem para para aprendizagem de programação. No final, como era de se esperar, ele escolhe Python.

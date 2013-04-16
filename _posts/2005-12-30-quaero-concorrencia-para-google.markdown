@@ -10,6 +10,8 @@ tags:
 - Ferramentas
 - Mercado
 - Pesquisa
+- Google
+- Web
 ---
 
 A Europa tem feito um esforço bem grande nos últimos anos para criar sistemas e padrões próprios, em geral se contrapondo a Estados Unidos. Alguns exemplos:

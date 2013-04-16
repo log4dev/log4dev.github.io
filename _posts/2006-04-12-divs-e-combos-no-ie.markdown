@@ -12,6 +12,7 @@ tags:
 - Interfaces
 - Javascript
 - Web
+- IE
 ---
 
 Aposto que muitos desenvolvedores **Web** já tiveram o seguinte problema com **Internet Explorer**: criam um **DIV** (por exemplo, em um menu contextual, ou um tooltip), que aparece bonitinho na tela, mas que para seu desespero fica embaixo de uma caixa de seleção (o famoso combo box). O pior é quando se descobre isso um mês depois, quando um cliente resolve redimensionar a janela, e o combo box em questão vai parar no meio da área visível do **DIV**.

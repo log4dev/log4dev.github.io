@@ -8,6 +8,7 @@ title: Vida longa para os Macs
 wordpress_id: 53
 tags:
 - Mac OS
+- Apple
 ---
 
 Quem tem Macs em casa ou no trabalho sabe que são máquinas que aguentam o tranco por muito tempo. Além do mais, é sempre complicado se desfazer de um, porque em geral macmaníacos tem uma relação quase afetiva com suas máquinas (essa relação inclusive salvou a Apple muitas vezes...). Em casa, tudo começou com um [Mac SE](http://www.lowendmac.com/compact/se.shtml) , em 1989. Na época, tínhamos mouse e interface gráfica enquanto boa parte do mundo usava o DOS. Depois, tivemos um [Performa 6300](http://www.lowendmac.com/ppc/6300.shtml), que na época (1994) já estava ficando fora de linha. Também tivemos dois laptops: um [PowerBook 140](http://www.lowendmac.com/pb/140.shtml) e um [PowerBook 5300](http://www.lowendmac.com/pb2/5300.shtml). Hoje temos um iMac G3 e dois iBooks, e em breve, um MacBookPro.

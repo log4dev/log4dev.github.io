@@ -7,12 +7,8 @@ slug: icann-libera-criacao-de-dominios-de-topo
 title: ICANN libera criação de domínios de topo
 wordpress_id: 326
 categories:
-- Notícias
 tags:
 - DNS
-- domínios de topo
-- generic top-level domains
-- gTLD
 - IANA
 - ICANN
 - Internet

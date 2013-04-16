@@ -10,6 +10,7 @@ tags:
 - Ferramentas
 - Interfaces
 - Web
+- CSS
 ---
 
 Durante muito tempo, desenvolvimento de sites na internet era considerado trabalho de programador. Sim, porque saber "programar" em HTML era uma arte dominada por poucos.......Hoje em dia com o advento de aplicações Web complexas, existe um campo enorma para desenvolvedores mostrarem suas habilidades. Mas definitivamente, programação gráfica para Web agora é coisa levada a sério, e deve ser feita por quem realmente entende disso, ou seja, por designer gráficos.

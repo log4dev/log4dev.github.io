@@ -12,8 +12,7 @@ categories:
 tags:
 - Fedora
 - Linux
-- problemas
-- suporte
+- Suporte
 ---
 
 Há quase um ano atrás o Ricardo Capitanio, nosso colaborador esporádico (talvez tanto quanto os autores regulares deste blog ultimamente) , escreveu [aqui](http://log4dev.com/2008/03/05/para-que-facilitar-se-podemos-complicar/) um post interessante sobre como alguns desenvolvedores de software gostam de complicar coisas que eram simples.

@@ -8,6 +8,7 @@ title: Reuso de código….mal feito
 wordpress_id: 46
 categories:
 - Desenvolvimento
+- Engenharia de Software
 ---
 
 O vôo transcorria normalmente...o helicóptero de guerra parecia ser muito eficiente nas manobras....o piloto estava apreciando as paisagens australianas. De repente ao longe, o piloto observa uma manada de kangurus (é manada mesmo?). Resolve fazer um rasante para poder admirar de perto esses animais exóticos. Como esperado, os kangurus se assutam com o helicóptero, e correm (ou pulam) para detrás de um morro.Até aí, tudo normal.

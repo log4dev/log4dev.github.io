@@ -10,6 +10,7 @@ categories:
 - Desenvolvimento
 tags:
 - Python
+- Linguagens de Programação
 ---
 
 Recentemente comecei a ter um grande interesse por Python. Ainda não escrevi nenhuma linha de código...mas isso é questão de tempo. Por enquanto estou apenas lendo vário artigos sobre.

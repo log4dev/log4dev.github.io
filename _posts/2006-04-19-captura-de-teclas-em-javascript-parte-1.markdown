@@ -12,6 +12,7 @@ tags:
 - Interfaces
 - Javascript
 - Web
+- Ajax
 ---
 
 A sigla Web 2.0 tem sido muito utilizada recentemente. Talvez seja o nome mais marketeiro depois de AJAX. Aliás  Web 2.0 depende muito de AJAX. O fato é que softwares Web-based com comportamentos muito semelhantes à aplicações desktop tem pipocado pela internet, e com certeza os exemplos mais impressionantes e eficientes são os produtos lançados pela Google, como o Google Maps, Google Calendar, Google Reader, entre outros.  E de fato, o grande barato da Web  2.0 é tentar mudar o paradigma de uso da internet, tornando a experiência do usuário mais rica e interativa (detesto essa expressão "experiência rica", mas no momento não me veio nada mais apropriado), fazendo com que a web deixe de ser um conjunto de hipertextos, e passe a ser um conjunto de serviços.

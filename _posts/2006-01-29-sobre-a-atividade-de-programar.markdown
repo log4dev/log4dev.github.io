@@ -8,9 +8,12 @@ title: Sobre a atividade de programar
 wordpress_id: 42
 categories:
 - Desenvolvimento
+- Delphi
+- C++
+- Linguagens de Programação
 ---
 
-Antes de começar, gostaria de contar dois fatos que considero ilustrativos :Primeiro caso: Há alguns meses atrás, esta conversando com uma pessoa que se auto denominava programador. Lá pelas tantas, eu perguntei  quais as linguagens que ele programava e como era o curso dele. A resposta foi mais ou menos assim: "bom, lá na faculdade, primeiro a gente aprendeu lógica de programação em C++...era aquela tela azul, sem nenhum recurso...só na lógica. Depois aprendi lógica de programação em Delphi...era mais simples, com botões para fazer interfaces..."
+Antes de começar, gostaria de contar dois fatos que considero ilustrativos. Primeiro caso: Há alguns meses atrás, esta conversando com uma pessoa que se auto denominava programador. Lá pelas tantas, eu perguntei  quais as linguagens que ele programava e como era o curso dele. A resposta foi mais ou menos assim: "bom, lá na faculdade, primeiro a gente aprendeu lógica de programação em C++...era aquela tela azul, sem nenhum recurso...só na lógica. Depois aprendi lógica de programação em Delphi...era mais simples, com botões para fazer interfaces..."
 
 
 Segundo caso: há alguns dias, encontrei na casa de um amigo um curso rápido de Delphi, bastante antigo. Na introdução, após descrever em um parágrafo de 3 linhas a história do delphi (algo do gênero "criaram uma linguagem chamada pascal, e o delphi é a evolução do pascal...". Curto, sucinto, e absolutamente inútil), tinha a seguinte frase: "Abra a pasta X, execute o Delphi, e você estará pronto para iniciar sua carreira de programador".

@@ -8,6 +8,7 @@ title: Falando em usabilidade
 wordpress_id: 50
 tags:
 - Interfaces
+- Microsoft
 ---
 
 Aproveitando o tópico anterior sobre usabilidade, deixo aqui uma pergunta, porque perguntar não ofende: quem foi o engenheiro espertão da Microsoft que achou que era uma boa idéia traduzir atalhos do Office ??????? Eu penso absurdos da mãe dele sempre que eu faço **Ctrl + S** pra salvar um documento no Office aqui do trabalho, que é em português, e me aparece uma palavra **sublinhada**. Mais legal foi quando abri um Office em alemão e não consegui fazer absolutamente nada.Porque até onde eu sei, atalhos são feitos pra _heavy user_ poder ser mais produtivo no seu trabalho. E me corrijam se eu estiver errado, mas uma vez que você conhece os atalhos, não importa se você sabe a palavra que deu origem à letrinha que vem após o Ctrl, você simplesmente usa !

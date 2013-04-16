@@ -12,6 +12,8 @@ tags:
 - Javascript
 - Linguagens de Programação
 - Web
+- IE
+- Firefox
 ---
 
 Quem programa em **Java** sabe que operações de **concatenações** de **String** são muito mais eficientes utilizando **StringBuffer** e função **append** do que usando o comando _**String A = String B + String C**_.

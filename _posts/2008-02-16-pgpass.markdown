@@ -6,8 +6,6 @@ layout: post
 slug: pgpass
 title: .pgpass
 wordpress_id: 249
-categories:
-- Desenvolvimento
 tags:
 - Banco de Dados
 - Ferramentas

@@ -10,6 +10,7 @@ categories:
 - Desenvolvimento
 tags:
 - Java
+- Eclipse
 ---
 
 Há um tempo atrás eu pensei em escrever um post descrevendo o ambiente de desenvolvimento que eu uso para escrever aplicações Web em Java. Basicamente Eclipse+Tomcat+Ant. A idéia era fazer um passo a passo, explicando os motivos das esolhas, características e vantagens do setup utilizado. Confesso que nunca escrevi por pura preguiça. Mas hoje resolvi escrever algo sobre ambientes de desenvolvimento de forma mais genérica. Dedico ao meu colega Raphael, que vive dizendo que ama emacs, mas vira e mexe me pentelha porque não consegue trabalhar direito com Eclipse e Tomcat.

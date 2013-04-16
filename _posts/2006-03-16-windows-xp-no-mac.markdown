@@ -8,6 +8,9 @@ title: Windows XP no Mac
 wordpress_id: 52
 tags:
 - Mac OS
+- Windows
+- Microsoft
+- Intel
 ---
 
 Desde o lançamento dos novos Macs rodando processador Intel, duas grandes dúvidas pairaram no ar: será possível rodar Windows no Mac e Mac OS X em PCs ? (outras dúvidas ficaram no ar, mas para este post, estas duas são suficientes). Bom, a segunda dúvida acho que ainda não foi respondida...mas caso não tenham encontrado uma maneira de rdar Mac OS X em PCs, acho queé uma questão de tempo. A segunda foi respondida esta semana.Um usuário de Mac chamado Colin Nederkoorn propôs oferecer dinheiro a quem encontrasse uma forma de rodar Windows XP em um MacIntel, sendo que o requisito básico é que a solução encontrada permitisse um verdadeiro sistema de dual-boot na máquina. A oferta inicial era de $100, mas Nederkon criou um sistema de doações que permitiu que o prêmio chegasse a quase 14000 dólares.

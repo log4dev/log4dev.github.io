@@ -8,6 +8,11 @@ title: Formação contínua
 wordpress_id: 47
 tags:
 - Formação
+- Ruby
+- Python
+- Ajax
+- Google
+- Internet
 ---
 
 Suponha que você acabou de se formar em um curso superior de computação, já saiba programar em uma ou mais linguagens, tenha bons conhecimentos de algoritmos e está no mercado de trabalho, ganhando um salário interessante. Terminou por aí a fase de aprendizagem ? Não...está apenas começando.

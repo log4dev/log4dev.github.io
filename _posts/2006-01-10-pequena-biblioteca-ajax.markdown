@@ -12,6 +12,7 @@ tags:
 - Interfaces
 - Javascript
 - Web
+- Firefox
 ---
 
 Nas últimas semanas tenho desenvolvido muitas coisas usando  a técnica AJAX...digo técnica porque usar a palavra tecnologia neste caso não me parece apropriado. Mas isso é assunto pra outro tópico.Os resultados finais são bem interessantes e satisfatórios: as interfaces geradas com Javascript+XML+requisição assíncrona são bem mais próximas de desktop, leves e dinâmicas, e a comunicaçao entre navegador e servidor é feita de forma muito eficiente e rápida.

@@ -7,7 +7,7 @@ slug: portable-apps
 title: Portable Apps
 wordpress_id: 36
 tags:
-- Código Aberto
+- Software Livre
 - Ferramentas
 ---
 

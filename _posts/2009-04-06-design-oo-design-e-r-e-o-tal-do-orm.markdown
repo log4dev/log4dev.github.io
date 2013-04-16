@@ -14,6 +14,7 @@ tags:
 - Django
 - ER
 - ORM
+- Banco de Dados
 ---
 
 Vira e mexe aparece algum problema que pode ser um exercício interessante, um [Kata para programador](http://log4dev.com/2007/09/04/kata-para-programadores/) que eu gostaria de colocar aqui para ser analisado, discutido e implementado pelo pessoal que visita o blog. Além disso, tem algum tempo também que eu quero escrever sobre os conflitos entre o design Orientado a Objeto e o desenvolvimento de aplicações usando banco de dados relacionais, e sobre como as ferramentas que fazem ORM tentam, mas não conseguem resolver esse conflito de uma forma definitiva.

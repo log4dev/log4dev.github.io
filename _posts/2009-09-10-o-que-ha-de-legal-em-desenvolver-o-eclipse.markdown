@@ -6,13 +6,10 @@ layout: post
 slug: o-que-ha-de-legal-em-desenvolver-o-eclipse
 title: O que há de legal em desenvolver o Eclipse?
 wordpress_id: 637
-categories:
-- Desenvolvimento
 tags:
-- contribuir
 - Desenvolvimento
 - Eclipse
-- Open Source
+- Software Livre
 ---
 
 O que eu acho mais legal em desenvolver O Eclipse é que se a extensão que você idealizar e implementar for algo que você acha que pode ser útil para várias pessoas você tem a possibilidade de contribuir esta funcionalidade de volta para o Eclipse.

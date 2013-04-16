@@ -9,6 +9,8 @@ wordpress_id: 29
 tags:
 - Ferramentas
 - Web
+- Google
+- Email
 ---
 
 Este post é dedicado a Leo, Daniel, Jéssica e Tereza, que apesar de geeks assumidos, não sabiam nenhuma das dicas a seguir:

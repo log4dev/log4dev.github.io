@@ -9,6 +9,7 @@ wordpress_id: 14
 tags:
 - Interfaces
 - Web
+- CSS
 ---
 
 Um grande problema enfrentado por desenvolvedores de interfaces Web é a diferença muitas vezes sutil de interpretação de comandos CSS por parte dos navegadores. Um exemplo simples é a questão do tamanho de um div e de sua borda: um navegador (nunca lembro qual) considera que a borda deve ser considerada dentro do tamanho do DIV, utilizando o espaço interno (portanto, se for estipulado que um div tem tamanho 10px, ele terá 10px não importa o tamanho da borda..) e o outro considera que a borda deve ser adicionada externamente, preservando o espaço interno do DIV (portanto, se o div tiver 10px e a borda 2px, o tamanho total do componente será de 14px...).

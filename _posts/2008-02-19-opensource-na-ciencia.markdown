@@ -11,7 +11,7 @@ categories:
 tags:
 - Bioinformatica
 - Formação
-- Open Source
+- Software Livre
 - Pesquisa
 ---
 

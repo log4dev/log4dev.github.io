@@ -10,7 +10,8 @@ categories:
 - Desenvolvimento
 - Opinião
 tags:
-- BD
+- Base de Dados
+- Redes Sociais
 - Escalabilidade
 - Twitter
 ---

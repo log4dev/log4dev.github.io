@@ -10,12 +10,8 @@ categories:
 - Opinião
 - Tutorial
 tags:
-- aplicativo
-- associar
 - Fedora
 - Gnome
-- simplificar
-- tipo de arquivo
 ---
 
 Até para fazer um contraponto em relação aos meus dois artigos anteriores ([aqui](http://log4dev.com/2009/02/13/a-nova-ortografia-e-o-redesenho-de-software/) e [aqui](http://log4dev.com/2009/02/18/para-que-facilitar-se-podemos-complicar-2/)), é bom falar um pouco sobre as decisões corretas na evolução dos programas que vivenciei recentemente. Até porque o mundo não é feito só de erros, não é mesmo? O problema é que nós sempre guardamos mais na memória as coisas negativas. Ou, na verdade, as coisas positivas nem sempre são notadas, já que elas facilitam a nossa vida.

@@ -12,6 +12,7 @@ tags:
 - Ferramentas
 - Interfaces
 - Web
+- Java
 ---
 
 Num tópico anterior, eu falei sobre a biblioteca JFreeChart para criação de gráficos, e mencionei uma taglib chamada [Cewolf](http://cewolf.sourceforge.net/new/index.html) para inserir gráficos gerados pela JFreeChart em páginas JSP. Na época não havia utilizado a taglib em questão..mas nos últimos dias usei bastante, portanto me sinto no dever de relatar a experiência.A biblotece fornece tags que encapsulam o processo de criação de gráficos usando JFreechart. A idéia é boa, porque JFreeChart gera uma grande quantidade de gráficos muito bonitos, e a documentação não está disponível, tornando sua utilização um pouco mais trabalhosa, sobretudo quando os prazos de seu software estão estourando a muito tempo. Para funcionar, é necessário instalar bibliotecas para manipulação de SVG, e XML, além obviamente do próprio JFreechart.

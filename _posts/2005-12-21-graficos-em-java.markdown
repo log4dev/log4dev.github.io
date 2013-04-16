@@ -11,6 +11,8 @@ categories:
 tags:
 - Interfaces
 - Java
+- Linguagens
+- Software Livre
 ---
 
 A biblioteca [JFreeChart](http://www.jfree.org/jfreechart/index.php), do projeto [JFree.org](http://www.jfree.org/), cria gráficos de uma qualidade incrível, e permite gerar um número enorme de tipos de gráficos, com vários parâmetros configuráveis, além de permitir a exportação em vários formatos úteis. Outro ponto interessante é que foi desenvolvido uma biblioteca que permite integrar o JFreeChart ao código JSP, para geração de imagens para internet. Mas este ainda não usei.  Aconselho seu uso  caso  precise desenvolver uma aplicação que gere gráficos bonitos.

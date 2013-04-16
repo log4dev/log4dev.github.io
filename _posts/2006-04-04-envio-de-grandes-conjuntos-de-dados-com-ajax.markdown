@@ -12,6 +12,7 @@ tags:
 - Interfaces
 - Javascript
 - Web
+- Ajax
 ---
 
 Hoje, totalmente por acaso, descobri alguns macetes para **envio e recepção de grandes quantidades de dados** usando **requisições HTTP** assíncronas, como por exemplo textos. Estou trabalhando em um sistema que permite que o usuário cadastre pareceres sobre informações do sistema, e estes pareceres não tem limitação de tamanho.O sistema foi implementado com **AJAX**, para permitir que os pareceres sejam carregados dinâmicamente, e gravados assincronamente.

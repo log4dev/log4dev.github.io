@@ -10,7 +10,7 @@ categories:
 tags:
 - Brasil
 - Django
-- Open Source
+- Software Livre
 - Python
 ---
 

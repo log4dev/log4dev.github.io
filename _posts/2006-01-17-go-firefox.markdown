@@ -7,10 +7,10 @@ slug: go-firefox
 title: Go Firefox !
 wordpress_id: 38
 categories:
-- Notícias
 tags:
 - Mercado
 - Web
+- Firefox
 ---
 
 [Firefox hits 20 percent mark in Europe](http://arstechnica.com/news.ars/post/20060117-5995.html)
