@@ -8,7 +8,7 @@ title: '[Mac OS X] NeoOfficeJ'
 wordpress_id: 75
 tags:
 - Apple
-- Código Aberto
+- Software Livre
 - Mac OS
 ---
 

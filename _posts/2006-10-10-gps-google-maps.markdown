@@ -11,6 +11,7 @@ categories:
 tags:
 - Python
 - Web
+- Google
 ---
 
 O link a seguir mostra o site de um cara que desenvolveu um pequeno aplicativo em python de 40 linhas que recebe os dados de um GPS via porta serial e exibe as coordenadas no Google Maps. O código é bem simples.

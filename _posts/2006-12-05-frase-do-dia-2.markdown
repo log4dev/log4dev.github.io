@@ -10,6 +10,7 @@ tags:
 - Engenharia de Software
 - Linguagens de Programação
 - Qualidade de Software
+- C++
 ---
 
 _**"**__**There are just two kinds of languages: the ones everybody complains about and the ones nobody uses."**_ 

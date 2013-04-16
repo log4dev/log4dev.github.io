@@ -8,6 +8,7 @@ title: Redes e o futuro da computação
 wordpress_id: 77
 tags:
 - Redes
+- Internet
 ---
 
 Por Leonardo Garcia

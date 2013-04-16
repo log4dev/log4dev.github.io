@@ -12,6 +12,8 @@ tags:
 - Ferramentas
 - Java
 - Web
+- Google
+- Ajax
 ---
 
 A Google é uma das poucas empresas que eu conheço que consegue superar minhas espectativas a cada novo lançamento. É incrível a capacidade que eles tem de desenvolver produtos interessantes, e sobretudo a capacidade que eles tem de oferecer ferramentas de alto nível para desenvolvedores.

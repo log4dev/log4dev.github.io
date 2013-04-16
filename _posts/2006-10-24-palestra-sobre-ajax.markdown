@@ -10,6 +10,7 @@ tags:
 - Formação
 - Interfaces
 - Web
+- Ajax
 ---
 
 Em algumas horas, darei uma palestra na [Semana de Computação da UNESP/Rio Claro](http://www.rc.unesp.br/seccomp/local.php) sobre **AJAX**. Acho que vai ser uma experiência interessante. A quem puder se interessar pelo assunto, estou disponibilizando aqui os slides da palestra em PDF.

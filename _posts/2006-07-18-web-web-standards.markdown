@@ -11,6 +11,9 @@ categories:
 tags:
 - Qualidade de Software
 - Web
+- CSS
+- Javascript
+- HTML
 ---
 
 Em vários outros posts anteriores, eu comentei sobre a dificuldade de se desenvolver aplicativos web em CSS, Javascript e HTML que fossem totalmente compatíveis com todos os navegadores disponíveis.

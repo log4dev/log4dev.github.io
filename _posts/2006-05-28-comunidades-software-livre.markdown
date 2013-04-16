@@ -7,9 +7,8 @@ slug: comunidades-software-livre
 title: Comunidades Software Livre
 wordpress_id: 67
 categories:
-- Desenvolvimento
 tags:
-- Código Aberto
+- Software Livre
 ---
 
 Eu acho que em algum post antigo deste blog eu já reclamei da falta de documentação decente da maioria dos projetos de software livre. Até projetos do porte do Eclipse e jakarta-Apache são bem fracos nesta parte. A Jakarta fornece uma documentação geral bastante interessante, sobre conceitos dos sub projetos deles, e sobre instalação básica, quick install, etc... Mas  quando se precisa de detalhes de configuração e coisa mais profissionais, aí a documentação não dá conta (por exmplo: até hoje não consegui encontrar uma lista completa dos validadores disponíveis no struts, com sintaxe, parâmetros e coisas do gênero).

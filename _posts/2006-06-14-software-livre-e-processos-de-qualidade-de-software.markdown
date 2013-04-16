@@ -7,7 +7,7 @@ slug: software-livre-e-processos-de-qualidade-de-software
 title: Software livre e processos de qualidade de software
 wordpress_id: 70
 tags:
-- Código Aberto
+- Software Livre
 - Engenharia de Software
 - Qualidade de Software
 ---

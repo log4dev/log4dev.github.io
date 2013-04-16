@@ -10,6 +10,9 @@ tags:
 - Ferramentas
 - Linguagens de Programação
 - Linux
+- Perl
+- Python
+- Shell
 ---
 
 Nos últimos meses eu andei processando e extraindo dados  de algumas centenas de milhares de arquivos de genética. Na maioria dos casos eu uso Perl ou Python para fazer o processamento mais pesado e gerar arquivos de resumo...relatórios simplificados: em geral, um conjunto de colunas. Eu costumava fazer o processamento final desses  relatórios em programas de planilha como Excel ou OpenOffice. Mas  graças a alguns hackers jedi que trabalham comigo eu aprendi alguns truques velhos conhecidos dos usuários antigos de linux,  e antes de abrir esses programas, eu vejo se eu consigo extrair as informações   necessárias usando os programinhas utilitários do Shell do  Linux. É incrível a quantidade de pequenos utilitários de linha de comando que executam tarefas muito simples e que podem ser uma mão na roda (isso sem mencionar awk e sed..mas aí já complica). Como eu sou um mero iniciante na arte de processamento simples de texto em  shell, conheço apenas alguns que vou citar aqui. Se conhecer outros, let me know :-)
