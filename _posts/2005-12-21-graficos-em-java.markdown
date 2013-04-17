@@ -11,7 +11,7 @@ categories:
 tags:
 - Interfaces
 - Java
-- Linguagens
+- Linguagens de Programação
 - Software Livre
 ---
 
