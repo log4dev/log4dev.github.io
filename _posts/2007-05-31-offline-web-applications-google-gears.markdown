@@ -9,6 +9,7 @@ wordpress_id: 138
 tags:
 - Ferramentas
 - Web
+- Google
 ---
 
 A **Google** acabou de lançar uma nova API chamada  [Google Gears](http://code.google.com/apis/gears/). Esta é uma API  composta por três módulos:

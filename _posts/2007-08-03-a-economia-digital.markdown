@@ -10,8 +10,8 @@ categories:
 - Opinião
 tags:
 - Economia
-- mercado digital
-- trabalho
+- Mercado Digital
+- Startup
 ---
 
 Para todos os meus quatro leitores que sentiram a minha falta, peço desculpas. Eu tenho uma série de textos que precisam sair da minha pilha, mas estou constantemente esbarrando num problema: como explicar um conceito novo do qual quero tratar sem apresentar os princípios que estão por trás de tudo?

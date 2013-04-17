@@ -9,6 +9,7 @@ wordpress_id: 119
 tags:
 - C
 - Linguagens de Programação
+- Programação
 ---
 
 Segue uma lista de perguntas-pegadinhas sobre C.

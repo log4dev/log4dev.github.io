@@ -11,6 +11,8 @@ categories:
 - Negocios
 tags:
 - Startup
+- Mercado
+- Desenvolvimento
 ---
 
 A Alemanha está [anunciando](http://news.yahoo.com/s/ap/20070719/ap_on_hi_te/eu_germany_internet_research) com muita fanfarra que está investindo 165 milhões de Euros, com aprovação pela União Européia, num novo sistema de tecnologia de busca. O projeto ambiciona ser o melhor sistema de [busca](http://www.google.com) [multimídia](http://www.youtube.com) da Internet.

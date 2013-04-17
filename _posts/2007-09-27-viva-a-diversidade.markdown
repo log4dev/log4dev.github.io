@@ -8,6 +8,7 @@ title: Viva a diversidade!
 wordpress_id: 189
 tags:
 - Linguagens de Programação
+- Desenvolvimento
 ---
 
 Emacs vs Vi, Mac vs Windows vs Linux, Intel vs AMD, OO vs Funcional. Vários temas na Computação são capazes de gerar discussões intermináveis, exaltadas, quase religiosas. Mas atualmente, a que mais me irrita é a interminável discussão sobre qual a melhor linguagem de programação.

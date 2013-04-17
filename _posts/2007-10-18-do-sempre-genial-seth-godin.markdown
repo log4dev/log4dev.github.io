@@ -7,7 +7,7 @@ slug: do-sempre-genial-seth-godin
 title: Do sempre genial Seth Godin…
 wordpress_id: 196
 tags:
-- Uncategorized
+- Mercado
 ---
 
 Tá, tá... você é um computeiro e sua leitura favorita -  além do log4dev, claro - se resume a Java Magazine, Info Exame, aquele RSS que traz reportagens sobre o gadget que você tá louco para comprar ou outros textos onde você vai ter assunto para discutir no gtalk com outros geeks como você. Mesmo assim, eu vou te passar uma citação do [Seth Godin](http://sethgodin.typepad.com/), um blogger que já foi VP de Marketing do Yahoo. Trocando em miúdos, ele não é o cara que escreve o programa, mas é o cara que escreve a spec:

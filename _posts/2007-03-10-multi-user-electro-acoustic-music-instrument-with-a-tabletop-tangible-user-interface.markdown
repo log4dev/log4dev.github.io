@@ -22,11 +22,13 @@ O Reactable, definido pelos próprios autores como uma "multi-user electro-acous
 
 Vou postar aqui alguns vídeos que na minha opinião valem serem assistidos para entender completamente o conceito sendo explorado. O sistema é simples. Basicamente uma câmera posicionada abaixo de uma mesa que captura os objetos que são colocados em cima da mesa e os movimentos que são feitos nos objetos. O resto dos efeitos e controles é feito por luzes e por um sistema computacional de controle. Depois de mostrar os vídeos tento comentar alguma coisa em cima do que pode ser visto neles, mas, como vocês vão ver, nada melhor mesmo que os vídeos para explicar o Reactable.
 
-[youtube:http://www.youtube.com/v/Zodf6_YGujo]
+<center>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/Zodf6_YGujo?feature=player_detailpage" frameborder="0"></iframe>
 
-[youtube:http://www.youtube.com/v/0h-RhyopUmc]
+<iframe width="640" height="360" src="http://www.youtube.com/embed/0h-RhyopUmc?feature=player_detailpage" frameborder="0"></iframe>
 
-[youtube:http://www.youtube.com/v/MPG-LYoW27E]
+<iframe width="640" height="360" src="http://www.youtube.com/embed/MPG-LYoW27E?feature=player_detailpage" frameborder="0"></iframe>
+</center>
 
 Como se pode ver pelos vídeos, o Reactable é, antes de mais nada, um sintetizador musical, um instrumento musical. E desta forma, como se pode ver por uma simples busca na internet, já foi usado em algumas festas na Europra. Imagina um que um bom DJ não conseguiria fazer com uma interface destas? Além do show musical, certamente seria um show a parte as imagens da manipulação do Reactable.
 

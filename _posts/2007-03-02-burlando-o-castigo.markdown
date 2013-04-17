@@ -10,6 +10,8 @@ categories:
 - Humor
 tags:
 - Linguagens de Programação
+- Programação
+- Humor
 ---
 
 ..ou "Diferentes formas de se simplificar a tarefa de escrever 500 vezes na lousa 'Nunca mais irei jogar aviões de papel nos meus colegas' quando se é um geek".

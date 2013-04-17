@@ -12,6 +12,7 @@ tags:
 - Javascript
 - Linguagens de Programação
 - Web
+- Ajax
 ---
 
 Antes de mais nada, vamos ajustar certos conceitos.

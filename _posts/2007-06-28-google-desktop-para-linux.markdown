@@ -9,6 +9,9 @@ wordpress_id: 142
 tags:
 - Ferramentas
 - Linux
+- Google
+- Windows
+- Mac
 ---
 
 Muitos usuários de Windows e Mac já conhecem o **Google Desktop** - uma ferramenta que permite fazer buscas nos arquivos armazenados no seu computador (arquivos pdf, histórico da web, mails, etc ...). Além disto, nas suas últimas versões há a funcionalidade de uma barra lateral, onde você pode instalar diversos _**gadgets**_ (pequenas aplicações que variam desde leitores de notícias, até visualizador de fotos de seu Picasa, relógio, task lists ... - muito similar aos _**gadgets**_ que você pode instalar em seu _**iGoogle**_).  

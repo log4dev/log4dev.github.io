@@ -12,6 +12,7 @@ tags:
 - Sistemas Operacionais
 - Web
 - Windows
+- Ajax
 ---
 
 Baixei hoje para a minha máquina a **versão 1.0** do **Internet Explorer Developer Toolbar**. Parece ser bastante útil para **depuração de interfaces** em **aplicações web**. Pra ficar completo, em tempos de AJAX, falta um bom analisador de requisições assíncronas estilo FireBug.

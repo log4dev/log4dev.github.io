@@ -12,6 +12,7 @@ tags:
 - Javascript
 - Linguagens de Programação
 - Web
+- ECMAScript
 ---
 
 A [ECMA International](http://www.ecma-international.org/) é uma associação de industrias fundada em 1961 cujo propósito principal é criar padrões de tecnologia de informação e comunicação e de eletrônicos para consumidores.É esta associação que mantém a linguagem **ECMAScript**, conhecida também como** Javascript**.

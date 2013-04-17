@@ -11,6 +11,8 @@ tags:
 - Interfaces
 - Pesquisa
 - Video-games
+- Microsoft
+- Sony
 ---
 
 Sempre gostei de vídeo-games. Alias, lá no começo de tudo, a maior parte do tempo que eu passava na frente do [MSX](http://en.wikipedia.org/wiki/MSX) lá de casa era pra jogar. E continuou assim com meu primeiro PC (um [386 DX 40 MHz](http://en.wikipedia.org/wiki/Intel_80386)!). Entre o MSX e o 386 eu também tive um [Phantom System](http://pt.wikipedia.org/wiki/Phantom_System). Fantástico também (para a época)!

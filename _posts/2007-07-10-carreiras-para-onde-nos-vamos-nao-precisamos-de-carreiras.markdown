@@ -10,6 +10,7 @@ categories:
 - Negocios
 tags:
 - Startup
+- Mercado
 ---
 
 Então, você está aí, feliz no seu emprego. Ao invés de passar seus sábados no posto de gasolina tomando coca-cola com vodca barata, você já conversa com seus amigos pelo msn ou pelo celular sobre o "Happy Hour". Ao invés de fingir que estuda no laboratório da faculdade, você passa seus dias envolvido com sua atividade profissional. E todos sabemos qual é o dia-a-dia de um profissional: programar 20 linhas de código enquanto descansa após 6 horas de vídeos do YouTube. Isso que é vida!

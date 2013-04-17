@@ -8,6 +8,9 @@ title: Usando Regexp
 wordpress_id: 217
 categories:
 - Desenvolvimento
+- C++
+- C
+- Regexp
 ---
 
 Há menos de um mês atrás o Miguel escreveu um [post](http://log4dev.com/2007/11/19/regexp-nossa-de-cada-dia/) muito interessante sobre regexp. Como ele disse lá, expressões regulares são uma das ferramentas que devem fazer parte da caixinha de maldades de qualquer desenvolvedor. Concordo plenamente. O uso de expressões regulares não só deixa o código menor como mais inteligível também.

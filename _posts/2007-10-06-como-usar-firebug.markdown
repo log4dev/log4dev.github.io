@@ -10,6 +10,10 @@ tags:
 - Ferramentas
 - Google
 - Web
+- Firefox
+- CSS
+- HTML
+- Javascript
 ---
 
 Desenvolve interfaces web com CSS, HTML, Javascript e requisições assíncronas e não conhece o **Firebug**? Meus pêsames...

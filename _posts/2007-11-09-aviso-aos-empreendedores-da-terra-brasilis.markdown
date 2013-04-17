@@ -6,10 +6,9 @@ layout: post
 slug: aviso-aos-empreendedores-da-terra-brasilis
 title: Aviso aos empreendedores da Terra Brasilis
 wordpress_id: 207
-categories:
+tasgs:
 - Negocios
 - Notícias
-tags:
 - Mercado
 - Startup
 ---

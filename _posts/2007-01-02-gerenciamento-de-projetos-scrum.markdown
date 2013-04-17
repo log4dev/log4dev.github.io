@@ -8,6 +8,9 @@ title: Gerenciamento de projetos - SCRUM
 wordpress_id: 100
 tags:
 - Engenharia de Software
+- SCRUM
+- Desenvolvimento
+- Agile
 ---
 
 Com o objetivo de melhorar a produtividade da equipe com a qual trabalho, costumo sempre pesquisar acerca de temas em engenharia de software que nos ajude a superar nossas limitações - equipe pequena, pessoas inexperientes, mudanças constantes em projetos, excesso de demandas ... na última tentativa recai sobre o tema deste post - gerenciamento de projetos.

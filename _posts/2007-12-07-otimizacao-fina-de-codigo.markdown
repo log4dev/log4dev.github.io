@@ -7,7 +7,12 @@ slug: otimizacao-fina-de-codigo
 title: Otimização fina de código
 wordpress_id: 10
 tags:
-- Uncategorized
+- Engenharia de Software
+- Linguagens de Programação
+- Python
+- Ruby
+- Java
+- C
 ---
 
 Há um tempo atrás num [post](http://log4dev.com/2007/09/27/viva-a-diversidade/) polêmico do Miguel (ando falando demais no passado né? mas tem coisas que não dá pra deixar passar...) o Raphael escreveu um comentário que me incomodou:

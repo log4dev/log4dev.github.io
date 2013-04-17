@@ -10,6 +10,8 @@ wordpress_id: 232
 categories:
 - Desenvolvimento
 - Tutorial
+- Python
+- Web
 ---
 
 Já falei muito. Vamos começar?

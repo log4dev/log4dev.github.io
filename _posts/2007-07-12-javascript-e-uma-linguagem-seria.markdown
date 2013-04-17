@@ -10,6 +10,11 @@ categories:
 - Desenvolvimento
 tags:
 - Javascript
+- Desenvolvimento
+- HTML
+- Web
+- PHP
+- Perl
 ---
 
 Juro que eu gostaria de ter encontrado um título melhor para este post, mas não consegui. Pelo menos ele tem o mérito de ser conciso.  Vamos ao que interessa...

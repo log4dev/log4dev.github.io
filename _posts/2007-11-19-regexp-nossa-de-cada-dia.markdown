@@ -11,6 +11,7 @@ categories:
 tags:
 - Ferramentas
 - Web
+- Regexp
 ---
 
 Um professor da Unicamp com quem fiz 3 cursos sempre dizia que cada desenvolvedor deve possuir a sua caixinha de maldades. E por maldades, entenda ferramentas aplicáveis no dia a dia. Eu tenho algumas que considero indispensáveis para qualquer desenvolvedor. **Expressão regular** é uma delas. Aprender a sintaxe e usar corretamente **regexp** podeser complicado no início, mas o esforço vale a pena.

@@ -7,11 +7,12 @@ slug: otimizacao-madura
 title: Otimização “madura”
 wordpress_id: 199
 categories:
-- Desenvolvimento
-- Design
+
 tags:
 - Engenharia de Software
 - Qualidade de Software
+- Desenvolvimento
+- Design
 ---
 
 Aconselho a leitura do artigo [Mature Optimization](http://cowboyprogramming.com/2007/01/04/mature-optimization-2/), escrito por Mick West.

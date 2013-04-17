@@ -10,6 +10,7 @@ categories:
 - Negocios
 tags:
 - Qualidade de Software
+- Mercado
 ---
 
 Carlinhos é um programador mediano, morador da cidade de Sampa. Se formou em uma universidade longe de estar na lista das melhores do país, estado ou da cidade. Foi contratado pela empresa ACME.com como trainee. No começo, seus superiores o achavam bastante fraco, com muitas falhas de formação e pouca prática de desenvolvimento de software. Com o tempo, e graças a uma boa ajuda dos colegas e muita boa vontade e esforço, Carlinhos foi evoluindo e  se tornando  importante para o projeto.
