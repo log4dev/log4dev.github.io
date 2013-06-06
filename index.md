@@ -34,7 +34,7 @@ tagline:
     </div>
 
     <div style="float:left;">
-        <bold><a href="{{BASE_PATH}}{{ post.url }}#disqus_thread" {% if post.wordpress_id %}data-disqus-identifier="{{post.wordpress_id}} {{site.production_url}}/?p={{post.wordpress_id}}"{% endif %}>Comentários</a></bold>
+        <bold><a href="{{BASE_PATH}}{{ post.url }}#disqus_thread" data-disqus-identifier={% if post.wordpress_id %}"{{post.wordpress_id}} {{site.production_url}}/?p={{post.wordpress_id}}"{% else %}"{{post.date|date: "%Y%m%d"}}_{{post.slug}}"{% endif %}>Comentários</a></bold>
     </div>
 </div>
 
