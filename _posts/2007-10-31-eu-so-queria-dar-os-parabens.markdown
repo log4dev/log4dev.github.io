@@ -7,7 +7,6 @@ slug: eu-so-queria-dar-os-parabens
 title: Eu só queria dar os parabéns…
 wordpress_id: 203
 tags:
-- Uncategorized
 ---
 
 aos colabadores e leitores assíduos do blog. O mês está encerrando, e o blog passou a marca de 6000 acessos em Outubro.

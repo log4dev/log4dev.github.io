@@ -10,7 +10,6 @@ categories:
 - Opinião
 tags:
 - instant message
-- trabalho
 ---
 
 Outro dia eu tive que ir ao banco. Isto já é um negócio que eu não gosto muito. Porque em geral o atendimento é demorado e não é muito bom.

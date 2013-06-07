@@ -10,7 +10,6 @@ tags:
 - Apple
 - Ferramentas
 - Mac
-- OS
 ---
 
 Descobri um comando hoje que pode ser útil em scripts bash: é possível acessar a àrea de transferência do OS X através do bash usando o comando pbcopy.

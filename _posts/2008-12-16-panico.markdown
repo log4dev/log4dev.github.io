@@ -9,7 +9,6 @@ wordpress_id: 380
 tags:
 - Apple
 - Mac
-- OS
 ---
 
 Muitos diziam que existia, mas ninguém nunca tinha visto de fato. É um evento raro, que aconteceu comigo ontem pela primeira vez em 8 anos de OS X. Me dói muito falar isso, mas é dever deste blog mostrar uma foto raríssima de um **KERNEL PANIC no Mac**.

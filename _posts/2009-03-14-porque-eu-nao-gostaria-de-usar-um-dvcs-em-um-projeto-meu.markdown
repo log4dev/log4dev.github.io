@@ -11,11 +11,11 @@ categories:
 - Ferramentas
 - Opinião
 tags:
-- confiança
 - Controle de versão
-- dvcs
-- git
+- DVCS
+- Git
 - SVN
+- Ferramentas
 ---
 
 Há quase um ano atrás (confesso que não imaginava que era há tanto tempo), o Raphael falou [aqui](http://log4dev.com/2008/04/22/o-que-tem-de-tao-legal-em-usar-um-dvcs/) sobre o que há de legal em se usar um dvcs. É óbvio que as vantagens existem. Não vou nem tentar discordar disso. Mas queria compartilhar uma experiência, ainda que curta, que tive recentemente.

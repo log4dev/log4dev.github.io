@@ -9,10 +9,7 @@ wordpress_id: 481
 categories:
 - Protocolo
 tags:
-- anexo
-- e-mail
-- mensagem
-- partida
+- Email
 - Protocolo
 - SMTP
 ---
