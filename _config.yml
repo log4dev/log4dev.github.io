@@ -22,15 +22,21 @@ authors:
     name: Raphael Lullis
     email: lullis@gmail.com
     github: lullis
+    twitter : rlullis
   tganzarolli:
     name: Thiago Ganzarolli
     github: tganzarolli
+    twitter: tganzarolli
   alexandre:
     name: Alexandre Barbosa
+    twitter: acbarbosa
   laggarcia:
     name: Leonardo Garcia
   bart:
     name: Thiago Bartolomei
+  dcassiano:
+    name: Daniel Cassiano
+    twitter: danielcassiano
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
