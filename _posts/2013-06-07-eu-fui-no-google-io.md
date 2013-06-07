@@ -40,6 +40,10 @@ Já estão disponíveis todas as sessions no canal dos [Developers no YouTube](h
 
 Tive a oportunidade de testar o __Google Glass__ e devo dizer: é sensacional! Não tive tempo suficiente para explorar porém foi altamente entusiasmante experimentar a tecnologia. Existem diversos vídeos no YouTube porém nunca se sabe o que é real o que é uma paródia. Fato é que o _trem_* funciona muito bem e dá outro nível de possibilidades ao dia-a-dia. Como haviam desenvolvedores que já estavam com os seus (2 mil "sortudos" residentes nos EUA que se cadastraram no I/O do ano passado ganharam um), era possível ver pessoas andando nas ruas próximas ao evento interagindo com o Glass, dando comandos de voz. Foi uma sensação de Jetsons ao extremo!
 
+<div style="text-align: center;" markdown="1">
+    ![]({{BASE_PATH}}/images/cassiano_google_glass.png)
+</div>
+
 Podemos dizer que o foco do evento foi mostrar que o Google quer consolidar suas plataformas e dispositivos e que estavam trabalhando há muito tempo em novas features. Estão atacando mercados recém abertos e explorados por outras marcas como o Instagram e o Spotify e trazendo grande evolução aos seus produtos já lançados. Só agora estão fazendo uso da infinidade de dados que coletam/processam com o Knowledge Graph o que nos deixa curiosos com o que está por vir. O Android é uma realidade, o Glass uma excitante incógnita e Chrome OS algo que talvez esteja uns 5 ou 10 anos adiantado. Estão mais fortes do que nunca, inovando como sempre.
 
 __*Trem: termo genérico utilizado por pessoas oriundas do estado de Minas Gerais para falar de absolutamente qualquer coisa.
