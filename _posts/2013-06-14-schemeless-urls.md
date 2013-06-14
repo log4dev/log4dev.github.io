@@ -11,7 +11,7 @@ tags: [Web, Desenvolvimento, HTML]
 ---
 {% include JB/setup %}
 
-Descobri esta semana a existência dos schemeless URIs, endereços sem a definição do protocolo (HTTP ou HTTPS). Já tinha esbarrado com os dito-cujos no CDN do Google, cação bibliotecas JS. Os mais atentos já notaram que os códigos de embed são sempre no formato
+Descobri esta semana a existência dos schemeless URIs, endereços sem a definição do protocolo (HTTP ou HTTPS). Já tinha esbarrado com os dito-cujos no CDN do Google, caçando bibliotecas JS. Os mais atentos já notaram que os códigos de embed são sempre no formato
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
 
@@ -33,7 +33,7 @@ Se eu acessar
 
 o navegador irá acessar 
 
-    http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js 
+    https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js 
 
 Se eu acessar 
 
