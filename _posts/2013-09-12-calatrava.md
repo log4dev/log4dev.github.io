@@ -7,12 +7,11 @@ comments: true
 date: 2013-09-12
 description: ""
 category: 
-tags: [Mobile]
+tags: [Mobile, iOS, Android]
 ---
 {% include JB/setup %}
 
 A questão da experiência do usuário (UX) tem se tornado cada vez mais importante no desenvolvimento de aplicações, em especial no mundo das aplicações móveis, em função das limitações físicas dos dispositivos, e das especificidades de cada plataforma. Idealmente, desenvolver uma aplicação nativa para cada plataforma seria a melhor solução, pois pode-se assim entregar ao usuário a melhor experiência de acordo com os padrões definidos para o seu dispositivo. No entanto, isto implicaria em um alto investimento em desenvolvimento. Neste instante, passamos a pensar em alternativas para reduzir este investimento.
-
 
 [Calatrava](http://calatrava.github.io/) é um _framework_ que se apresenta como uma destas alternativas (ao menos quando se pensa em _iOS_, _Android_ e _Web Mobile_). Diferente de outros _"cross platform frameworks"_ como [PhoneGap](http://phonegapcom) que substitui o poder das interfaces nativas por interfaces _web_, **Calatrava** permite que você desenvolva a lógica de sua aplicação em _JavaScript_, e então a compartilhe entre as diversas plataformas.
 
