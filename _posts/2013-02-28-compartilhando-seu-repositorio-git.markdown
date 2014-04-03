@@ -16,7 +16,7 @@ Basicamente este comando permite que outros se conectem ao seu repositório part
 
 As alternativas com o Git seria criar um patch e enviar ao seu parceiro, ou criar um branch no repositório central. Nestes momentos, sempre me lembrava com nostalgia do Mercurial. Mas agora descobri que é possível fazer algo similar com o Git:
 
-**git daemon --reuseaddr --base-path=. --export-all --verbose**
+    git daemon --reuseaddr --base-path=. --export-all --verbose ./.git
 
 Executando este comando em seu repositório local irá permitir que outros o acessem da mesma forma que fazemos usualmente com o repositório central. Basta que os interessados adicionem sua máquina com um repositório remoto ( **git remote add** ).
 
