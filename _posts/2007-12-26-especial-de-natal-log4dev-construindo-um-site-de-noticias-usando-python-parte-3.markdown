@@ -64,33 +64,13 @@ As 8 linhas abaixo fazem isso.
 
     
     import web
-
-
-
-    
     urls = (
-
-
-
-    
         '/(.*)', 'index'
-    
     )
-
-
-
     
     class index:
-
-
-
-    
         def GET(self, resource):
-    
             print "Hello, dude. Are you really trying to GET /%s?" % resource
-
-
-
     
     if __name__ == '__main__': web.run(urls, globals())
 
@@ -127,19 +107,9 @@ Vamos começar por aí, então. Vamos criar uma página onde o usuário preenche
 
     
     CREATE TABLE Link (
-
-
-
-    
     	id serial PRIMARY KEY,
-    
     	url varchar(512) NOT NULL,
-    
     	date_published timestamp NOT NULL DEFAULT NOW()
-
-
-
-    
     );
 
 
