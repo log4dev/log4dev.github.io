@@ -1,4 +1,6 @@
 ---
+theme:
+  name: twitter
 author: alexandre
 comments: true
 date: 2008-02-27 16:58:47

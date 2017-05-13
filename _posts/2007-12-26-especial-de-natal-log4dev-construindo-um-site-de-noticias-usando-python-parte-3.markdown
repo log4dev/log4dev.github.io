@@ -1,4 +1,6 @@
 ---
+theme:
+  name: twitter
 author: lullis
 comments: true
 date: 2007-12-26 02:58:06

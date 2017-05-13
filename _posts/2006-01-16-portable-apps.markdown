@@ -1,4 +1,6 @@
 ---
+theme:
+  name: twitter
 author: mgalves
 comments: true
 date: 2006-01-16 12:39:33

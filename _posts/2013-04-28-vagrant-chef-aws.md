@@ -1,4 +1,6 @@
 ---
+theme:
+  name: twitter
 author: mgalves
 layout: post
 title: "Vagrant + Chef + AWS"

@@ -1,4 +1,6 @@
 ---
+theme:
+  name: twitter
 author: laggarcia
 comments: true
 date: 2008-08-27 23:01:14

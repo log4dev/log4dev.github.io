@@ -1,4 +1,6 @@
 ---
+theme:
+  name: twitter
 author: dcassiano
 layout: post
 title: "Eu fui no Google I/O 2013"

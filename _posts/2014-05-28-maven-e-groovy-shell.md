@@ -1,4 +1,6 @@
 ---
+theme:
+  name: twitter
 author: alexandre
 layout: post
 title: "REPL para Java com Groovy Shell em projetos Maven"

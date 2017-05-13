@@ -1,4 +1,6 @@
 ---
+theme:
+  name: twitter
 author: mgalves
 layout: post
 title: "DevOps, NoOps. Afinal, que raios é isso?"

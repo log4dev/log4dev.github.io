@@ -1,4 +1,6 @@
 ---
+theme:
+  name: twitter
 author: alexandre
 layout: post
 title: "Calatrava"

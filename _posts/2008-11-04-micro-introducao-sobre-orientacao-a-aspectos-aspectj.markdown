@@ -1,4 +1,6 @@
 ---
+theme:
+  name: twitter
 author: bart
 comments: true
 date: 2008-11-04 21:28:55

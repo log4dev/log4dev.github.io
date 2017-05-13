@@ -1,4 +1,6 @@
 ---
+theme:
+  name: twitter
 author: tganzarolli
 comments: true
 date: 2012-07-22 17:57:12
