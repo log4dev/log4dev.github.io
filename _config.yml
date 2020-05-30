@@ -2,7 +2,7 @@
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:year/:month/:day/:title 
 
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".ruby-version", ".ruby-gemset"]
 auto: true
 highlighter: "pygments"
 
@@ -11,7 +11,7 @@ highlighter: "pygments"
 # so be sure to set them if your theme uses them.
 #
 title : Log4Dev
-tagline: Technologia, Cultura, Empreemdedorismo, Inovacao e algo mais.
+tagline: Tecnologia, Cultura, Empreendedorismo, Inovação e algo mais.
 authors:
   mgalves:
     name : Miguel Galves
@@ -30,6 +30,7 @@ authors:
   alexandre:
     name: Alexandre Barbosa
     twitter: acbarbosa
+    github: acbarbosa
   laggarcia:
     name: Leonardo Garcia
   bart:
@@ -46,7 +47,7 @@ authors:
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://log4dev.com
+production_url : log4dev.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -75,7 +76,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : http://log4dev.github.io/log4dev.com
+  BASE_PATH : http://log4dev.github.io
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
