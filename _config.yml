@@ -3,9 +3,8 @@
 permalink: /:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".ruby-version", ".ruby-gemset"]
-auto: true
-highlighter: "pygments"
-
+highlighter: "rouge"
+url: "http://log4dev.github.io/"
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
