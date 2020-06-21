@@ -1,46 +1,37 @@
-# Jekyll-Bootstrap
+# Log4dev
 
-The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
+This is the repository for our blog. It runs over [Github Pages](https://pages.github.com/), using [Jekyll](https://jekyllrb.com/) as it's engine.
 
-## Usage
+## Configuring your development environment
 
-For all usage and documentation please see: <http://jekyllbootstrap.com>
+You can choose between two options: [Host]() or [Docker]().
 
-## Version
+### Host configuration
+The easiest way to configure the development environment on your machine is to use [RVM](https://rvm.io/). If you don't have it, [follow RVM's installation instructions](https://rvm.io/rvm/install). Once you have RVM properly installed, then you just need to execute on the project's root folder:
 
-0.3.0 - stable and versioned using [semantic versioning](http://semver.org/).
+```sh
+$ rvm use
+$ bundle install
+```
 
-**NOTE:** 0.3.0 introduces a new theme which is not backwards compatible in the sense it won't _look_ like the old version.
-However, the actual API has not changed at all.
-You might want to run 0.3.0 in a branch to make sure you are ok with the theme design changes.
+If you don't have the proper ruby version installed on RVM, it'll ask you to install it. Follow all instructions that shows up, and make sure you are able to execute both instructions above with no errors. Once you managed to do it, run jekyll's server:
 
-## Contributing 
+```sh
+$ jekyll server
+```
 
-This repository tracks 2 projects:
+This will compile and serve the blog, and then you'll be able to see it on *http://localhost:4000*.
 
-- **Jekyll-Bootstrap Framework.**  
-  The framework for which users should clone and build their blog on top of is available in the master branch.
-  
-  To contribute to the framework please make sure to checkout your branch based on `jb-development`!!
-  This is very important as it allows me to accept your pull request without having to publish a public version release.
-  
-  Small, atomic Features, bugs, etc.   
-  Use the `jb-development` branch but note it will likely change fast as pull requests are accepted.   
-  Please rebase as often as possible when working.   
-  Work on small, atomic features/bugs to avoid upstream commits affecting/breaking your development work.
-  
-  For Big Features or major API extensions/edits:   
-  This is the one case where I'll accept pull-requests based off the master branch.
-  This allows you to work in isolation but it means I'll have to manually merge your work into the next public release.
-  Translation : it might take a bit longer so please be patient! (but sincerely thank you).
- 
-- **Jekyll-Bootstrap Documentation Website.**    
-  The documentation website at <http://jekyllbootstrap.com> is maintained in the gh-pages branch.
-  Please fork and contribute documentation additions to this branch only.
+### Docker configuration
+Alternatively you can use docker to run the blog, avoiding the need to install anything on your machine (other than Docker). If you have Docker installed, build the docker image:
 
-The master and gh-pages branch do not share the same ancestry. Please treat them as completely separate git repositories!
+```sh
+$ docker build -t . log4dev.com
+```
 
+If the image was successfully built, then you can run the blog:
 
-## License
+```sh
+$ docker run --rm -it -p 4000:4000 -v $PWD:/usr/src/app log4dev.com
+```
 
-[MIT](http://opensource.org/licenses/MIT)
